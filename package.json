@@ -1,0 +1,14 @@
+{
+  "name": "decoy-school",
+  "version": "1.0.0",
+  "description": "Decoy School website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Ball",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
