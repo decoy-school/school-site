@@ -13,11 +13,11 @@ links:
   - text: Privacy Notice
     address: /uploads/privacy-notice.pdf
   - text: Pupil Premium Information
-    address: /information/pupil-premium
+    address: /information/pupil-premium-information
   - text: School Performance Tables
     address: https://www.compare-school-performance.service.gov.uk/school/113209decoy-primary-school)
   - text: SEND Information
-    address: /information/send
+    address: /information/send-information
   - text: Sports Grant Report
     address: /uploads/sports-grant-report-2017-18.pdf
   - text: Term Dates

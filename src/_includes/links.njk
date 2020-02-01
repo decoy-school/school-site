@@ -1,6 +1,7 @@
 {% extends "./layout.njk" %}
 
-{% block main %}
+{% block pagecontent %}
+<main>
   <h1>{{title}}</h1>
   {{content | safe}}
   <ul>
@@ -10,4 +11,5 @@
   </li>
   {% endfor %}
   </ul>
+ </main>
 {% endblock %}

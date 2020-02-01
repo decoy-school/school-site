@@ -1,5 +1,6 @@
 ---
 title: "Home"
+layout: "homepage.njk"
 permalink: "index.html"
 ---
 
