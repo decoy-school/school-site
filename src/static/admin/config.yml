@@ -1,0 +1,153 @@
+backend:
+  name: git-gateway
+  branch: master
+
+# display_url: https://elegant-lichterman-cc3ce6.netlify.com
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - label: "Main Pages"
+    name: main-pages
+    files:
+      - label: "Home Page"
+        name: index
+        file: src/content/index.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: banner, name: banner, widget: image }
+          - { label: body, name: body, widget: markdown }
+      - label: "404"
+        name: "404"
+        file: src/content/404.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: table of contents, name: toc, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+      - label: "About Us"
+        name: about-us
+        file: src/content/about-us.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: table of contents, name: toc, widget: hidden }
+          - { label: searchable, name: searchable, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+          - label: links
+            name: links
+            widget: list
+            fields:
+              - { label: text, name: text, widget: string }
+              - { label: address, name: address, widget: string }
+      - label: "Contact"
+        name: contact
+        file: src/content/contact.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: table of contents, name: toc, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+      - label: "Information"
+        name: information
+        file: src/content/information.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: table of contents, name: toc, widget: hidden }
+          - { label: searchable, name: searchable, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+          - label: links
+            name: links
+            widget: list
+            fields:
+              - { label: text, name: text, widget: string }
+              - { label: address, name: address, widget: string }
+      - label: "Parents"
+        name: parents
+        file: src/content/parents.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: template, name: template, widget: hidden }
+          - { label: table of contents, name: toc, widget: hidden }
+          - { label: searchable, name: searchable, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+          - label: links
+            name: links
+            widget: list
+            fields:
+              - { label: text, name: text, widget: string }
+              - { label: address, name: address, widget: string }
+  - name: about-us
+    label: about-us
+    folder: src/content/about-us
+    create: false
+    filter: { field: template, value: default }
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: false }
+      - { label: body, name: body, widget: markdown }
+  - name: people
+    label: people
+    folder: src/content/about-us
+    create: false
+    filter: { field: template, value: grid-page }
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: false }
+      - { label: body, name: body, widget: markdown }
+      - label: people
+        name: people
+        widget: list
+        fields:
+          - { label: Description, name: description, widget: string }
+          - { label: Picture, name: picture, widget: image }
+  - name: information
+    label: information
+    folder: src/content/information
+    filter: { field: template, value: default }
+    create: false
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: false }
+      - { label: body, name: body, widget: markdown }
+  - name: policies
+    label: policies
+    folder: src/content/information
+    filter: { field: template, value: link-page }
+    create: false
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: false }
+      - label: links
+        name: links
+        widget: list
+        fields:
+          - { label: text, name: text, widget: string }
+          - { label: address, name: address, widget: string }
+      - { label: body, name: body, widget: markdown }
+      - { label: searchable, name: searchable, widget: boolean, default: false }
+  - name: parents
+    label: parents
+    folder: src/content/parents
+    create: false
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: false }
+      - { label: body, name: body, widget: markdown }
+  - name: year groups
+    label: year groups
+    folder: src/content/year-groups
+    create: false
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: template, name: template, widget: hidden }
+      - { label: table of contents, name: toc, widget: boolean, default: true }
+      - { label: body, name: body, widget: markdown }

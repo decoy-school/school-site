@@ -17,7 +17,7 @@ At Decoy we can offer, subject to availability, up to fifteen hours, using your 
 
 You can also request additional hours that will be charged at a rate of £4 an hour.
 
-Nursery children can also access breakfast and after school clubs. If this is something you are interested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
+Nursery children can also access breakfast and after school clubs. If this is something you are interested in, please visit our [nursery page][6] or contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. We very much hope this will help our busy families as this gives the option of longer sessions and whole day provision.
 
 For more information on Nursery Admissions please click [here][1].
 
@@ -38,6 +38,7 @@ In addition, any child registered to our nursery is eligible to use our Breakfas
 
 If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator) on <a href='tel:+441626353282'>01626 353 282</a> or via <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
 
+[6]: /parents/first-steps-nursery
 [1]: https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKSGFZeWRwLUlyRHM&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU
 [2]: ../extended-schools-admissions
 [3]: https://drive.google.com/open?id=0B76W__U5CTntSUhiNVZqNmxucFU

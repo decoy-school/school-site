@@ -21,6 +21,6 @@ For information regarding admissions to our First Steps Nursery, please visit ou
 Information regarding admissions to our Breakfast & After School Clubs can be found [here][3].
 
 [1]: http://www.devon.gov.uk/admissionsonline
-[2]: /parents/nursery
-[3]: /parents/basc
+[2]: /parents/first-steps-nursery
+[3]: /parents/breakfast-and-after-school-club
 [5]: https://drive.google.com/file/d/0B76W__U5CTntVWlURk51SEpkWHc/view?usp=sharing
