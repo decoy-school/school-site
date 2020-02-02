@@ -16,25 +16,27 @@ collections:
         file: src/main-pages/index.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: banner, name: banner, widget: image }
+          - { label: layout, name: layout, widget: hidden }
+          - { label: permalink, name: permalink, widget: hidden }
           - { label: body, name: body, widget: markdown }
       - label: "404"
         name: "404"
         file: src/main-pages/404.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: table of contents, name: toc, widget: hidden }
+          - { label: permalink, name: permalink, widget: hidden }
+          - {
+              label: eleventyExcludeFromCollections,
+              name: eleventyExcludeFromCollections,
+              widget: hidden,
+            }
           - { label: body, name: body, widget: markdown }
       - label: "About Us"
         name: about-us
         file: src/main-pages/about-us.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: table of contents, name: toc, widget: hidden }
-          - { label: searchable, name: searchable, widget: hidden }
+          - { label: layout, name: layout, widget: hidden }
           - { label: body, name: body, widget: markdown }
           - label: links
             name: links
@@ -47,17 +49,13 @@ collections:
         file: src/main-pages/contact.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: table of contents, name: toc, widget: hidden }
           - { label: body, name: body, widget: markdown }
       - label: "Information"
         name: information
         file: src/main-pages/information.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: table of contents, name: toc, widget: hidden }
-          - { label: searchable, name: searchable, widget: hidden }
+          - { label: layout, name: layout, widget: hidden }
           - { label: body, name: body, widget: markdown }
           - label: links
             name: links
@@ -70,9 +68,7 @@ collections:
         file: src/main-pages/parents.md
         fields:
           - { label: title, name: title, widget: string }
-          - { label: template, name: template, widget: hidden }
-          - { label: table of contents, name: toc, widget: hidden }
-          - { label: searchable, name: searchable, widget: hidden }
+          - { label: layout, name: layout, widget: hidden }
           - { label: body, name: body, widget: markdown }
           - label: links
             name: links
