@@ -120,7 +120,7 @@ collections:
     files:
       - label: "Policies"
         name: policies
-        file: src/information/policies
+        file: src/information/policies.md
         fields:
           - { label: title, name: title, widget: string }
           - { label: layout, name: layout, widget: hidden }
