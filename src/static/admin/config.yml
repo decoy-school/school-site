@@ -77,58 +77,78 @@ collections:
               - { label: text, name: text, widget: string }
               - { label: address, name: address, widget: string }
   - name: about-us
-    label: about-us
-    folder: src/content/about-us
-    create: false
-    filter: { field: template, value: default }
-    fields:
-      - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: false }
-      - { label: body, name: body, widget: markdown }
-  - name: people
-    label: people
-    folder: src/content/about-us
-    create: false
-    filter: { field: template, value: grid-page }
-    fields:
-      - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: false }
-      - { label: body, name: body, widget: markdown }
-      - label: people
-        name: people
-        widget: list
+    label: "About Us"
+    files:
+      - label: "Curriculum"
+        name: curriculum
+        file: src/about-us/curriculum.md
         fields:
-          - { label: Description, name: description, widget: string }
-          - { label: Picture, name: picture, widget: image }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "Staff"
+        name: staff
+        file: src/about-us/staff.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "Vacancies"
+        name: vacancies
+        file: src/about-us/vacancies.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "Values"
+        name: values
+        file: src/about-us/values.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "Governors"
+        name: governors
+        file: src/about-us/governors.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+          - label: people
+            name: people
+            widget: list
+            fields:
+              - { label: Description, name: description, widget: string }
+              - { label: Picture, name: picture, widget: image }
   - name: information
-    label: information
-    folder: src/content/information
-    filter: { field: template, value: default }
-    create: false
-    fields:
-      - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: false }
-      - { label: body, name: body, widget: markdown }
-  - name: policies
-    label: policies
-    folder: src/content/information
-    filter: { field: template, value: link-page }
-    create: false
-    fields:
-      - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: false }
-      - label: links
-        name: links
-        widget: list
+    label: Information
+    files:
+      - label: Policies
+        name: polices
+        file: src/information/policies
         fields:
-          - { label: text, name: text, widget: string }
-          - { label: address, name: address, widget: string }
-      - { label: body, name: body, widget: markdown }
-      - { label: searchable, name: searchable, widget: boolean, default: false }
+          - { label: title, name: title, widget: string }
+          - { label: layout, name: layout, widget: hidden }
+          - { label: body, name: body, widget: markdown }
+          - label: links
+            name: links
+            widget: list
+            fields:
+              - { label: text, name: text, widget: string }
+              - { label: address, name: address, widget: string }
+      - label: "Pupil Premium"
+        name: pupil-premium
+        file: src/information/pupil-premium.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "SEND"
+        name: send
+        file: src/information/send.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
+      - label: "Term Dates"
+        name: term-dates
+        file: src/information/term-dates.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
   - name: parents
     label: Parents
     folder: src/parents
