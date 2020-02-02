@@ -10,8 +10,9 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 
 - ~~Finish moving over content~~
 - ~~Structure upload folder/media library - fix links to images and pdfs~~
-- Add Netlify CMS script/support/admin page - needs to be done alongside with above, as does putting on github/netlify to get cms to work <- begun, completely untested yet
-- Netlify CMS config <- see above
-- Styling (basic - this will mostly be inline in layout header)
+- ~~Add Netlify CMS script/support/admin page - needs to be done alongside with above, as does putting on github/netlify to get cms to work~~
+- ~~Netlify CMS config~~
+- Properly test cms
 - Check policies, page content, etc against current site - what needs to be updated?
+- Styling (basic - this will mostly be inline in layout header)
 - Photos - take new photos, check permissions

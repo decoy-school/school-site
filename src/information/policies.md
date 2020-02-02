@@ -40,7 +40,6 @@ links:
     address: /uploads/Supporting-Pupils-with-Medical-Conditions-Policy-2018.pdf
   - text: Whistle Blowing Policy
     address: /uploads/Whistleblowing-Policy.pdf
-searchable: false
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please use the search box to filter the links.

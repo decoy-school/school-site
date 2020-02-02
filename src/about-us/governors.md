@@ -38,3 +38,11 @@ Details of the make-up of our governing body can be found [here](/uploads/Summar
 [Governors Information](https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing)
 
 <linkbtn text="Governors Information" address="https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing"></linkbtn>
+
+{% for person in people %}
+
+<figure>
+  <img src="{{person.picture}}" alt="{{person.description}}">
+  <figcaption>{{person.description}}</figcaption>
+</figure>
+{% endfor %}
