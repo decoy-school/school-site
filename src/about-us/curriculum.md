@@ -46,13 +46,13 @@ If you would like a flavour of some of the rich learning experiences at Decoy Sc
 
 <div class="info-list">
     <ul>
-        <li><a href="/year-groups/year-n">Nursery</a></li>
-        <li><a href="/year-groups/year-r">Reception</a></li>
-        <li><a href="/year-groups/year-1">Year 1</a></li>
-        <li><a href="/year-groups/year-2">Year 2</a></li>
-        <li><a href="/year-groups/year-3">Year 3</a></li>
-        <li><a href="/year-groups/year-4">Year 4</a></li>
-        <li><a href="/year-groups/year-5">Year 5</a></li>
-        <li><a href="/year-groups/year-6">Year 6</a></li>
+        <li><a href="/curricula/nursery">Nursery</a></li>
+        <li><a href="/curricula/reception">Reception</a></li>
+        <li><a href="/curricula/year-1">Year 1</a></li>
+        <li><a href="/curricula/year-2">Year 2</a></li>
+        <li><a href="/curricula/year-3">Year 3</a></li>
+        <li><a href="/curricula/year-4">Year 4</a></li>
+        <li><a href="/curricula/year-5">Year 5</a></li>
+        <li><a href="/curricula/year-6">Year 6</a></li>
     </ul>
 </div>

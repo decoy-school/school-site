@@ -130,20 +130,16 @@ collections:
       - { label: body, name: body, widget: markdown }
       - { label: searchable, name: searchable, widget: boolean, default: false }
   - name: parents
-    label: parents
+    label: Parents
     folder: src/content/parents
     create: false
     fields:
       - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: false }
       - { label: body, name: body, widget: markdown }
-  - name: year groups
-    label: year groups
+  - name: curricula
+    label: Curricula
     folder: src/content/year-groups
     create: false
     fields:
       - { label: title, name: title, widget: string }
-      - { label: template, name: template, widget: hidden }
-      - { label: table of contents, name: toc, widget: boolean, default: true }
       - { label: body, name: body, widget: markdown }
