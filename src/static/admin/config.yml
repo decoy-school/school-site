@@ -131,14 +131,14 @@ collections:
       - { label: searchable, name: searchable, widget: boolean, default: false }
   - name: parents
     label: Parents
-    folder: src/content/parents
+    folder: src/parents
     create: false
     fields:
       - { label: title, name: title, widget: string }
       - { label: body, name: body, widget: markdown }
   - name: curricula
     label: Curricula
-    folder: src/content/year-groups
+    folder: src/year-groups
     create: false
     fields:
       - { label: title, name: title, widget: string }
