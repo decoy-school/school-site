@@ -118,8 +118,8 @@ collections:
   - name: information
     label: Information
     files:
-      - label: Policies
-        name: polices
+      - label: "Policies"
+        name: policies
         file: src/information/policies
         fields:
           - { label: title, name: title, widget: string }
