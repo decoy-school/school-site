@@ -8,7 +8,7 @@ Admissions to the school are determined centrally by the Local Authority. During
 
 If you have contacted Devon County Council and would like to arrange a visit to our school please email Ms J. Edwards at <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
 
-For the Admissions Policy 2017/2018 please click [here](https://drive.google.com/file/d/0B76W__U5CTntVWlURk51SEpkWHc/view?usp=sharing).
+For the Admissions Policy 2017/2018 please click [here](/uploads/Admissions-Policy.pdf).
 
 ![Children using computers](/uploads/ar.jpg)
 

@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-# display_url: https://elegant-lichterman-cc3ce6.netlify.com
+display_url: https://decoy-school-test-site.netlify.com
 
 media_folder: /src/static/uploads
 public_folder: /uploads
