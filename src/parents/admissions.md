@@ -1,9 +1,8 @@
 ---
 title: Admissions Information
 ---
-## School Admissions
 
-some test text
+## School Admissions
 
 Admissions to the school are determined centrally by the Local Authority. During the transfer period, please apply online through [Devon County Council](http://www.devon.gov.uk/admissionsonline). For the rest of the year, or late applications, please e-mail <a href="mailto:admissions@devon.gov.uk">admissions@devon.gov.uk</a>, or call <a href="tel:+44345 155 1019">0345 155 1019</a>. Alternatively, please visit http://www.devon.gov.uk/admissions.
 
