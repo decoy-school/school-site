@@ -39,6 +39,7 @@ Details of the make-up of our governing body can be found [here](/uploads/Summar
 
 <linkbtn text="Governors Information" address="https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing"></linkbtn>
 
+<div class="content-grid">
 {% for person in people %}
 
 <figure>
@@ -46,3 +47,4 @@ Details of the make-up of our governing body can be found [here](/uploads/Summar
   <figcaption>{{person.description}}</figcaption>
 </figure>
 {% endfor %}
+</div>
