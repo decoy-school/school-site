@@ -1,5 +1,164 @@
+/* CSS Mini Reset */
+/* From http://www.vcarrer.com/2010/05/css-mini-reset.html - Thanks! */
+
 html,
-body {
+body,
+div,
+form,
+fieldset,
+legend,
+label {
   margin: 0;
   padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th,
+td,
+caption {
+  font-weight: normal;
+}
+
+img {
+  border: 0;
+}
+
+/* end reset */
+
+/* base styles */
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: rgba(0, 0, 0, 0.825);
+  background-color: snow;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+header nav,
+#map {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+a {
+  color: hsla(120, 100%, 25%, 0.825);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: hsla(120, 100%, 12.5%, 0.825);
+}
+
+table {
+  max-width: 960px;
+  margin: 2em auto 1em auto;
+}
+
+th,
+td {
+  border: 1px solid rgba(0, 0, 0, 0.825);
+  padding: 10px 0.7em;
+}
+
+/* end base styles */
+
+/* layout */
+@supports (display: grid) {
+  html,
+  body {
+    height: 100%;
+  }
+  #page-wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+      "header"
+      "content"
+      "footer";
+  }
+  header {
+    grid-area: header;
+  }
+
+  header {
+    grid-area: header;
+  }
+  #page-content {
+    grid-area: content;
+  }
+  footer {
+    grid-area: footer;
+  }
+}
+
+.link-grid {
+  padding: 0;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-auto-rows: 120px;
+  max-width: 960px;
+  margin: 2em auto 1em auto;
+}
+
+.link-grid a {
+  padding: 10px 0.7em;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-end;
+  font-size: 1.3em;
+  list-style: none;
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s ease;
+}
+
+.link-grid a:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }

@@ -4,12 +4,11 @@
 <main>
   <h1>{{title}}</h1>
   {{content | safe}}
-  <ul>
+  <div class="link-grid">
   {% for link in links %}
-  <li>
+  
     <a href="{{link.address}}">{{link.text}}</a>
-  </li>
   {% endfor %}
-  </ul>
- </main>
+  </div>
+</main>
 {% endblock %}

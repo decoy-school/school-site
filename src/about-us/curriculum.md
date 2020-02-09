@@ -4,8 +4,6 @@ title: "Curriculum"
 
 _For details of the curriculum followed by each year group, please scroll [down](#down)._
 
----
-
 The curriculum is planned for Foundation Stage, Key Stage 1 and Key Stage 2. Key Stage 2 is now in two phases, "Lower" and "Upper" Key Stage 2.
 
 ![Children learning maths](/uploads/numicon.jpg)
