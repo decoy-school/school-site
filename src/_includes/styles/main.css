@@ -83,6 +83,10 @@ h6 {
   font-weight: 700;
 }
 
+h2 {
+  margin-top: 1.5em;
+}
+
 a {
   color: hsla(120, 100%, 25%, 0.825);
   transition: color 0.3s ease;
@@ -103,9 +107,23 @@ td {
   padding: 10px 0.7em;
 }
 
+footer {
+  padding: 1.7em 0 1em 0;
+  background-color: rgba(0, 0, 0, 0.825);
+  color: white;
+}
+
+footer a {
+  color: hsla(120, 100%, 35%, 0.825);
+}
+
+footer a:hover {
+  color: hsla(120, 100%, 25%, 0.825);
+}
 /* end base styles */
 
 /* layout */
+/* we need grid fallbacks */
 @supports (display: grid) {
   html,
   body {
@@ -138,8 +156,8 @@ td {
   .content-grid {
     padding: 0;
     display: grid;
-    grid-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-gap: 18px;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     max-width: 960px;
     grid-auto-rows: minmax(120px, auto);
     margin: 2em auto 1em auto;
@@ -152,7 +170,6 @@ td {
     flex-direction: column;
     justify-content: flex-end;
     background-color: white;
-    border-radius: 2px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   }
 
