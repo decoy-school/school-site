@@ -5,7 +5,7 @@ links:
   - text: Values
     address: /about-us/our-values
   - text: Curriculum Information
-    address: /about-us/curriculum
+    address: /about-us/our-curriculum
   - text: Job Vacancies
     address: /about-us/job-vacancies
   - text: Our Staff

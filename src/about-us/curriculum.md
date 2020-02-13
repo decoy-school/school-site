@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: "Our Curriculum"
 ---
 
 _For details of the curriculum followed by each year group, please scroll [down](#down)._
