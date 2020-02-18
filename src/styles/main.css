@@ -241,6 +241,12 @@ nav a.active {
 /* end link buttons and people pictures */
 /* ------------------------ */
 
+/* values pictures */
+.values-grid img {
+  display: inline-block;
+  max-width: 200px;
+}
+
 /* layout */
 main {
   max-width: 960px;
@@ -293,5 +299,18 @@ main {
   .content-grid a,
   .content-grid figure {
     margin: 0;
+  }
+
+  .values-grid {
+    padding: 0;
+    display: grid;
+    grid-gap: 18px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-auto-rows: minmax(90px, auto);
+    margin: 1em auto 1em auto;
+  }
+
+  .values-grid img {
+    max-width: 220px;
   }
 }

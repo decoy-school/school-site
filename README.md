@@ -18,7 +18,7 @@ This repository contains code to build [Decoy Primary School's website](decoysch
   - ~~style lists normal lists~~
   - responsive nav
   - twitter/fb/sidebar (add other links)
-  - value pictures list styling/templating
+  - ~~value pictures list styling/templating~~
   - ~~styling tables (font?)~~
   - ~~styling calc policy list on curriculum info page~~
 - add toc's - styling and layout
