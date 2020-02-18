@@ -58,7 +58,7 @@ body {
   font-family: "Libre Baskerville", serif;
   color: rgba(0, 0, 0, 0.825);
   background-color: ivory;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 h1,
@@ -113,12 +113,14 @@ a:hover {
 table {
   width: 100%;
   margin: 2em auto 1em auto;
+  font-family: "Open Sans", sans-serif;
 }
 
 th,
 td {
   border: 1px solid rgba(0, 0, 0, 0.825);
   padding: 10px 0.7em;
+  line-height: 1.5em;
 }
 
 #map {
