@@ -69,14 +69,13 @@ h5,
 h6,
 p,
 ol,
-ul,
-header nav {
+ul {
   max-width: 40em;
   margin-right: auto;
 }
 
 p {
-  line-height: 1.6em;
+  line-height: 1.7em;
   margin-bottom: 1.7em;
 }
 
@@ -92,10 +91,12 @@ h6 {
 
 h1 {
   font-size: 3em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.825);
 }
 
-/* used for sections in body text */
 h2 {
+  /* used for sections in body text */
   font-size: 1.8em;
   margin-top: 1.5em;
 }
@@ -148,6 +149,47 @@ footer a:hover {
   color: hsla(120, 100%, 25%, 0.825);
 }
 /* end base styles */
+/* ------------------------ */
+
+/* header and nav styling */
+header {
+  background: hsla(120, 100%, 25%, 0.825);
+  height: 3em;
+}
+
+nav {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+nav a {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 1.1em;
+  height: 3em;
+  line-height: 3em;
+  padding: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: gold;
+}
+
+nav a.active:hover {
+  border-color: gold;
+}
+
+nav a.active {
+  border-bottom: 1px solid white;
+}
+
+/* end header and nav styling */
 /* ------------------------ */
 
 /* link buttons and people pictures */

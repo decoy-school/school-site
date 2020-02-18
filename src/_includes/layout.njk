@@ -14,11 +14,15 @@
   <div id="page-wrapper">
     <header>
       <nav>
+      <div id="home-link">
         <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
+      </div>
+      <div id="other-links">
         <a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a>
         <a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a>
         <a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a>
         <a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a>
+      </div>
       </nav>
     </header>
     <div id="page-content">

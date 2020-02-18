@@ -13,6 +13,13 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 - ~~Add Netlify CMS script/support/admin page - needs to be done alongside with above, as does putting on github/netlify to get cms to work~~
 - ~~Netlify CMS config~~
 - Properly test cms
-- Check policies, page content, etc against current site - what needs to be updated?
-- Styling (basic - this will mostly be inline in layout header)
+- Check policies, page content, etc against current site - what needs to be updated? <-- ongoing
+- Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
+  - style lists normal lists
+  - responsive nav
+  - twitter/fb/sidebar (add other links)
+  - value pictures list styling/templating
+  - styling tables (font?)
+  - styling calc policy list on curriculum info page
+- add toc's - styling and layout
 - Photos - take new photos, check permissions
