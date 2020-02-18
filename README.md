@@ -15,7 +15,7 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 - Properly test cms
 - Check policies, page content, etc against current site - what needs to be updated? <-- ongoing
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
-  - style lists normal lists
+  - ~~style lists normal lists~~
   - responsive nav
   - twitter/fb/sidebar (add other links)
   - value pictures list styling/templating

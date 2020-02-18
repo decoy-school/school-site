@@ -74,9 +74,15 @@ ul {
   margin-right: auto;
 }
 
-p {
+p,
+ul,
+ol {
   line-height: 1.7em;
   margin-bottom: 1.7em;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
 
 h1,
