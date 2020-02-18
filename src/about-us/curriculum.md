@@ -24,7 +24,7 @@ If you would like any other information about our school curriculum, please cont
 
 Please use these links for our calculation policy and for the key objectives for each year group in maths:
 
-<div class="infoButtons">
+<div class="content-grid">
 	<a href="/uploads/calculation-policy.pdf">Calculation Policy</a>
 	<a href="/uploads/key-objectives-y1.pdf">Year 1 Key Objectives</a>
 	<a href="/uploads/key-objectives-y2.pdf">Year 2 Key Objectives</a>
@@ -61,7 +61,7 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
-<div class="cf infoButtons">
+<div class="content-grid">
     <a href="/curricula/nursery">Nursery</a>
     <a href="/curricula/reception">Reception</a>
     <a href="/curricula/year-1">Year 1</a>
