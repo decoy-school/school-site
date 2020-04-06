@@ -8,24 +8,26 @@
     {% if page.url == "/"%}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{% endif %}
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
     <title>Decoy School | {% if title %}{{title}}{% endif %}</title>
+    
 
   </head>
   <body>
   <div id="page-wrapper">
-    <header>
-      <nav id="nav-wide">
+    <header id="nav-wide">
+      <nav>
         <div>
           <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
         </div>
-        <div ><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
-        </nav>
-      <nav id="nav-narrow">
-        <div>
+        <div><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
+      </nav>
+    </header>
+    <header id="nav-narrow">  
+      <nav>
+        <div id="narrow-menu-controls">
           <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
+          <button id="menu-toggle-button" class="closed" onclick="toggleMenu()"></button>
         </div>
-        <input type="checkbox" id="trigger"/>
-        <label id="hamburger" aria-label="open main navigation" for="trigger"><span></span></label>
-        <div ><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
+        <div id="narrow-menu-content" class="closed"><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
       </nav>
     </header>
     <div id="page-content">
@@ -46,4 +48,16 @@
     </footer>
   <div>
   </body>
+  <script>
+      var button = document.getElementById("menu-toggle-button")
+      var menu = document.getElementById("narrow-menu-content")
+      function toggleMenu(){
+        if(menu.className === "closed") menu.className = "open"
+        else menu.className = "closed"
+
+        if(button.className === "closed") button.className = "open"
+        else button.className = "closed"
+      }
+
+    </script>
 </html>
