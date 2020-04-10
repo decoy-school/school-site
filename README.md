@@ -16,10 +16,11 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 - Check policies, page content, etc against current site - what needs to be updated? <-- ongoing
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
   - ~~style lists normal lists~~
-  - responsive nav
+  - ~~responsive nav~~ <- look into accessibilty, and animation
   - twitter/fb/sidebar (add other links)
   - ~~value pictures list styling/templating~~
   - ~~styling tables (font?)~~
   - ~~styling calc policy list on curriculum info page~~
+  - add most recent curriculum overview docs
 - add toc's - styling and layout
 - Photos - take new photos, check permissions

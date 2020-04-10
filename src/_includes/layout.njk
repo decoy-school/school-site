@@ -25,9 +25,21 @@
       <nav>
         <div id="narrow-menu-controls">
           <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
-          <button id="menu-toggle-button" class="closed" onclick="toggleMenu()"></button>
+          <button id="menu-open-button" class="menu-button" onclick="openMenu()">
+            <img src="/images/logos/menu.svg" alt="open site menu"/>
+          </button>
         </div>
-        <div id="narrow-menu-content" class="closed"><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
+        <div id="narrow-menu-content" class="closed">
+          <div id="menu-close-wrapper">
+            <button id="menu-close-button" class="menu-button" onclick="closeMenu()">
+              <img src="/images/logos/close.svg" alt="close site menu"/>
+            </button>
+          </div>
+          <a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a>
+          <a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a>
+          <a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a>
+          <a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a>
+        </div>
       </nav>
     </header>
     <div id="page-content">
@@ -49,15 +61,12 @@
   <div>
   </body>
   <script>
-      var button = document.getElementById("menu-toggle-button")
       var menu = document.getElementById("narrow-menu-content")
-      function toggleMenu(){
-        if(menu.className === "closed") menu.className = "open"
-        else menu.className = "closed"
-
-        if(button.className === "closed") button.className = "open"
-        else button.className = "closed"
+      function openMenu(){
+        menu.className = "open"
       }
-
+      function closeMenu(){
+        menu.className = "closed"
+      }
     </script>
 </html>
