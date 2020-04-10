@@ -430,9 +430,23 @@ main {
 @media screen and (min-width: 680px) {
   .table-of-contents ul li {
     display: inline;
-    margin-left: 20px;
+    margin-left: 3em;
   }
   .table-of-contents ul li:nth-of-type(1) {
     margin-left: 0;
   }
+}
+
+.cc-window {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 0 0 5px 5px;
+}
+
+.cc-compliance {
+  font-family: "Open Sans", sans-serif;
+}
+
+.cc-btn {
+  transition: background-color 0.33s;
+  border-radius: 5px;
 }
