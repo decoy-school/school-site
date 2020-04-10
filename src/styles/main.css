@@ -321,10 +321,12 @@ header#nav-narrow nav a.active:hover {
 .content-grid figure img {
   width: 100%;
   padding: 0;
+  border-radius: 5px 5px 0 0;
 }
 
 .content-grid figcaption {
   padding: 10px 0.7em;
+  font-family: "Open Sans", sans-serif;
 }
 /* end link buttons and people pictures */
 /* ------------------------ */
@@ -333,6 +335,63 @@ header#nav-narrow nav a.active:hover {
 .values-grid img {
   display: inline-block;
   max-width: 200px;
+}
+
+/* table of contents */
+main {
+  position: relative;
+}
+
+.table-of-contents {
+  position: relative;
+  width: 250px;
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+
+@media screen and (min-width: 960px) {
+  .table-of-contents {
+    position: absolute;
+    text-align: right;
+    padding: 10px;
+    right: 0;
+    top: 122px;
+  }
+}
+
+.table-of-contents h4 {
+  margin: 0.5em 0 0.3em 0;
+}
+
+.table-of-contents ul {
+  max-width: 100%;
+  padding-left: 15px;
+  list-style-type: none; /* maybe circle? */
+  margin: 0.3em 0 0.2em 0;
+}
+
+.table-of-contents ul li {
+  margin: 0.1em;
+}
+
+@media screen and (min-width: 680px) {
+  @supports (display: grid) {
+  }
+}
+
+/* cookie consent */
+.cc-window {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 0 0 5px 5px;
+}
+
+.cc-compliance {
+  font-family: "Open Sans", sans-serif;
+}
+
+.cc-btn {
+  transition: background-color 0.33s;
+  border-radius: 5px;
 }
 
 /* layout */
@@ -401,52 +460,4 @@ main {
   .values-grid img {
     max-width: 220px;
   }
-}
-
-/* table of contents */
-
-.table-of-contents {
-  background-color: hsla(51, 100%, 50%, 0.15);
-  padding: 10px;
-  border-radius: 5px;
-  font-family: "Open Sans", sans-serif;
-}
-
-.table-of-contents h4 {
-  margin: 0.5em 0 0.3em 0;
-}
-
-.table-of-contents ul {
-  max-width: 100%;
-  padding: 0;
-  list-style-type: none;
-  margin: 0.3em 0 0.2em 0;
-}
-
-.table-of-contents ul li {
-  margin: 0.1em;
-}
-
-@media screen and (min-width: 680px) {
-  .table-of-contents ul li {
-    display: inline;
-    margin-left: 3em;
-  }
-  .table-of-contents ul li:nth-of-type(1) {
-    margin-left: 0;
-  }
-}
-
-.cc-window {
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  border-radius: 0 0 5px 5px;
-}
-
-.cc-compliance {
-  font-family: "Open Sans", sans-serif;
-}
-
-.cc-btn {
-  transition: background-color 0.33s;
-  border-radius: 5px;
 }
