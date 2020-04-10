@@ -2,6 +2,8 @@
 title: "Breakfast and After School Club"
 ---
 
+[[toc]]
+
 ![Beans on toast!](/uploads/beans.JPG)
 
 _For more information about the service we provide including our Terms & Conditions and application documents please click [here](https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKbWFUblRocFZOVjQ&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU)._

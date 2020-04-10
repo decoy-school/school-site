@@ -2,7 +2,9 @@
 title: "Our Values"
 ---
 
-## Ethos - _Inspiring Positive Futures_
+[[toc]]
+
+## Ethos - Inspiring Positive Futures
 
 Decoy Community Primary School actively encourages its children to become caring, hardworking, creative and interesting citizens of the future. Pupils are supported to develop respect for each other and positive relationships.
 

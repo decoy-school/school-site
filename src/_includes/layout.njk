@@ -8,15 +8,13 @@
     {% if page.url == "/"%}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{% endif %}
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
     <title>Decoy School | {% if title %}{{title}}{% endif %}</title>
-    
-
   </head>
   <body>
   <div id="page-wrapper">
     <header id="nav-wide">
       <nav>
         <div>
-          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
+          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Decoy Primary School</a>
         </div>
         <div><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
       </nav>
@@ -24,7 +22,7 @@
     <header id="nav-narrow">  
       <nav>
         <div id="narrow-menu-controls">
-          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
+          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Decoy School</a>
           <button id="menu-open-button" class="menu-button" onclick="openMenu()">
             <img src="/images/logos/menu.svg" alt="open site menu"/>
           </button>
@@ -35,6 +33,7 @@
               <img src="/images/logos/close.svg" alt="close site menu"/>
             </button>
           </div>
+          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
           <a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a>
           <a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a>
           <a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a>
@@ -61,12 +60,12 @@
   <div>
   </body>
   <script>
-      var menu = document.getElementById("narrow-menu-content")
-      function openMenu(){
-        menu.className = "open"
-      }
-      function closeMenu(){
-        menu.className = "closed"
-      }
-    </script>
+    var menu = document.getElementById("narrow-menu-content")
+    function openMenu(){
+      menu.className = "open"
+    }
+    function closeMenu(){
+      menu.className = "closed"
+    }
+  </script>
 </html>

@@ -2,6 +2,8 @@
 title: "First Steps Nursery"
 ---
 
+[[toc]]
+
 ## Nursery Information
 
 Decoy First Steps Nursery is part of the Early Years Foundation Stage Team at Decoy School. The rest of the this team is made up of the two Reception classes. Coming to our Nursery gives your child the best possible start to their learning journey at Decoy Community Primary School. The Nursery works very closely with the Reception classes. We share highly trained teaching staff and plan together to ensure that all children are inspired, motivated and challenged in their learning.

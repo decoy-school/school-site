@@ -2,6 +2,8 @@
 title: Admissions Information
 ---
 
+[[toc]]
+
 ## School Admissions
 
 Admissions to the school are determined centrally by the Local Authority. During the transfer period, please apply online through [Devon County Council][1].  

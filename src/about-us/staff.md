@@ -2,6 +2,8 @@
 title: "Our Staff"
 ---
 
+[[toc]]
+
 ## Headteacher
 
 Mrs H. Poustie

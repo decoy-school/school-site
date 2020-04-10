@@ -2,6 +2,8 @@
 title: "Safety Information"
 ---
 
+[[toc]]
+
 ## Bullying Resources
 
 If you feel your child is being bullied, or bullying another child, please take a look at the guides below.

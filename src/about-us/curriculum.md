@@ -2,7 +2,7 @@
 title: "Our Curriculum"
 ---
 
-_For details of the curriculum followed by each year group, please scroll [down](#down)._
+[[toc]]
 
 The curriculum is planned for Foundation Stage, Key Stage 1 and Key Stage 2. Key Stage 2 is now in two phases, "Lower" and "Upper" Key Stage 2.
 
@@ -46,7 +46,7 @@ We also run parent workshops to enable parents to better support their children 
 
 | **Phase**                                | **Phonic Knowledge and Skills**                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Phase One (Nursery/Reception)            | Activities are divided into seven aspects, including environmental sounds, instrumental sounds, body sounds, rhythm and rhyme, alliteration, voice sounds and finally oral blending and segmenting.                                                                                                                                           |
+| Phase One (Nursery & Reception)          | Activities are divided into seven aspects, including environmental sounds, instrumental sounds, body sounds, rhythm and rhyme, alliteration, voice sounds and finally oral blending and segmenting.                                                                                                                                           |
 | Phase Two (Reception) _Up to 6 weeks_    | Learning 19 letters of the alphabet and one sound for each. Blending sounds together to make words. Segmenting words into their separate sounds. Beginning to read simple captions.                                                                                                                                                           |
 | Phase Three (Reception) _Up to 12 weeks_ | The remaining 7 letters of the alphabet, one sound for each. Graphemes such as ch, oo, th representing the remaining phonemes not covered by single letters. Reading captions, sentences and questions. On completion of this phase, children will have learnt the "simple code", i.e. one grapheme for each phoneme in the English language. |
 | Phase Four (Reception) _4 to 6 weeks_    | No new grapheme-phoneme correspondences are taught in this phase. Children learn to blend and segment longer words with adjacent consonants, e.g. swim, clap, jump.                                                                                                                                                                           |
@@ -57,7 +57,7 @@ We also run parent workshops to enable parents to better support their children 
 
 Teaching of phonics is integral to the teaching of reading and although a major part, it is not the only thing we do. We have a range of reading books from which the children can choose. These are organised into colour bands, through which children progress as their phonic and comprehension skills develop. In addition to Letters and Sounds sessions, the children are taught by their teacher in what are called "guided reading" groups where teachers teach and assess children's reading skills. Children are also free to borrow books from our school library.
 
-## <a name="down"></a>Year Group Curricula
+## Year Group Curricula
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
