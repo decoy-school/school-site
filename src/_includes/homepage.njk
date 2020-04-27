@@ -1,20 +1,23 @@
 {% extends "./layout.njk" %}
 
 {% block pagecontent %}
-  <main>
     <div id="home-page-banner">
-      <div id="title-container">
-        <h1>Decoy<br />Community<br />Primary<br />School</h1>
+      <div class="title-inner">
+        <h1>Decoy<br />Community<br />Primary School</h1>
+      </div>
+      <div class="header-links">
+        <div class="header-links-inner">
+          <a href="https://pmx.parentmail.co.uk/#core/login"><img src="/images/logos/parentmail-logo-white.svg" alt="parent mail logo"></a>
+          <a href="https://www.facebook.com/Decoy-Community-Primary-School-and-Nursery-106576564210331/"><img src="/images/logos/facebook-logo-white.svg" alt="facebook logo"></a>
+          <a href="https://twitter.com/decoypri"><img src="/images/logos/twitter-logo-white.svg" alt="twitter logo"></a>
+        </div>
       </div>
     </div>
+  <main>
     {{content | safe}}
   </main>
-  <aside>
-    <div>
+    <div class="twitter-container">
       <a class="twitter-timeline" data-chrome="transparent nofooter" data-border-color="#008000" data-link-color="#008000" href="https://twitter.com/decoypri" data-height="480">Tweets by @DecoyPri</a>
       <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <div>
-    <a href="https://pmx.parentmail.co.uk/#core/login"><img src="/images/logos/parentmail-logo.svg" alt="parent mail logo">Sign in to Parentmail</a>
-    <a href="https://www.facebook.com/DecoyPTA/"><img src="/images/logos/facebook-logo.svg" alt="parent mail logo">Our PTA on Facebook</a>
-  </aside>
+    </div>
 {% endblock %}

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <!-- Google fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Open+Sans:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Roboto+Slab:wght@700;900&display=swap" rel="stylesheet">
     <!-- netlify cms script from CDN -->
     {% if page.url == "/"%}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{% endif %}
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
@@ -39,7 +39,7 @@
     <header id="nav-wide">
       <nav>
         <div>
-          <a {% if page.url == "/" %}class="active" {% endif %} href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
+          <a class="school-logo-link" href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
         </div>
         <div><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
       </nav>
@@ -47,7 +47,7 @@
     <header id="nav-narrow">  
       <nav>
         <div id="narrow-menu-controls">
-          <a class="school-logo-link" {% if page.url == "/" %}class="active" {% endif %} href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
+          <a class="school-logo-link" href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
           <button id="menu-open-button" class="menu-button" onclick="openMenu()">
             <img src="/images/logos/menu.svg" alt="open site menu"/>
           </button>
@@ -70,19 +70,20 @@
       {% block pagecontent %}{% endblock %}
     </div>
     <footer>
-      <p>
-        © {{currentDate.year}}, Decoy Community Primary School
-        <br />
-        Deer Park Road, Newton Abbot, TQ12 1DH
-      </p>
-      <p>
-        Telephone: <a href="tel:+441626353282">01626 353 282</a>
-      </p>
-      <p>
-        E-mail: <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
-      </p>
+      <div class="footer-inner">
+        <p>
+          © {{currentDate.year}}, Decoy Community Primary School
+          <br />
+          Deer Park Road, Newton Abbot, TQ12 1DH
+        </p>
+        <p>
+          Telephone: <a href="tel:+441626353282">01626 353 282</a>
+        </p>
+        <p>
+          E-mail: <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
+        </p>
+      </div>
     </footer>
-  <div>
   </body>
   <script>
     var menu = document.getElementById("narrow-menu-content")
