@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItToc = require("markdown-it-table-of-contents");
+const markdownItFigures = require("markdown-it-implicit-figures");
 
 module.exports = function (eleventyConfig) {
   const mdIt = markdownIt({
@@ -13,7 +14,8 @@ module.exports = function (eleventyConfig) {
     .use(markdownItToc, {
       includeLevel: [2, 3],
       containerHeaderHtml: `<h4>What's on this page?</h4>`,
-    });
+    })
+    .use(markdownItFigures);
   eleventyConfig.setLibrary("md", mdIt);
   eleventyConfig.addPassthroughCopy({ "src/static/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "src/static/images": "images" });

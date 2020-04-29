@@ -117,10 +117,6 @@ h1 {
   font-weight: 900;
 }
 
-h2 {
-  /* used for sections in body text - toc is generated from these */
-}
-
 a {
   color: var(--brand-color);
   transition: color 0.3s ease;
@@ -151,10 +147,21 @@ main {
   margin: 0 auto;
 }
 
+main p,
+main ul,
+main ol {
+  max-width: 40em;
+}
+
+main > figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 footer {
   margin-top: 3em;
   background-color: white;
-  border-top: 1px solid gainsboro;
+  border-top: 1px solid var(--font-color);
 }
 
 .footer-inner {
@@ -442,15 +449,19 @@ header#nav-wide nav {
 }
 
 /* table of contents */
+
 .table-of-contents {
-  position: relative;
-  width: 250px;
-  font-family: "Open Sans", sans-serif;
-  text-align: left;
+  margin-bottom: 2em;
+  text-align: right;
 }
 
 .table-of-contents h4 {
   font-weight: 700;
+  margin-bottom: 0;
+}
+
+.table-of-contents ul {
+  max-width: 100%;
 }
 
 .table-of-contents ul li {
@@ -458,21 +469,12 @@ header#nav-wide nav {
 }
 
 @media screen and (min-width: 640px) {
-  .table-of-contents {
-    width: 100%;
-  }
   .table-of-contents ul {
     padding: 0;
   }
   .table-of-contents li {
     display: inline;
-    padding-right: 2em;
-    line-height: 2em;
-    /* position: absolute;
-    text-align: right;
-    padding: 10px;
-    right: 0;
-    top: 122px; */
+    padding-left: 2em;
   }
 }
 
