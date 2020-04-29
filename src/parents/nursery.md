@@ -41,7 +41,7 @@ In addition, any child registered to our nursery is eligible to use our Breakfas
 If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator) on <a href='tel:+441626353282'>01626 353 282</a> or via <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
 
 [1]: https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKSGFZeWRwLUlyRHM&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU
-[2]: ../extended-schools-admissions
+[2]: /parents/breakfast-and-after-school-club
 [3]: https://drive.google.com/open?id=0B76W__U5CTntSUhiNVZqNmxucFU
 [4]: https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare
 [5]: https://www.childcarechoices.gov.uk

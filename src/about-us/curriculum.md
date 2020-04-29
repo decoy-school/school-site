@@ -61,13 +61,26 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
+### Spring 2020
+
 <div class="content-grid">
-    <a href="/curricula/nursery">Nursery</a>
-    <a href="/curricula/reception">Reception</a>
-    <a href="/curricula/year-1">Year 1</a>
-    <a href="/curricula/year-2">Year 2</a>
-    <a href="/curricula/year-3">Year 3</a>
-    <a href="/curricula/year-4">Year 4</a>
-    <a href="/curricula/year-5">Year 5</a>
-    <a href="/curricula/year-6">Year 6</a>
+    <a href="/uploads/curriculum-spring-2020-yr.pdf">Reception</a>
+    <a href="/uploads/curriculum-spring-2020-y1.pdf">Year 1</a>
+    <a href="/uploads/curriculum-spring-2020-y2.pdf">Year 2</a>
+    <a href="/uploads/curriculum-spring-2020-y3.pdf">Year 3</a>
+    <a href="/uploads/curriculum-spring-2020-y4.pdf">Year 4</a>
+    <a href="/uploads/curriculum-spring-2020-y5.pdf">Year 5</a>
+    <a href="/uploads/curriculum-spring-2020-y6.pdf">Year 6</a>
+</div>
+
+### Autumn 2019
+
+<div class="content-grid">
+    <a href="/uploads/curriculum-autumn-2019-yr.pdf">Reception</a>
+    <a href="/uploads/curriculum-autumn-2019-y1.pdf">Year 1</a>
+    <a href="/uploads/curriculum-autumn-2019-y2.pdf">Year 2</a>
+    <a href="/uploads/curriculum-autumn-2019-y3.pdf">Year 3</a>
+    <a href="/uploads/curriculum-autumn-2019-y4.pdf">Year 4</a>
+    <a href="/uploads/curriculum-autumn-2019-y5.pdf">Year 5</a>
+    <a href="/uploads/curriculum-autumn-2019-y6.pdf">Year 6</a>
 </div>

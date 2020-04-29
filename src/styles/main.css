@@ -115,6 +115,8 @@ h6 {
 
 h1 {
   font-weight: 900;
+  padding-bottom: 0.1em;
+  border-bottom: 1px solid var(--font-color);
 }
 
 a {
@@ -154,19 +156,19 @@ main ol {
 }
 
 main > figure {
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: var(--gutter);
+  margin-right: var(--gutter);
 }
 
 footer {
   margin-top: 3em;
   background-color: white;
-  border-top: 1px solid var(--font-color);
+  border-top: 1px solid gainsboro;
 }
 
 .footer-inner {
   max-width: var(--content-wide);
-  margin: 2em auto 0 auto;
+  margin: 2.6em auto 2em auto;
   font-size: 0.9em;
 }
 
@@ -451,17 +453,20 @@ header#nav-wide nav {
 /* table of contents */
 
 .table-of-contents {
-  margin-bottom: 2em;
+  margin: 0 var(--gutter) 2em var(--gutter);
+  border-bottom: 2px solid var(--font-color);
   text-align: right;
 }
 
 .table-of-contents h4 {
+  font-size: 1.1em;
   font-weight: 700;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .table-of-contents ul {
   max-width: 100%;
+  margin: 0.6em 0 1em 0;
 }
 
 .table-of-contents ul li {

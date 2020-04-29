@@ -9,4 +9,6 @@ Est adipisicing non amet sint tempor laborum sunt incididunt adipisicing reprehe
 Information about Pupil Premium Funding at Decoy School can be found below:
 
 - [Pupil Premium Policy](/uploads/Pupil-Premium-Policy-2016.pdf)
-- [Pupil Premium Strategy](/uploads/Pupil-Premium-Strategy-for-Parents-2017-18.pdf)
+- [Pupil Premium Strategy Statement (2019-22)](/uploads/Pupil-Premium-Strategy-Statement-2019-22.pdf)
+- [Pupil Premium Strategy Glossary](/uploads/Pupil-Premium-Glossary-2019-22.pdf)
+- [Pupil Premium Strategy for Parents (2017-18)](/uploads/Pupil-Premium-Strategy-for-Parents-2017-18.pdf)

@@ -13,21 +13,21 @@ links:
   - text: School Performance Tables
     address: https://www.compare-school-performance.service.gov.uk/school/113209/decoy-primary-school/primary
   - text: Behaviour Policy
-    address: /uploads/Promoting-Positive-Behaviour-Policy-2018.pdf
+    address: /uploads/Promoting-Positive-Behaviour-Policy-2019.pdf
   - text: Behaviour Principles
     address: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
   - text: Complaints Procedure
-    address: /uploads/Complaints-Procedure-2016.pdf
+    address: /uploads/Complaints-Procedure-2019.pdf
   - text: Pupil Premium Information
     address: /information/pupil-premium-information
   - text: Sports Premium Report
-    address: /uploads/sports-grant-report-2017-18.pdf
+    address: /uploads/sports-grant-report-2018-19.pdf
   - text: SEND Information
     address: /information/send-information
   - text: Governors Information
     address: /about-us/our-governors
   - text: Charging and Remissions Policy
-    address: /uploads/Charging-and-Remissions-Policy-2017.pdf
+    address: /uploads/Charging-and-Remissions-Policy-2019.pdf
   - text: Values and Ethos
     address: /about-us/our-values
   - text: Policies
