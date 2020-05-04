@@ -14,6 +14,13 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 - ~~Netlify CMS config~~
 - Properly test cms
 - Check policies, page content, etc against current site - what needs to be updated? <-- ongoing
+  - Curriculum page
+    - Nothing for nursery
+  - Nursery Page
+    - No Prospectus (404)
+    - Nursery Admissions link -> permissions problem
+  - Governors
+    - Make up document
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
   - ~~style lists normal lists~~
   - ~~responsive nav~~ <- look into accessibilty, and animation
@@ -21,6 +28,22 @@ This repository contains code to build [Decoy Primary School's website](decoysch
   - ~~value pictures list styling/templating~~
   - ~~styling tables (font?)~~
   - ~~styling calc policy list on curriculum info page~~
-  - add most recent curriculum overview docs
-- add toc's - styling and layout
+  - ~~add most recent curriculum overview docs~~
+- ~~add toc's - styling and layout~~
 - Photos - take new photos, check permissions
+- Things to keep in Google Drive (for now):
+  - BASC club docs - linked from BASC page
+  - Governors info (minutes etc) - linked from Governors page
+- Pages with lorem/nothing on:
+  - SEND
+  - Newsletters
+  - PP
+  - Extra curricular
+  - Term Dates (has only 2 pdfs)
+  - School meals - needs menu pdfs
+- Pages to update:
+  - Values (body text, posters)
+  - Curriculum (body text)
+  - Safety information (videos out of date)
+- **FINISH HOME PAGE - STYLE BANNER, MOVE TWITTER FEED**
+- Add footer logos to homepage - check what's current

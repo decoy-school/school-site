@@ -86,19 +86,6 @@ body {
   font-size: var(--font-size);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-ol,
-ul {
-  margin-left: var(--gutter);
-  margin-right: var(--gutter);
-}
-
 ul,
 ol {
   padding-left: 1em;
@@ -130,7 +117,7 @@ a:hover {
 
 table {
   width: 100%;
-  margin: 2em auto 1em auto;
+  margin: 2em 0 1em 0;
   font-family: var(--base-font-stack);
 }
 
@@ -147,6 +134,7 @@ td {
 main {
   max-width: var(--content-wide);
   margin: 0 auto;
+  padding: 0 var(--gutter);
 }
 
 main p,
@@ -156,8 +144,8 @@ main ol {
 }
 
 main > figure {
-  margin-left: var(--gutter);
-  margin-right: var(--gutter);
+  margin: 0;
+  width: 100%;
 }
 
 footer {
@@ -365,7 +353,6 @@ header#nav-wide nav {
 }
 
 .header-links {
-  /* background-color: rgba(255, 255, 255, 0.3); */
   background-color: rgba(0, 0, 0, 0.3);
   margin-top: 2em;
 }
@@ -396,11 +383,8 @@ header#nav-wide nav {
   width: auto;
 }
 
+/* ----------------------------- */
 /* link buttons and people pictures */
-.content-grid {
-  padding: 0 var(--gutter);
-}
-
 .content-grid a,
 .content-grid figure {
   margin: 0;
@@ -444,6 +428,19 @@ header#nav-wide nav {
 /* end link buttons and people pictures */
 /* ------------------------ */
 
+/* additional styles for uniform links*/
+
+.uniform-pics a {
+  justify-content: center;
+  align-items: center;
+}
+
+.uniform-pics img {
+  height: 50px;
+  object-fit: contain;
+  margin-top: var(--gutter);
+}
+
 /* values pictures */
 .values-grid img {
   display: inline-block;
@@ -453,9 +450,9 @@ header#nav-wide nav {
 /* table of contents */
 
 .table-of-contents {
-  margin: 0 var(--gutter) 2em var(--gutter);
+  margin: 0 0 2em 0;
   border-bottom: 2px solid var(--font-color);
-  text-align: right;
+  /* text-align: right; */
 }
 
 .table-of-contents h4 {
@@ -479,7 +476,7 @@ header#nav-wide nav {
   }
   .table-of-contents li {
     display: inline;
-    padding-left: 2em;
+    padding-right: 2em;
   }
 }
 

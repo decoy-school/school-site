@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
       level: [2, 3, 4, 5],
     })
     .use(markdownItToc, {
-      includeLevel: [2, 3],
+      includeLevel: [2],
       containerHeaderHtml: `<h4>What's on this page?</h4>`,
     })
     .use(markdownItFigures);

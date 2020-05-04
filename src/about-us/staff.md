@@ -14,9 +14,10 @@ Mr D. Lee
 
 ## Senior Leadership Team
 
-Mrs G. Quantrell - _EYFS and KS1 Team Leader_  
+Mrs C. Smith - _EYFS Team Leader_  
+Miss H. Thomsett - _KS1 Team Leader_  
 Mrs Y. Morrell - _Numeracy, Year 3 and 4 Team Leader_  
-Mrs Becky Hughes - _Literacy, Year 5 and 6 Team Leader_
+Mrs R. Hughes - _Literacy, Year 5 and 6 Team Leader_
 
 ## SEND Co-Ordinator
 
@@ -55,6 +56,7 @@ Ms A. Perkins _(MTA)_
 ## Reception Team
 
 Mrs E. Simpson _(Teacher)_  
+Ms R. Maskell _(Teacher)_  
 Mrs H. Cammack _(Teacher)_  
 Miss S. Fraser _(Teacher)_  
 Mrs Helen Yip _(TA)_  
@@ -64,7 +66,7 @@ Mrs Tania Bull _(TA)_
 
 ## Year 1 Team
 
-Mrs G. Quantrell _(Teacher)_  
+Ms N. Campbell _(Teacher)_  
 Miss C. Sinclair _(Teacher)_  
 Mrs B. Osborne _(TA)_  
 Mrs J. Huxtable _(TA)_  
@@ -81,9 +83,9 @@ Mrs L. Morgan-Anstee _(TA)_
 
 ## Year 3 Team
 
+Mrs Y. Morrell _(Teacher)_  
 Mrs E. Pryde _(Teacher)_  
 Mr T. Goodwin _(Teacher)_  
-Mrs Y. Morrell _(Teacher)_  
 Mrs D. Rogers _(TA)_  
 Mrs T. Hudson _(TA)_
 
