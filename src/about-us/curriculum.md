@@ -1,5 +1,14 @@
 ---
-title: "Our Curriculum"
+title: Our Curriculum
+overviews:
+  - term: Spring 2020
+    overviews:
+      - name: Reception
+        path: /uploads/curriculum-spring-2020-yr.pdf
+      - name: Year 1
+        path: /uploads/curriculum-spring-2020-y1.pdf
+      - name: Year 2
+        path: /uploads/curriculum-spring-2020-y2.pdf
 ---
 
 [[toc]]
