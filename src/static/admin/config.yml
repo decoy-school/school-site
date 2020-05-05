@@ -155,12 +155,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
-        - label: "Term Date Documents"
-          name: documents
-          widget: list
-          fields:
-            - { label: "Year", name: "name", widget: "string" }
-            - { label: "Term Dates Document", name: "path", widget: "file" }
+          - label: "Term Date Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Year", name: "name", widget: "string" }
+              - { label: "Term Dates Document", name: "path", widget: "file" }
   - name: parents
     label: Parents
     folder: src/parents

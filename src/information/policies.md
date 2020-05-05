@@ -1,6 +1,5 @@
 ---
 title: Policies
-layout: links.njk
 policies:
   - name: Admissions
     path: /uploads/Admissions-Policy.pdf
