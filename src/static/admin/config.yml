@@ -128,7 +128,7 @@ collections:
           - label: "Policy Documents"
             name: policies
             widget: list
-            field:
+            fields:
               - { label: "Policy Name", name: "name", widget: "string" }
               - { label: "Policy Document", name: "path", widget: "file" }
       - label: "Pupil Premium"
