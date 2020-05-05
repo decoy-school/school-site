@@ -128,7 +128,9 @@ collections:
           - label: "Policy Documents"
             name: policies
             widget: list
-            field: { label: "Policy Name", name: "policy", widget: "file" }
+            field:
+              - { label: "Policy Name", name: "name", widget: "string" }
+              - { label: "Policy Document", name: "path", widget: "file" }
       - label: "Pupil Premium"
         name: pupil-premium
         file: src/information/pupil-premium.md
