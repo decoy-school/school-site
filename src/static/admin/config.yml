@@ -137,6 +137,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+          - label: "Policy Documents"
+            name: policies
+            widget: list
+            fields:
+              - { label: "Policy Name", name: "name", widget: "string" }
+              - { label: "Policy Document", name: "path", widget: "file" }
       - label: "SEND"
         name: send
         file: src/information/send.md
@@ -149,6 +155,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+        - label: "Term Date Documents"
+          name: documents
+          widget: list
+          fields:
+            - { label: "Year", name: "name", widget: "string" }
+            - { label: "Term Dates Document", name: "path", widget: "file" }
   - name: parents
     label: Parents
     folder: src/parents
