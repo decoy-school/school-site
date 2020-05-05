@@ -149,7 +149,6 @@ main > figure {
 }
 
 footer {
-  margin-top: 3em;
   background-color: white;
   border-top: 1px solid gainsboro;
 }
@@ -305,83 +304,8 @@ header#nav-wide nav {
     display: block;
   }
 }
-
 /* end header and nav styling */
 /* ------------------------ */
-
-/* home page banner */
-#home-page-banner {
-  /* in case image fails to load */
-  background-color: var(--brand-color);
-  background-image: url("/uploads/banner.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.title-inner {
-  max-width: var(--content-wide);
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 40vmin;
-}
-
-.title-inner h1 {
-  font-weight: 700;
-  background-color: rgba(0, 0, 0, 0.3);
-  /* margin: 2em auto 0 auto; */
-  padding: 0.5em 0.8em 0.5em 0.4em;
-  color: white;
-  border: none;
-  border-radius: 0 0 1em 0;
-}
-
-@media screen and (min-width: 1200px) {
-  .title-inner h1 {
-    font-size: calc(4vmin + 14px);
-  }
-  #home-page-banner {
-    min-height: 500px;
-  }
-}
-
-.header-links {
-  background-color: rgba(0, 0, 0, 0.3);
-  margin-top: 2em;
-}
-.header-links-inner {
-  margin: 0 auto;
-  max-width: var(--content-wide);
-  padding: var(--gutter);
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-}
-.header-links a {
-  margin-left: var(--gutter);
-  margin-right: var(--gutter);
-}
-
-.header-links a:first-child {
-  margin-left: 0;
-}
-
-.header-links a:last-child {
-  margin-right: 0;
-}
-
-.header-links a,
-.header-links a img {
-  height: 40px;
-  width: auto;
-}
 
 /* ----------------------------- */
 /* link buttons and people pictures */
@@ -541,7 +465,6 @@ header#nav-wide nav {
   }
 
   .values-grid {
-    padding: 0 var(--gutter);
     display: grid;
     grid-gap: 18px;
     grid-template-columns: repeat(auto-fit, 200px);
@@ -553,9 +476,139 @@ header#nav-wide nav {
   }
 }
 
+/* --------------------- */
+/* home page styles */
+/* home page banner */
+#home-page-banner {
+  /* in case image fails to load */
+  background-color: var(--brand-color);
+  background-image: url("/uploads/banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title-inner {
+  max-width: var(--content-wide);
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40vmin;
+}
+
+.title-inner h1 {
+  font-weight: 700;
+  font-size: calc(8vmin + 8px);
+  background-color: rgba(0, 0, 0, 0.3);
+  margin-top: 1.6em;
+  margin-bottom: 1.6em;
+  padding: 0.5em 0.8em 0.5em 0.4em;
+  color: white;
+  border: none;
+  border-radius: 0 0 1em 0;
+}
+
+@media screen and (min-width: 1200px) {
+  #home-page-banner {
+    min-height: 500px;
+  }
+}
+
+.header-links {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.header-links-inner {
+  margin: 0 auto;
+  max-width: var(--content-wide);
+  padding: var(--gutter);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.header-links a {
+  margin-left: var(--gutter);
+  margin-right: var(--gutter);
+}
+
+.header-links a:first-child {
+  margin-left: 0;
+}
+
+.header-links a:last-child {
+  margin-right: 0;
+}
+
+.header-links a,
+.header-links a img {
+  height: calc(30px + 4vmin);
+  width: auto;
+}
+
 .twitter-container {
-  margin: 3em auto 1em;
-  border-top: 1px solid var(--brand-color);
-  border-top: 1px solid var(--brand-color);
-  max-width: 480px;
+  max-width: 420px;
+  margin: 3em 0 1em 0;
+  background-color: white;
+  box-shadow: var(--shadow-2);
+  padding: 1em;
+  border-radius: 5px;
+}
+
+.footer-logos {
+  margin-bottom: 2em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer-logos div {
+  width: 100px;
+  height: 100px;
+  margin: var(--gutter);
+  background-color: var(--highlight-color);
+}
+
+@supports (display: grid) {
+  .homepage-content {
+    display: grid;
+    grid-template-rows: 1f;
+    grid-template-areas:
+      "mainContent"
+      "twitter"
+      "logos";
+    gap: 2em;
+  }
+  .hompage-main {
+    grid-area: mainContent;
+  }
+  .twitter-container {
+    grid-area: twitter;
+    width: 100%;
+  }
+  .footer-logos {
+    grid-area: logos;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: var(--gutter);
+    justify-items: center;
+  }
+  .footer-logos div {
+    margin: 0;
+  }
+  @media screen and (min-width: 840px) {
+    .homepage-content {
+      grid-template-columns: 1fr 420px;
+      grid-template-areas:
+        "mainContent twitter"
+        "logos logos";
+      gap: 2em 3em;
+    }
+  }
 }
