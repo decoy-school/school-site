@@ -86,7 +86,7 @@ collections:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
           - label: "Curriculum Overviews"
-            name: overviews
+            name: curriculumOverviews
             widget: list
             fields:
               - { label: Term, name: term, widget: string }

@@ -1,6 +1,6 @@
 ---
 title: Our Curriculum
-overviews:
+curriculumOverviews:
   - term: Spring 2020
     overviews:
       - name: Reception
@@ -9,6 +9,30 @@ overviews:
         path: /uploads/curriculum-spring-2020-y1.pdf
       - name: Year 2
         path: /uploads/curriculum-spring-2020-y2.pdf
+      - name: Year 3
+        path: /uploads/curriculum-spring-2020-y3.pdf
+      - name: Year 4
+        path: /uploads/curriculum-spring-2020-y4.pdf
+      - name: Year 5
+        path: /uploads/curriculum-spring-2020-y5.pdf
+      - name: Year 6
+        path: /uploads/curriculum-spring-2020-y6.pdf
+  - term: Autumn 2019
+    overviews:
+      - name: Reception
+        path: /uploads/curriculum-autumn-2019-yr.pdf
+      - name: Year 1
+        path: /uploads/curriculum-autumn-2019-y1.pdf
+      - name: Year 2
+        path: /uploads/curriculum-autumn-2019-y2.pdf
+      - name: Year 3
+        path: /uploads/curriculum-autumn-2019-y3.pdf
+      - name: Year 4
+        path: /uploads/curriculum-autumn-2019-y4.pdf
+      - name: Year 5
+        path: /uploads/curriculum-autumn-2019-y5.pdf
+      - name: Year 6
+        path: /uploads/curriculum-autumn-2019-y6.pdf
 ---
 
 [[toc]]
@@ -70,26 +94,10 @@ Teaching of phonics is integral to the teaching of reading and although a major 
 
 Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
 
-### Spring 2020
+{% for term in curriculumOverviews %}
 
+<h3>{{term.term}}</h3>
 <div class="content-grid">
-    <a href="/uploads/curriculum-spring-2020-yr.pdf">Reception</a>
-    <a href="/uploads/curriculum-spring-2020-y1.pdf">Year 1</a>
-    <a href="/uploads/curriculum-spring-2020-y2.pdf">Year 2</a>
-    <a href="/uploads/curriculum-spring-2020-y3.pdf">Year 3</a>
-    <a href="/uploads/curriculum-spring-2020-y4.pdf">Year 4</a>
-    <a href="/uploads/curriculum-spring-2020-y5.pdf">Year 5</a>
-    <a href="/uploads/curriculum-spring-2020-y6.pdf">Year 6</a>
+  {% for overview in term.overviews %}<a href="{{overview.path}}">{{overview.name}}</a>{% endfor %}
 </div>
-
-### Autumn 2019
-
-<div class="content-grid">
-    <a href="/uploads/curriculum-autumn-2019-yr.pdf">Reception</a>
-    <a href="/uploads/curriculum-autumn-2019-y1.pdf">Year 1</a>
-    <a href="/uploads/curriculum-autumn-2019-y2.pdf">Year 2</a>
-    <a href="/uploads/curriculum-autumn-2019-y3.pdf">Year 3</a>
-    <a href="/uploads/curriculum-autumn-2019-y4.pdf">Year 4</a>
-    <a href="/uploads/curriculum-autumn-2019-y5.pdf">Year 5</a>
-    <a href="/uploads/curriculum-autumn-2019-y6.pdf">Year 6</a>
-</div>
+{% endfor %}
