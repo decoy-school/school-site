@@ -39,7 +39,7 @@ This repository contains code to build [Decoy Primary School's website](decoysch
   - Newsletters
   - PP
   - Extra curricular
-  - Term Dates (has only 2 pdfs)
+  - Term Dates (also has only 2 pdfs)
   - School meals - needs menu pdfs
 - Pages to update:
   - Values (body text, posters)

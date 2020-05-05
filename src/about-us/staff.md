@@ -66,7 +66,7 @@ Mrs Tania Bull _(TA)_
 
 ## Year 1 Team
 
-Ms N. Campbell _(Teacher)_  
+Mrs N. Campbell _(Teacher)_  
 Miss C. Sinclair _(Teacher)_  
 Mrs B. Osborne _(TA)_  
 Mrs J. Huxtable _(TA)_  
