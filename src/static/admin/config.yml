@@ -129,8 +129,6 @@ collections:
             name: policies
             widget: list
             fields:
-              # - { label: text, name: text, widget: string }
-              # - { label: address, name: address, widget: string }
               - label: "Policy Name"
               - name: "policy"
               - widget: "file"
