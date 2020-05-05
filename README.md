@@ -45,5 +45,5 @@ This repository contains code to build [Decoy Primary School's website](decoysch
   - Values (body text, posters)
   - Curriculum (body text)
   - Safety information (videos out of date)
-- **FINISH HOME PAGE - STYLE BANNER, MOVE TWITTER FEED**
+- **FINISH HOME PAGE - STYLE BANNER, ~~MOVE TWITTER FEED~~**
 - Add footer logos to homepage - check what's current

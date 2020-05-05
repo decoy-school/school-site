@@ -125,12 +125,15 @@ collections:
           - { label: title, name: title, widget: string }
           - { label: layout, name: layout, widget: hidden }
           - { label: body, name: body, widget: markdown }
-          - label: links
-            name: links
+          - label: "Policy Documents"
+            name: policies
             widget: list
             fields:
-              - { label: text, name: text, widget: string }
-              - { label: address, name: address, widget: string }
+              # - { label: text, name: text, widget: string }
+              # - { label: address, name: address, widget: string }
+              - label: "Policy Name"
+              - name: "policy"
+              - widget: "file"
       - label: "Pupil Premium"
         name: pupil-premium
         file: src/information/pupil-premium.md
