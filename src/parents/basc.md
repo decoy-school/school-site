@@ -4,8 +4,6 @@ title: "Breakfast and After School Club"
 
 [[toc]]
 
-![Beans on toast!](/uploads/beans.JPG)
-
 _For more information about the service we provide including our Terms & Conditions and application documents please click [here](https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKbWFUblRocFZOVjQ&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU)._
 
 Here at Decoy, we run Breakfast & After School Clubs every day of the academic year.
@@ -20,6 +18,8 @@ Children in our First Steps Nursery, Reception, Year 1 and Year 2 classes are ta
 
 All the children have the option of a variety of breakfast choices ranging from cereals, toast, scrambled eggs and other hot items perfect for those cold wintery mornings; and just as popular in the summer term too!
 
+![Beans on toast!](/uploads/beans.JPG)
+
 The children can choose from a range of drinks including fruit juices, milk and other cold drinks. We offer a 'share platter' every morning consisting of Fruit Toast, Crumpets, Golden Pancakes; along with fresh fruit.
 
 ## After School Club
@@ -27,8 +27,6 @@ The children can choose from a range of drinks including fruit juices, milk and 
 **Our After School Club runs 3:30pm - 6:00pm.**
 
 Parents and carers also have the option to book only until 5:00pm. All children have the option of a variety of snacks including beans on toast, scrambled eggs, pizzas, pasta, toast, wraps and hotdogs. Fresh fruit, salad and drinks are provided throughout the sessions.
-
-![Children outside!](/uploads/basc.JPG)
 
 ## Additional Information
 

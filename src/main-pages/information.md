@@ -26,11 +26,11 @@ links:
     address: /information/term-dates
 documents:
   - name: Behaviour Policy
-    path: /uploads/Promoting-Positive-Behaviour-Policy-2019.pdf
-  - name: Behaviour Principles
+    path: /uploads/2019-decoy-promoting-positive-behaviour-policy.pdf
+  - name: Behaviour Principles 2018
     path: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
-  - name: Complaints Procedure
-    path: /uploads/Complaints-Procedure-2019.pdf
+  - name: Complaints Policy
+    path: /uploads/2019-complaints-policy.pdf
   - name: Sports Premium Report
     path: /uploads/sports-grant-report-2018-19.pdf
   - name: Charging and Remissions Policy

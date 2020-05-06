@@ -2,9 +2,9 @@
 
 ## Static Site Build Project
 
-This repository contains code to build [Decoy Primary School's website](decoyschool.co.uk). It uses [Eleventy](11ty.dev) to build static html/css and [Netlify CMS](netlifycms.org) from content management.
+This repository contains code to build [Decoy Primary School's website](http://www.decoyschool.co.uk). It uses [Eleventy](https://www.11ty.dev) to build static html/css and [Netlify CMS](https://www.netlifycms.org) for content management. It is currently hosted on [Netlify](https://www.netlify.com).
 
-**THIS PROJECT IS CURRENTLY VERY WIP**
+**THIS PROJECT IS VERY WIP**
 
 ### To Do (not a complete list)
 
@@ -20,7 +20,7 @@ This repository contains code to build [Decoy Primary School's website](decoysch
     - No Prospectus (404)
     - Nursery Admissions link -> permissions problem
   - Governors
-    - Make up document
+    - Document to show make up of governing body
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
   - ~~style lists normal lists~~
   - ~~responsive nav~~ <- look into accessibilty, and animation
@@ -34,16 +34,17 @@ This repository contains code to build [Decoy Primary School's website](decoysch
 - Things to keep in Google Drive (for now):
   - BASC club docs - linked from BASC page
   - Governors info (minutes etc) - linked from Governors page
-- Pages with lorem/nothing on:
+- Pages with placeholder content or nothing:
   - SEND
   - Newsletters
   - PP
   - Extra curricular
   - Term Dates (also has only 2 pdfs)
-  - School meals - needs menu pdfs
+  - School meals - needs menu pdfs?
 - Pages to update:
   - Values (body text, posters)
   - Curriculum (body text)
-  - Safety information (videos out of date)
-- **FINISH HOME PAGE - STYLE BANNER, ~~MOVE TWITTER FEED~~**
+  - Safety information (videos, etc out of date)
+- **FINISH HOME PAGE - STYLE BANNER, IMPROVE LOADING, ~~MOVE TWITTER FEED~~**
 - Add footer logos to homepage - check what's current
+- Add site search functionality
