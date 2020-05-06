@@ -8,6 +8,9 @@
   {% for link in links %}
     <a href="{{link.address}}">{{link.text}}</a>
   {% endfor %}
+  {% for document in documents %}
+    <a href="{{document.path}}">{{document.name}}</a>
+  {% endfor %}
   </div>
 </main>
 {% endblock %}

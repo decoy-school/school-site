@@ -12,30 +12,31 @@ links:
     address: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
   - text: School Performance Tables
     address: https://www.compare-school-performance.service.gov.uk/school/113209/decoy-primary-school/primary
-  - text: Behaviour Policy
-    address: /uploads/Promoting-Positive-Behaviour-Policy-2019.pdf
-  - text: Behaviour Principles
-    address: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
-  - text: Complaints Procedure
-    address: /uploads/Complaints-Procedure-2019.pdf
-  - text: Pupil Premium Information
-    address: /information/pupil-premium-information
-  - text: Sports Premium Report
-    address: /uploads/sports-grant-report-2018-19.pdf
   - text: SEND Information
     address: /information/send-information
   - text: Governors Information
     address: /about-us/our-governors
-  - text: Charging and Remissions Policy
-    address: /uploads/Charging-and-Remissions-Policy-2019.pdf
+  - text: Pupil Premium Information
+    address: /information/pupil-premium-information
   - text: Values and Ethos
     address: /about-us/our-values
   - text: Policies
     address: /information/policies
-  - text: Privacy Notice
-    address: /uploads/privacy-notice.pdf
   - text: Term Dates
     address: /information/term-dates
+documents:
+  - name: Behaviour Policy
+    path: /uploads/Promoting-Positive-Behaviour-Policy-2019.pdf
+  - name: Behaviour Principles
+    path: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
+  - name: Complaints Procedure
+    path: /uploads/Complaints-Procedure-2019.pdf
+  - name: Sports Premium Report
+    path: /uploads/sports-grant-report-2018-19.pdf
+  - name: Charging and Remissions Policy
+    path: /uploads/Charging-and-Remissions-Policy-2019.pdf
+  - name: Privacy Notice
+    path: /uploads/privacy-notice.pdf
 ---
 
 The government defines [what maintained schools must publish online](https://www.gov.uk/guidance/what-maintained-schools-must-publish-online). This is to help parents make informed choices and to assist Ofsted in their evaluation of our school.

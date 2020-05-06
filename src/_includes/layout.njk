@@ -41,7 +41,12 @@
         <div>
           <a class="school-logo-link" href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
         </div>
-        <div><a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a><a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a><a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a><a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a></div>
+        <div>
+          <a {% if r/\/about-us\//.test(page.url) %}class="active" {% endif %} href="/about-us/">About Us</a>
+          <a {% if r/\/information\//.test(page.url) %}class="active" {% endif %} href="/information/">Information</a>
+          <a {% if r/\/parents\//.test(page.url) %}class="active" {% endif %} href="/parents/">Parents</a>
+          <a {% if r/\/contact-us\//.test(page.url) %}class="active" {% endif %} href="/contact-us/">Contact</a>
+        </div>
       </nav>
     </header>
     <header id="nav-narrow">  
@@ -75,11 +80,9 @@
           © {{currentDate.year}}, Decoy Community Primary School
           <br />
           Deer Park Road, Newton Abbot, TQ12 1DH
-        </p>
-        <p>
+        <br />
           Telephone: <a href="tel:+441626353282">01626 353 282</a>
-        </p>
-        <p>
+        <br />
           E-mail: <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
         </p>
       </div>

@@ -51,8 +51,8 @@ img {
   /* palette */
   --brand-color: #008000;
   --brand-color-light: #00c000;
-  --background-color: ivory;
-  --highlight-color: gold;
+  --background-color: white;
+  --highlight-color: rebeccapurple;
   /* typography */
   --base-font-stack: "Open Sans", sans-serif;
   --font-size: 17px;
@@ -129,6 +129,7 @@ td {
 
 #map {
   width: 100%;
+  box-shadow: var(--shadow-2);
 }
 
 main {
@@ -150,12 +151,13 @@ main > figure {
 
 footer {
   background-color: white;
-  border-top: 1px solid gainsboro;
+  border-top: 1px solid var(--font-color);
 }
 
 .footer-inner {
   max-width: var(--content-wide);
-  margin: 2.6em auto 2em auto;
+  margin: 1.3em auto 1.1em auto;
+  padding: 0 var(--gutter);
   font-size: 0.9em;
 }
 
@@ -174,15 +176,15 @@ nav a {
 }
 
 nav a:hover {
-  color: gold;
+  color: var(--highlight-color);
 }
 
 header#nav-wide nav a.active {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid var(--brand-color);
 }
 
 header#nav-wide nav a.active:hover {
-  border-color: gold;
+  border-color: var(--highlight-color);
 }
 
 /* narrow nav */
@@ -191,7 +193,7 @@ header#nav-narrow {
 }
 
 header#nav-narrow nav a.active:hover {
-  border-color: gold;
+  border-color: var(--highlight-color);
 }
 
 /* hide on larger screens */
@@ -225,7 +227,7 @@ header#nav-narrow nav a.active:hover {
   height: 35px;
   margin: var(--gutter);
   padding: 5px;
-  background-color: white;
+  background-color: whitesmoke;
   box-shadow: var(--shadow-1);
   border-radius: 50%;
   border: none;
@@ -311,12 +313,13 @@ header#nav-wide nav {
 /* link buttons and people pictures */
 .content-grid a,
 .content-grid figure {
+  position: relative;
   margin: 0;
   margin-bottom: 10px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background-color: white;
+  background-color: whitesmoke;
   border-radius: 5px;
   box-shadow: var(--shadow-1);
 }
@@ -330,7 +333,16 @@ header#nav-wide nav {
   transition: all 0.3s ease;
 }
 
+.content-grid a[href*="//"]:not([href*="mysite.com"]):after
+{
+  content: url("/images/logos/open_in_new.svg");
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
 .content-grid a:hover {
+  color: var(--highlight-color);
   box-shadow: var(--shadow-3);
 }
 
@@ -571,8 +583,15 @@ header#nav-wide nav {
 .footer-logos div {
   width: 100px;
   height: 100px;
+  color: white;
+  font-weight: 700;
   margin: var(--gutter);
   background-color: var(--highlight-color);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-1);
 }
 
 @supports (display: grid) {

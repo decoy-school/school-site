@@ -63,6 +63,12 @@ collections:
             fields:
               - { label: text, name: text, widget: string }
               - { label: address, name: address, widget: string }
+          - label: "Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Document Name", name: "name", widget: "string" }
+              - { label: "Document", name: "path", widget: "file" }
       - label: "Parents"
         name: parents
         file: src/main-pages/parents.md
