@@ -9,7 +9,7 @@
     <!-- netlify cms script from CDN -->
     {% if page.url == "/"%}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{% endif %}
     <link rel="stylesheet" type="text/css" href="/styles/main.css">
-    <title>Decoy School | {% if title %}{{title}}{% endif %}</title>
+    <title>Decoy School{% if title %} | {{title}}{% endif %}</title>
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
   <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>    
   <script>
@@ -32,69 +32,106 @@
       })
     });
   </script>
+  <script>
+  window.addEventListener("DOMContentLoaded", function(){
+    // menu
+    var menu = document.getElementById("narrow-menu-content")
+    // open...
+    document
+      .getElementById("menu-open-button")
+      .addEventListener("click", function(){
+        menu.className = "open"
+      })
+    // ... and close
+    document
+      .getElementById("menu-close-button")
+      .addEventListener("click", function(){
+        menu.className = "closed"
+      })
+
+    // search functionality
+    // adapted from https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/
+    // redirects to /search and uses google to search if js is turned off
+    var searchView = document.getElementById("search-view")
+    var queryInput = document.getElementById("query")
+    var searchResults = document.getElementById("search-results")
+    var searchIndex = [] // the json index built at build time
+    var results = [] // will hold the output of our search
+    // open
+    document
+      .querySelectorAll(".open-search")
+      .forEach(function(button){
+        button.addEventListener("click", function (event){
+          event.preventDefault()
+          // get search index when user opens search view
+          fetch('/search-index.json')
+            .then(function(res){
+              return res.json()
+            }).then(function(res){
+              searchIndex = res.search
+              console.log(JSON.stringify(searchIndex))
+            })
+          searchView.className = "open"
+        })
+      })
+    // close
+    document
+      .getElementById("close-search")
+      .addEventListener("click", function(){
+        searchView.className = "closed"
+        results = []
+        queryInput.value = ""
+        searchResults.innerHTML = ""
+      })
+
+    // watch changes on search input and update search string
+    queryInput.addEventListener("input", function(event){
+      if(event.target.value != ""){
+        search(event.target.value.trim().toLowerCase())
+      } else {
+        searchResults.innerHTML = ""
+      }
+    })
+
+    function search(str){
+      results = searchIndex.filter(function(item){
+        return item.title.indexOf(str) != -1
+      })
+      var listItems = ""
+      results.forEach(function(result){
+        listItems = listItems + `<li><a href="${result.url}">${result.title}</a></li>`
+      })
+      searchResults.innerHTML = `
+        <ul>
+          ${listItems}
+        </ul>
+        `
+    }
+    })
+  </script>
   </head>
   <body>
   <div id="cookieconsent"></div>
   <div id="page-wrapper">
-    <header id="nav-wide">
-      <nav>
-        <div>
-          <a class="school-logo-link" href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
-        </div>
-        <div>
-          <a {% if r/\/about-us\//.test(page.url) %}class="active" {% endif %} href="/about-us/">About Us</a>
-          <a {% if r/\/information\//.test(page.url) %}class="active" {% endif %} href="/information/">Information</a>
-          <a {% if r/\/parents\//.test(page.url) %}class="active" {% endif %} href="/parents/">Parents</a>
-          <a {% if r/\/contact-us\//.test(page.url) %}class="active" {% endif %} href="/contact-us/">Contact</a>
-        </div>
-      </nav>
-    </header>
-    <header id="nav-narrow">  
-      <nav>
-        <div id="narrow-menu-controls">
-          <a class="school-logo-link" href="/"><img src="/images/logos/school-logo.svg" alt="school logo"/></a>
-          <button id="menu-open-button" class="menu-button" onclick="openMenu()">
-            <img src="/images/logos/menu.svg" alt="open site menu"/>
-          </button>
-        </div>
-        <div id="narrow-menu-content" class="closed">
-          <div id="menu-close-wrapper">
-            <button id="menu-close-button" class="menu-button" onclick="closeMenu()">
-              <img src="/images/logos/close.svg" alt="close site menu"/>
-            </button>
-          </div>
-          <a {% if page.url == "/" %}class="active" {% endif %} href="/">Home</a>
-          <a {% if page.url == "/about-us/" %}class="active" {% endif %} href="/about-us/">About Us</a>
-          <a {% if page.url == "/information/" %}class="active" {% endif %} href="/information/">Information</a>
-          <a {% if page.url == "/parents/" %}class="active" {% endif %} href="/parents/">Parents</a>
-          <a {% if page.url == "/contact-us/" %}class="active" {% endif %} href="/contact-us/">Contact</a>
-        </div>
-      </nav>
-    </header>
+    <div id="search-view" class="closed"> 
+      <header>
+      <h2>Search</h2>
+      <button id="close-search" class="menu-button">
+        <img src="/images/logos/close.svg" alt="close search"/>
+      </button>
+      </header>
+      <div class="search-inner">
+        <input id="query" type="text" placeholder="What are you looking for?"/>
+        <div id="search-results"></div>
+      </div>
+    </div>
+    {% include "page-header.njk" %}
     <div id="page-content">
       {% block pagecontent %}{% endblock %}
     </div>
-    <footer>
-      <div class="footer-inner">
-        <p>
-          © {{currentDate.year}}, Decoy Community Primary School
-          <br />
-          Deer Park Road, Newton Abbot, TQ12 1DH
-        <br />
-          Telephone: <a href="tel:+441626353282">01626 353 282</a>
-        <br />
-          E-mail: <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>.
-        </p>
-      </div>
-    </footer>
+    {% include "footer.njk" %}
   </body>
   <script>
-    var menu = document.getElementById("narrow-menu-content")
-    function openMenu(){
-      menu.className = "open"
-    }
-    function closeMenu(){
-      menu.className = "closed"
-    }
+   
   </script>
 </html>

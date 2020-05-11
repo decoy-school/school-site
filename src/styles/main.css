@@ -187,6 +187,15 @@ header#nav-wide nav a.active:hover {
   border-color: var(--highlight-color);
 }
 
+.search-icon {
+  vertical-align: text-bottom;
+  fill: var(--brand-color);
+}
+
+.search-icon:hover {
+  fill: var(--highlight-color);
+}
+
 /* narrow nav */
 header#nav-narrow {
   display: block;
@@ -222,13 +231,18 @@ header#nav-narrow nav a.active:hover {
   width: 28px;
 }
 
+.narrow-menu-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 .menu-button {
   width: 35px;
   height: 35px;
   margin: var(--gutter);
   padding: 5px;
-  background-color: whitesmoke;
-  box-shadow: var(--shadow-1);
+  background-color: white;
   border-radius: 50%;
   border: none;
   outline: none;
@@ -236,11 +250,6 @@ header#nav-narrow nav a.active:hover {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: box-shadow 0.33s;
-}
-
-.menu-button:hover {
-  box-shadow: var(--shadow-2);
 }
 
 #narrow-menu-content {
@@ -307,9 +316,104 @@ header#nav-wide nav {
   }
 }
 /* end header and nav styling */
+
 /* ------------------------ */
 
+/* seach box */
+#search-view {
+  position: fixed;
+  z-index: 50;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+  background-color: white;
+  transition: transform 0.33s;
+  box-shadow: var(--shadow-5);
+}
+
+#search-view.closed {
+  transform: translateX(-100vw);
+}
+
+#search-view.open {
+  transform: translateX(0);
+}
+
+#search-view header {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-inner {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  height: 100%;
+  overflow-y: scroll;
+  /* scrollbar styling */
+  /* EXPERIMENTAL */
+  scrollbar-width: thin;
+  scrollbar-color: var(--brand-color) white;
+}
+
+/* Works on Chrome/Edge/Safari */
+.search-inner::-webkit-scrollbar {
+  width: 12px;
+}
+.search-inner::-webkit-scrollbar-track {
+  background: white;
+}
+.search-inner::-webkit-scrollbar-thumb {
+  background-color: var(--brand-color);
+  border-radius: 20px;
+  border: 3px solid orange;
+}
+
+input#query {
+  font-family: var(--base-font-stack);
+  font-size: var(--font-size);
+  width: 100%;
+  max-width: 640px;
+  padding: 0.7em var(--gutter);
+  color: var(--font-color);
+  font-weight: 400;
+  background-color: whitesmoke;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  box-shadow: var(--shadow-1);
+  transition: all 0.3s ease;
+}
+
+input#query::placeholder {
+  color: var(--brand-color);
+  font-weight: 700;
+}
+
+input#query:focus {
+  background-color: white;
+  box-shadow: var(--shadow-2);
+  border-color: var(--brand-color-light);
+}
+
+#search-results ul {
+  text-transform: capitalize;
+}
+
+#search-results li {
+  margin: 0;
+  font-size: 1.1em;
+  margin-bottom: 0.4em;
+}
+/* end search box */
+
 /* ----------------------------- */
+
 /* link buttons and people pictures */
 .content-grid a,
 .content-grid figure {
@@ -336,6 +440,13 @@ header#nav-wide nav {
 .content-grid a[href*="//"]:not([href*="mysite.com"]):after
 {
   content: url("/images/logos/open_in_new.svg");
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.content-grid a[href$=".pdf"]:after {
+  content: url("/images/logos/pdf.svg");
   position: absolute;
   top: 10px;
   right: 10px;

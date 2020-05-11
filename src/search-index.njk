@@ -1,0 +1,19 @@
+---
+permalink: "search-index.json"
+eleventyExcludeFromCollections: true
+---
+
+{"search": [
+  {%- for item in pdfIndex -%}
+  {
+    "title": "{{item.title | lower}}",
+    "url": "{{item.url}}"
+  },
+  {%- endfor %}
+  {%- for item in collections.allPages -%}
+  {
+    "title": "{{item.data.title | lower}}",
+    "url": "{{item.url}}"
+  }{% if not loop.last %},{% else %}{%- endif -%}
+  {%- endfor %}
+]}

@@ -21,6 +21,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/static/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/static/uploads": "uploads" });
   eleventyConfig.addPassthroughCopy({ "src/styles": "styles" });
+  // create collection of all pages
+  eleventyConfig.addCollection("allPages", (collection) => collection.getAll());
+  // create collection of all pdfs in uploads folder
+  eleventyConfig.addCollection("pdfs", (collection) =>
+    collection.getFilteredByGlob("src/static/uploads/**/*.pdf")
+  );
   return {
     dir: {
       input: "src",
