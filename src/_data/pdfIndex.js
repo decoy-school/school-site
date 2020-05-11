@@ -8,6 +8,6 @@ module.exports = function () {
   );
   return files.map((file, i) => ({
     title: titles[i],
-    url: file,
+    url: "/uploads/" + file,
   }));
 };
