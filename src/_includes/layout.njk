@@ -63,6 +63,7 @@
       .forEach(function(button){
         button.addEventListener("click", function (event){
           event.preventDefault()
+          queryInput.value = ""
           // get search index when user opens search view
           fetch('/search-index.json')
             .then(function(res){
@@ -99,7 +100,7 @@
       })
       var listItems = ""
       results.forEach(function(result){
-        listItems = listItems + `<li><a href="${result.url}">${result.title}</a></li>`
+        listItems = listItems + `<li><a href="/uploads/${result.url}">${result.title}</a></li>`
       })
       searchResults.innerHTML = `
         <ul>
