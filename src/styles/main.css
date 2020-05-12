@@ -187,12 +187,12 @@ header#nav-wide nav a.active:hover {
   border-color: var(--highlight-color);
 }
 
-.search-icon {
+.svg-icon {
   vertical-align: text-bottom;
   fill: var(--brand-color);
 }
 
-.search-icon:hover {
+.svg-icon:hover {
   fill: var(--highlight-color);
 }
 
@@ -676,6 +676,7 @@ input#query:focus {
 
 .twitter-container {
   max-width: 420px;
+  max-height: 520px;
   margin: 3em 0 1em 0;
   background-color: white;
   box-shadow: var(--shadow-2);
@@ -706,7 +707,8 @@ input#query:focus {
 }
 
 @supports (display: grid) {
-  .homepage-content {
+  .homepage-content,
+  .nursery-content {
     display: grid;
     grid-template-rows: 1f;
     grid-template-areas:
@@ -715,7 +717,8 @@ input#query:focus {
       "logos";
     gap: 2em;
   }
-  .hompage-main {
+  .hompage-main,
+  .nursery-main {
     grid-area: mainContent;
   }
   .twitter-container {
@@ -733,7 +736,8 @@ input#query:focus {
     margin: 0;
   }
   @media screen and (min-width: 840px) {
-    .homepage-content {
+    .homepage-content,
+    .nursery-content {
       grid-template-columns: 1fr 420px;
       grid-template-areas:
         "mainContent twitter"

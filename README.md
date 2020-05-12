@@ -17,16 +17,16 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - Curriculum page
     - Nothing for nursery
   - Nursery Page
-    - No Prospectus (404)
-    - Nursery Admissions link -> permissions problem
-    - Note of interest
-    - Nursery Twitter
+    - ~~No Prospectus (404)~~ **doc removed**
+    - ~~Nursery Admissions link -> permissions problem~~ **doc removed**
+    - ~~Note of interest~~
+    - ~~Nursery Twitter~~
   - Governors
     - Document to show make up of governing body
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
   - ~~style lists normal lists~~
-  - ~~responsive nav~~ <- look into accessibilty, and animation
-  - twitter/fb/sidebar (add other links)
+  - ~~responsive nav~~ <- look into accessibilty, ~~and animation~~
+  - ~~twitter/fb/sidebar~~ (add other links? pta social <- do we use this? council link for snow closure)
   - ~~value pictures list styling/templating~~
   - ~~styling tables (font?)~~
   - ~~styling calc policy list on curriculum info page~~
@@ -49,4 +49,4 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - Safety information (videos, etc out of date)
 - **FINISH HOME PAGE - STYLE BANNER, IMPROVE LOADING, ~~MOVE TWITTER FEED~~**
 - Add footer logos to homepage - check what's current
-- Add site search functionality
+- ~~Add site search functionality~~ <- **this needs to index document content**

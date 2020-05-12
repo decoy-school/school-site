@@ -1,5 +1,6 @@
 ---
 title: "First Steps Nursery"
+layout: "nursery.njk"
 ---
 
 [[toc]]
