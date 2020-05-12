@@ -1,0 +1,15 @@
+{% extends "./layout.njk" %}
+
+{% block pagecontent %}
+<main class="nursery-content">
+    <div class="nursery-main">
+      <h1>{{title}}</h1>
+      {{content | safe}}
+    </div>
+    <div class="twitter-container">
+      <a class="twitter-timeline" data-chrome="transparent nofooter" data-border-color="#008000" data-link-color="#008000" href="https://twitter.com/dcpsbutterflies" data-height="480">Tweets by @DecoyPri</a>
+      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+<main>
+{% endblock %}
+
