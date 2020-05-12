@@ -19,6 +19,8 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - Nursery Page
     - No Prospectus (404)
     - Nursery Admissions link -> permissions problem
+    - Note of interest
+    - Nursery Twitter
   - Governors
     - Document to show make up of governing body
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
