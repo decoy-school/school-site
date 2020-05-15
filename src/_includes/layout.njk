@@ -70,7 +70,6 @@
               return res.json()
             }).then(function(res){
               searchIndex = res.search
-              console.log(JSON.stringify(searchIndex))
             })
           searchView.className = "open"
         })
@@ -96,7 +95,7 @@
 
     function search(str){
       results = searchIndex.filter(function(item){
-        return item.title.indexOf(str) != -1
+        return item.text.indexOf(str) != -1
       })
       var listItems = ""
       results.forEach(function(result){

@@ -17,19 +17,40 @@ module.exports = function (eleventyConfig) {
     })
     .use(markdownItFigures);
   eleventyConfig.setLibrary("md", mdIt);
+  eleventyConfig.addFilter("squash", squash);
   eleventyConfig.addPassthroughCopy({ "src/static/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "src/static/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/static/uploads": "uploads" });
   eleventyConfig.addPassthroughCopy({ "src/styles": "styles" });
   // create collection of all pages
-  eleventyConfig.addCollection("allPages", (collection) => collection.getAll());
-  // create collection of all pdfs in uploads folder
-  eleventyConfig.addCollection("pdfs", (collection) =>
-    collection.getFilteredByGlob("src/static/uploads/**/*.pdf")
-  );
+  eleventyConfig.addCollection("allPages", (collection) => {
+    // filters out pages that have "permalink: false"
+    return collection.getAll().filter((item) => item.url != false);
+  });
   return {
     dir: {
       input: "src",
     },
   };
 };
+
+// squash filter, used for building search-index.json
+// takes text input of page content, and
+// removes all html tags, new lines and punctuation
+// this was adapted from: https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/
+
+function squash(text) {
+  let content = new String(text).toLowerCase();
+  let plain = content.replace(/(<([^>]+)>)/gi, ""); // strip out html tags
+  let words = plain.split(" ");
+  let deduped = [...new Set(words)]; // remove duplicate words
+  let dedupedStr = deduped.join(" ");
+  let result = dedupedStr.replace(
+    /\b(\.|\,|the|a|an|and|am|you|I|to|if|of|off|me|my|on|in|it|is|at|as|we|do|be|has|but|was|so|no|not|or|up|for)\b/gi,
+    ""
+  ); // remove common words
+  result = result.replace(/\.|\,|\?|-|—|"|/g, ""); // remove punctation
+  result = result.replace(/:|\t|\n/g, " "); // replace new lines and tabs with spaces
+  result = result.replace(/[ ]{2,}/g, " "); // remove duplicated spaces
+  return result;
+}

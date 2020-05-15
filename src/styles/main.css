@@ -401,10 +401,6 @@ input#query:focus {
   border-color: var(--brand-color-light);
 }
 
-#search-results ul {
-  text-transform: capitalize;
-}
-
 #search-results li {
   margin: 0;
   font-size: 1.1em;

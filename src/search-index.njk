@@ -6,14 +6,16 @@ eleventyExcludeFromCollections: true
 {"search": [
   {%- for item in pdfIndex -%}
   {
-    "title": "{{item.title | lower}}",
-    "url": "{{item.url}}"
+    "title": "{{item.title}}",
+    "url": "{{item.url}}",
+    "text": "{{item.title | lower}}"
   },
   {%- endfor %}
   {%- for item in collections.allPages -%}
   {
-    "title": "{{item.data.title | lower}}",
-    "url": "{{item.url}}"
+    "title": "{{item.data.title}}",
+    "url": "{{item.url}}",
+    "text": "{{item.data.title | lower + " " + item.templateContent | squash}}"
   }{% if not loop.last %},{% else %}{%- endif -%}
   {%- endfor %}
 ]}
