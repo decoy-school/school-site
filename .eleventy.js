@@ -13,7 +13,7 @@ module.exports = function (eleventyConfig) {
     })
     .use(markdownItToc, {
       includeLevel: [2],
-      containerHeaderHtml: `<h4>What's on this page?</h4>`,
+      containerHeaderHtml: `<h4>What’s on this page?</h4>`,
     })
     .use(markdownItFigures);
   eleventyConfig.setLibrary("md", mdIt);
@@ -38,10 +38,13 @@ module.exports = function (eleventyConfig) {
 // takes text input of page content, and
 // removes all html tags, new lines and punctuation
 // this was adapted from: https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/
-
 function squash(text) {
   let content = new String(text).toLowerCase();
-  let plain = content.replace(/(<([^>]+)>)/gi, ""); // strip out html tags
+  let plain = content.replace(/(<([^>]+)>)/gi, " "); // replace html tags with spaces
+  plain = plain.replace(/\t|\n/g, " "); // replace new lines, colons and tabs with spaces
+  plain = plain.replace(/what’s on this page\?/, ""); // remove toc header
+  plain = plain.replace(/\.|\,|\?|-|—|"|\(|\)|\*|\/|!|;|\&|–/g, ""); // remove punctation
+  plain = plain.replace(/[ ]{2,}/g, " "); // remove duplicated spaces
   let words = plain.split(" ");
   let deduped = [...new Set(words)]; // remove duplicate words
   let dedupedStr = deduped.join(" ");
@@ -49,8 +52,5 @@ function squash(text) {
     /\b(\.|\,|the|a|an|and|am|you|I|to|if|of|off|me|my|on|in|it|is|at|as|we|do|be|has|but|was|so|no|not|or|up|for)\b/gi,
     ""
   ); // remove common words
-  result = result.replace(/\.|\,|\?|-|—|"|/g, ""); // remove punctation
-  result = result.replace(/:|\t|\n/g, " "); // replace new lines and tabs with spaces
-  result = result.replace(/[ ]{2,}/g, " "); // remove duplicated spaces
   return result;
 }

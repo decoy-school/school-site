@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
   {
     "title": "{{item.data.title}}",
     "url": "{{item.url}}",
-    "text": "{{item.data.title | lower + " " + item.templateContent | squash}}"
+    "text": "{{item.data.title | lower + item.templateContent | squash}}"
   }{% if not loop.last %},{% else %}{%- endif -%}
   {%- endfor %}
 ]}
