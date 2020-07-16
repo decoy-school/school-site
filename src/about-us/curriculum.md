@@ -1,6 +1,22 @@
 ---
 title: Our Curriculum
 curriculumOverviews:
+  - term: Summer 2020
+    overviews:
+      - path: /uploads/yr-curriculum-summer-2020.pdf
+        name: Reception
+      - name: Year 1
+        path: /uploads/y1-curriculum-summer-2020.pdf
+      - name: Year 2
+        path: /uploads/y2-curriculum-summer-2020.pdf
+      - name: Year 3
+        path: /uploads/y3-curriculum-summer-2020.pdf
+      - name: Year 4
+        path: /uploads/y4-curriculum-summer-2020.pdf
+      - name: Year 5
+        path: /uploads/y5-curriculum-summer-2020.pdf
+      - name: Year 6
+        path: /uploads/y6-curriculum-summer-2020.pdf
   - term: Spring 2020
     overviews:
       - name: Reception
