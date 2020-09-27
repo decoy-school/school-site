@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
   const mdIt = markdownIt({
     html: true,
     typographer: true,
+    linkify: true,
   })
     .use(markdownItAnchor, {
       level: [2, 3, 4, 5],

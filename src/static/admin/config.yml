@@ -50,6 +50,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+      - label: "COVID-19"
+        name: covid-19
+        file: src/main-pages/COVID-19.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: "Information"
         name: information
         file: src/main-pages/information.md

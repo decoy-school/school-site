@@ -286,7 +286,7 @@ header#nav-narrow nav a.active:hover {
 }
 
 #narrow-menu-content.closed {
-  transform: translateX(100vw);
+  transform: translateX(200vw);
 }
 
 #narrow-menu-content.open {
@@ -333,7 +333,7 @@ header#nav-wide nav {
 }
 
 #search-view.closed {
-  transform: translateX(-100vw);
+  transform: translateX(-200vw);
 }
 
 #search-view.open {
@@ -540,6 +540,11 @@ input#query:focus {
 
 /* layout */
 /* we need grid fallbacks */
+
+#page-content {
+  max-width: 100vw;
+}
+
 @supports (display: grid) {
   html,
   body {
