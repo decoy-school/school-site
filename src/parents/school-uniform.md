@@ -2,6 +2,8 @@
 title: "School Uniform"
 ---
 
+<div style="overflow-x:auto;">
+
 | **Girls**          |                                                                                                                                     |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Winter Uniform** | Grey skirt, grey pinafore or grey trousers. White blouse or white polo shirt. School Sweatshirt. White socks. Sensible black shoes. |
@@ -13,6 +15,8 @@ title: "School Uniform"
 | **Winter Uniform** | Grey trousers. White shirt or white polo shirt. School sweatshirt. Grey socks. Sensible black shoes.      |
 | **Summer Uniform** | As winter, or grey shorts. Plain sandals.                                                                 |
 | **PE**             | White or black PE shorts. White or green polo shirt. Plimsoles or trainers. Tracksuit or jogging bottoms. |
+
+</div>
 
 Below are four companies that all produce our uniform at excellent prices; all items have been viewed and are of great quality. Which one you use is up to you!
 

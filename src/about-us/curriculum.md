@@ -1,54 +1,54 @@
 ---
 title: Our Curriculum
 curriculumOverviews:
-  - term: Summer 2020
+  - term: Autumn
     overviews:
-      - path: /uploads/yr-curriculum-summer-2020.pdf
+      - name: Reception
+        path: /uploads/curriculum-autumn-yr.pdf
+      - name: Year 1
+        path: /uploads/curriculum-autumn-y1.pdf
+      - name: Year 2
+        path: /uploads/curriculum-autumn-y2.pdf
+      - name: Year 3
+        path: /uploads/curriculum-autumn-y3.pdf
+      - name: Year 4
+        path: /uploads/curriculum-autumn-y4.pdf
+      - name: Year 5
+        path: /uploads/curriculum-autumn-y5.pdf
+      - name: Year 6
+        path: /uploads/curriculum-autumn-y6.pdf
+  - term: Spring
+    overviews:
+      - name: Reception
+        path: /uploads/curriculum-spring-yr.pdf
+      - name: Year 1
+        path: /uploads/curriculum-spring-y1.pdf
+      - name: Year 2
+        path: /uploads/curriculum-spring-y2.pdf
+      - name: Year 3
+        path: /uploads/curriculum-spring-y3.pdf
+      - name: Year 4
+        path: /uploads/curriculum-spring-y4.pdf
+      - name: Year 5
+        path: /uploads/curriculum-spring-y5.pdf
+      - name: Year 6
+        path: /uploads/curriculum-spring-y6.pdf
+  - term: Summer
+    overviews:
+      - path: /uploads/curriculum-summer-yr.pdf
         name: Reception
       - name: Year 1
-        path: /uploads/y1-curriculum-summer-2020.pdf
+        path: /uploads/curriculum-summer-y1.pdf
       - name: Year 2
-        path: /uploads/y2-curriculum-summer-2020.pdf
+        path: /uploads/curriculum-summer-y2.pdf
       - name: Year 3
-        path: /uploads/y3-curriculum-summer-2020.pdf
+        path: /uploads/curriculum-summer-y3.pdf
       - name: Year 4
-        path: /uploads/y4-curriculum-summer-2020.pdf
+        path: /uploads/curriculum-summer-y4.pdf
       - name: Year 5
-        path: /uploads/y5-curriculum-summer-2020.pdf
+        path: /uploads/curriculum-summer-y5.pdf
       - name: Year 6
-        path: /uploads/y6-curriculum-summer-2020.pdf
-  - term: Spring 2020
-    overviews:
-      - name: Reception
-        path: /uploads/curriculum-spring-2020-yr.pdf
-      - name: Year 1
-        path: /uploads/curriculum-spring-2020-y1.pdf
-      - name: Year 2
-        path: /uploads/curriculum-spring-2020-y2.pdf
-      - name: Year 3
-        path: /uploads/curriculum-spring-2020-y3.pdf
-      - name: Year 4
-        path: /uploads/curriculum-spring-2020-y4.pdf
-      - name: Year 5
-        path: /uploads/curriculum-spring-2020-y5.pdf
-      - name: Year 6
-        path: /uploads/curriculum-spring-2020-y6.pdf
-  - term: Autumn 2019
-    overviews:
-      - name: Reception
-        path: /uploads/curriculum-autumn-2019-yr.pdf
-      - name: Year 1
-        path: /uploads/curriculum-autumn-2019-y1.pdf
-      - name: Year 2
-        path: /uploads/curriculum-autumn-2019-y2.pdf
-      - name: Year 3
-        path: /uploads/curriculum-autumn-2019-y3.pdf
-      - name: Year 4
-        path: /uploads/curriculum-autumn-2019-y4.pdf
-      - name: Year 5
-        path: /uploads/curriculum-autumn-2019-y5.pdf
-      - name: Year 6
-        path: /uploads/curriculum-autumn-2019-y6.pdf
+        path: /uploads/curriculum-summer-y6.pdf
 ---
 
 [[toc]]
@@ -89,6 +89,8 @@ We use a variety of resources to support our youngest children to develop their 
 
 At the start of the year, we run parent workshops for Reception – Year 2 parents to enable parents to better support their children in learning phonics, developing fluency and developing their comprehension skills.
 
+<div style="overflow-x:auto;">
+
 | **Phase**                                | **Phonic Knowledge and Skills**                                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Phase One (Nursery & Reception)          | Activities are divided into seven aspects, including environmental sounds, instrumental sounds, body sounds, rhythm and rhyme, alliteration, voice sounds and finally oral blending and segmenting.                                                                                                                                           |
@@ -97,6 +99,8 @@ At the start of the year, we run parent workshops for Reception – Year 2 paren
 | Phase Four (Reception) _4 to 6 weeks_    | No new grapheme-phoneme correspondences are taught in this phase. Children learn to blend and segment longer words with adjacent consonants, e.g. swim, clap, jump.                                                                                                                                                                           |
 | Phase Five (Throughout Year 1)           | Now we move on to the "complex code". Children learn more graphemes for the phonemes which they already know, plus different ways of pronouncing the graphemes they already know                                                                                                                                                              |
 | Phase Six (Throughout Year 2 and beyond) | Working on spelling, including prefixes and suffixes, doubling and dropping letters, etc.                                                                                                                                                                                                                                                     |
+
+</div>
 
 ## Early Reading
 

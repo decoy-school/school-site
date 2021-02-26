@@ -4,7 +4,10 @@
 
 This repository contains code to build [Decoy Primary School's website](http://www.decoyschool.co.uk). It uses [Eleventy](https://www.11ty.dev) to build static html/css and [Netlify CMS](https://www.netlifycms.org) for content management. It is currently hosted on [Netlify](https://www.netlify.com).
 
-**THIS PROJECT IS VERY WIP**
+**THIS PROJECT IS WORK IN PROGRESS**
+
+`npx @11ty/eleventy --serve` to start dev server
+`npx @11ty/eleventy` to build
 
 ### To Do (not a complete list)
 
