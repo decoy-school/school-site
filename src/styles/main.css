@@ -138,15 +138,15 @@ main {
   padding: 0 var(--gutter);
 }
 
+/* 
 main p,
 main ul,
 main ol {
-  max-width: 40em;
-}
+  set some different width?
+} */
 
 main > figure {
   margin: 0;
-  width: 100%;
 }
 
 footer {
@@ -229,6 +229,7 @@ header#nav-narrow nav a.active:hover {
 
 .school-logo-link img {
   width: 28px;
+  margin-right: 1em;
 }
 
 .narrow-menu-buttons {
