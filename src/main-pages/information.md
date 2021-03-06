@@ -1,6 +1,6 @@
 ---
-title: "Information"
-layout: "links.njk"
+title: Information
+layout: links.njk
 links:
   - text: Contact Details
     address: /contact-us
@@ -24,20 +24,10 @@ links:
     address: /information/policies
   - text: Term Dates
     address: /information/term-dates
-documents:
-  - name: Behaviour Policy
-    path: /uploads/2019-decoy-promoting-positive-behaviour-policy.pdf
-  - name: Behaviour Principles 2018
-    path: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
-  - name: Complaints Policy
-    path: /uploads/2019-complaints-policy.pdf
-  - name: Sports Premium Report
-    path: /uploads/sports-grant-report-2018-19.pdf
-  - name: Charging and Remissions Policy
-    path: /uploads/Charging-and-Remissions-Policy-2019.pdf
-  - name: Privacy Notice
-    path: /uploads/privacy-notice.pdf
+  - text: COVID-19 Information
+    address: /covid-19-information
+documents: []
 ---
+The government defines [what maintained schools must publish online](https://www.gov.uk/guidance/what-maintained-schools-must-publish-online). This is to help parents make informed choices and to assist Ofsted in their evaluation of our school. The following statutory information is found on this site. 
 
-The government defines [what maintained schools must publish online](https://www.gov.uk/guidance/what-maintained-schools-must-publish-online). This is to help parents make informed choices and to assist Ofsted in their evaluation of our school.
-The following statutory information is found on this site. If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
+If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
