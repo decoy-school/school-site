@@ -9,6 +9,8 @@ title: Safety Information
 Below are the SMART rules that children are taught about in school, and information for parents about children potentially accessing the social media platforms Snapchat, TikTok and WhatsApp. **Please be aware that these social media platforms do have age restrictions, but children may still be accessing them.**
 
 
+
+
 - [SMART Rules](/uploads/smart-rules.pdf)
 - [TikTok Safety Guidance](/uploads/tiktokonlinesafetyguidemarch20191.pdf)
 - [Snapchat Saftey Guidance](/uploads/parentssnapchatguidenationalonlinesafety2018.pdf)
