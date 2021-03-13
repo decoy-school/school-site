@@ -1,10 +1,18 @@
 ---
-title: "Safety Information"
+title: Safety Information
 ---
 
 [[toc]]
 
 ## Bullying Resources
+
+Below are the SMART rules that children are taught about in school, and information for parents about children potentially accessing the social media platforms Snapchat, TikTok and WhatsApp. **Please be aware that these social media platforms do have age restrictions, but children may still be accessing them.**
+
+
+- [SMART Rules](/docs/SMART-Rules.pdf)
+- [TikTok Safety Guidance](/docs/tiktokonlinesafetyguidemarch20191.pdf)
+- [Snapchat Saftey Guidance](/docs/parentssnapchatguidenationalonlinesafety2018.pdf)
+- [WhatsApp Safety Guidance](/docs/whatsappparentsguide.pdf)
 
 If you feel your child is being bullied, or bullying another child, please take a look at the guides below.
 
@@ -13,6 +21,8 @@ If you feel your child is being bullied, or bullying another child, please take 
 - [Say No to Bullying - A guide for Staff](https://issuu.com/dcpsmedia/docs/bullying_book_-_staff_2013)
 
 ## Parent Resources
+
+
 
 The following websites are recommended by [South West Grid for Learning](http://swgfl.org.uk) to support parents to keep their children safe online.
 
