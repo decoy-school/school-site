@@ -12,6 +12,8 @@ links:
     address: /parents/first-steps-nursery
   - text: Newsletters
     address: /parents/newsletters
+  - text: Letters to Parents
+    address: /parents/letters-to-parents
   - text: Parent Mail
     address: https://pmx.parentmail.co.uk/#core/login
   - text: Safety Information
