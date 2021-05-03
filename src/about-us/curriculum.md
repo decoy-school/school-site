@@ -114,7 +114,7 @@ We encourage a love of reading. To do this there are three steps to support your
 Please share books with your child as often as possible and encourage them to talk about what is happening. What, where, when why and how are always really good question starters to encourage more than a one-word answer.
 In order to further support your child with their sounds and reading and writing, the video below gives an overview of how the pure sounds are said.
 
-<iframe class="video" src="https://www.youtube.com/embed/UCI2mu7URBc" title="YouTube video player" frameborder="0" width="560" height="319" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UCI2mu7URBc" title="YouTube video player" frameborder="0" width="560" height="319" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Early Reading
 
