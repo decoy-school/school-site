@@ -80,7 +80,7 @@ The documents below give key information for parents and carers, detailing our r
 
 
 <div class="content-grid">
-<a href="/uploads/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf">Remote Education Information</a>
+<a href="/uploads/Providing-remote-education-information-to-parents-Jan 2021-Decoy.pdf">Remote Education Information</a>
 <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf">Nursery & Reception Guidance</a>
 <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf">Key Stages 1 & 2 Guidanace</a>
 </div>
