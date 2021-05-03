@@ -57,7 +57,9 @@ Our curriculum reflects the requirements of the [National Curriculum programmes 
 
 ![Children learning maths](/uploads/numicon.jpg)
 
-**Curriculum Intent** (currently under review): All children learn, practice, develop and refine a wide range of skills in their work across the curriculum. Every child's ability is recognised, developed and rewarded with our curriculum tailored to meet individual needs and aspirations. We have high expectations and a strong focus on literacy and numeracy across the curriculum.
+## Curriculum Intent
+
+All children learn, practice, develop and refine a wide range of skills in their work across the curriculum. Every child's ability is recognised, developed and rewarded with our curriculum tailored to meet individual needs and aspirations. We have high expectations and a strong focus on literacy and numeracy across the curriculum.
 
 We promote enjoyment for learning and encourage children to work independently, with partners and in groups helping them embed social skills though collaboration and cooperation. To meet each child's individual needs, we provide extra support, enrichment and new challenges to help every child fulfil their potential.
 
@@ -78,9 +80,9 @@ The documents below give key information for parents and carers, detailing our r
 
 
 <div class="cf infoButtons">
-	[Remote Education Information](/docs/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf)
-	[Nursery & Reception Guidance](/docs/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf)
-	[Key Stages 1 & 2 Guidanace](/docs/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf)
+	[Remote Education Information](/uploads/Providing_remote_education_information_to_parents_Jan 2021_Decoy.pdf)
+	[Nursery & Reception Guidance](/uploads/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf)
+	[Key Stages 1 & 2 Guidanace](/uploads/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf)
 </div>
 
 ## Mathematics
