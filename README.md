@@ -35,7 +35,7 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - ~~styling calc policy list on curriculum info page~~
   - ~~add most recent curriculum overview docs~~
 - ~~add toc's - styling and layout~~
-- Photos - take new photos, check permissions
+- Photos - take new photos, check permissions, look at https://www.npmjs.com/package/eleventy-plugin-sharp for processing/responsive images
 - Things to keep in Google Drive (for now):
   - BASC club docs - linked from BASC page
   - Governors info (minutes etc) - linked from Governors page
