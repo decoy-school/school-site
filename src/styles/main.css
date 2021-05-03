@@ -132,6 +132,13 @@ td {
   box-shadow: var(--shadow-2);
 }
 
+.video {
+  border: none;
+  box-sizing: border-box;
+  width: 100%;
+  height: 360px;
+}
+
 main {
   max-width: var(--content-wide);
   margin: 0 auto;
