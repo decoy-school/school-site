@@ -18,11 +18,11 @@ Below are the SMART rules that children are taught about in school, and informat
 If you feel your child is being bullied, or bullying another child, please take a look at the guides below.
 
 <div class="content-grid">
-<a href="/uploads/smart-rules.pdf">SMART Rules</a>
-- [Say No to Bullying - A guide for Pupils](https://issuu.com/dcpsmedia/docs/bullying_book_-_pupils_2013)
-- [Say No to Bullying - A guide for Parents](https://issuu.com/dcpsmedia/docs/bullying_book_-_parents_2013)
-- [Say No to Bullying - A guide for Staff](https://issuu.com/dcpsmedia/docs/bullying_book_-_staff_2013)
+<a href="https://issuu.com/dcpsmedia/docs/bullying_book_-_pupils_2013">Say No to Bullying - A guide for Pupils</a>
+<a href="https://issuu.com/dcpsmedia/docs/bullying_book_-_parents_2013">Say No to Bullying - A guide for Parents</a>
+<a href="https://issuu.com/dcpsmedia/docs/bullying_book_-_staff_2013">Say No to Bullying - A guide for Staff</a>
 </div>
+
 ## Parent Resources
 
 The following websites are recommended by [South West Grid for Learning](http://swgfl.org.uk) to support parents to keep their children safe online.
