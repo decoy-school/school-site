@@ -2,42 +2,40 @@
 title: Our Curriculum
 subjectOverviews:
   - name: Art and Design
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Computing
     path: /uploads/decoy-computing-overview.pdf
   - name: Design and Technology
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: English
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: EYFS
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: French
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Geography
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: History
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Mathematics
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Music
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Phonics
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Physical Education
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: PSHE
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Religious Education
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
   - name: Science
-    path: \#
+    path: /about-us/our-curriculum/#curriculum-by-subject
 ---
 
 [[toc]]
 
 Our curriculum reflects the requirements of the [National Curriculum programmes of study](https://www.gov.uk/government/collections/national-curriculum), which all maintained schools in England must teach.
-
-![Children learning maths](/uploads/numicon.jpg)
 
 ## Curriculum Intent
 
@@ -58,6 +56,8 @@ If you would like any other information about our school curriculum, please cont
 <div class="content-grid">
 {% for subject in subjectOverviews %}<a href="{{subject.path}}">{{subject.name}}</a>{% endfor %}
 </div>
+
+![Children learning maths](/uploads/numicon.jpg)
 
 ## Mathematics
 
