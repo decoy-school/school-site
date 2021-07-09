@@ -8,6 +8,8 @@ Est adipisicing non amet sint tempor laborum sunt incididunt adipisicing reprehe
 
 Information about SEND at Decoy School can be found below:
 
-- [SEND Policy](/uploads/SEND-Policy-2019.pdf)
-- [Devon SEND Local Offer](https://new.devon.gov.uk/educationandfamilies/special-educational-needs-and-disability-send-local-offer)
-- [SEND Information Report](/uploads/SEND-Information-Report-2019-20.pdf)
+<div class="content-grid">
+  <a href="/uploads/SEND-Policy-2019.pdf">SEND Policy</a>
+  <a href="https://new.devon.gov.uk/educationandfamilies/special-educational-needs-and-disability-send-local-offer">Devon SEND Local Offer</a>
+  <a href="/uploads/SEND-Information-Report-2019-20.pdf">SEND Information Report</a>
+</div>

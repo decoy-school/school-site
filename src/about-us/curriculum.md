@@ -1,54 +1,36 @@
 ---
 title: Our Curriculum
-curriculumOverviews:
-  - term: Autumn
-    overviews:
-      - name: Reception
-        path: /uploads/curriculum-autumn-yr.pdf
-      - name: Year 1
-        path: /uploads/curriculum-autumn-y1.pdf
-      - name: Year 2
-        path: /uploads/curriculum-autumn-y2.pdf
-      - name: Year 3
-        path: /uploads/curriculum-autumn-y3.pdf
-      - name: Year 4
-        path: /uploads/curriculum-autumn-y4.pdf
-      - name: Year 5
-        path: /uploads/curriculum-autumn-y5.pdf
-      - name: Year 6
-        path: /uploads/curriculum-autumn-y6.pdf
-  - term: Spring
-    overviews:
-      - name: Reception
-        path: /uploads/curriculum-spring-yr.pdf
-      - name: Year 1
-        path: /uploads/curriculum-spring-y1.pdf
-      - name: Year 2
-        path: /uploads/curriculum-spring-y2.pdf
-      - name: Year 3
-        path: /uploads/curriculum-spring-y3.pdf
-      - name: Year 4
-        path: /uploads/curriculum-spring-y4.pdf
-      - name: Year 5
-        path: /uploads/curriculum-spring-y5.pdf
-      - name: Year 6
-        path: /uploads/curriculum-spring-y6.pdf
-  - term: Summer
-    overviews:
-      - path: /uploads/curriculum-summer-yr.pdf
-        name: Reception
-      - name: Year 1
-        path: /uploads/curriculum-summer-y1.pdf
-      - name: Year 2
-        path: /uploads/curriculum-summer-y2.pdf
-      - name: Year 3
-        path: /uploads/curriculum-summer-y3.pdf
-      - name: Year 4
-        path: /uploads/curriculum-summer-y4.pdf
-      - name: Year 5
-        path: /uploads/curriculum-summer-y5.pdf
-      - name: Year 6
-        path: /uploads/curriculum-summer-y6.pdf
+subjectOverviews:
+  - name: Art and Design
+    path: \#
+  - name: Computing
+    path: \#
+  - name: Design and Technology
+    path: \#
+  - name: English
+    path: \#
+  - name: EYFS
+    path: \#
+  - name: French
+    path: \#
+  - name: Geography
+    path: \#
+  - name: History
+    path: \#
+  - name: Mathematics
+    path: \#
+  - name: Music
+    path: \#
+  - name: Phonics
+    path: \#
+  - name: Physical Education
+    path: \#
+  - name: PSHE
+    path: \#
+  - name: Religious Education
+    path: \#
+  - name: Science
+    path: \#
 ---
 
 [[toc]]
@@ -70,6 +52,12 @@ Alongside the statutory National Curriculum, PSHE and RE, our curriculum also in
 The links below outline the curriculum during the academic year for each year group and the termly overviews.
 
 If you would like any other information about our school curriculum, please contact Mrs. Heather Poustie, Headteacher.
+
+## Curriculum by Subject
+
+<div class="content-grid">
+{% for subject in subjectOverviews %}<a href="{{subject.path}}">{{subject.name}}</a>{% endfor %}
+</div>
 
 ## Mathematics
 
@@ -109,15 +97,3 @@ In order to further support your child with their sounds and reading and writing
 ## Early Reading
 
 Teaching of phonics is integral to the teaching of reading and although a major part, it is not the only thing we do. We have a range of reading books from which the children can choose. These are organised into colour bands, through which children progress as their phonic and comprehension skills develop. In addition to Letters and Sounds sessions, the children are taught by their teacher in what are called "guided reading" groups where teachers teach and assess children's reading skills. Children are also free to borrow books from our school library.
-
-## Year Group Curricula
-
-Please use the links below for an overview of the curriculum being followed by each year group. If you would like a flavour of some of the rich learning experiences at Decoy School, please have a look at our Twitter feed.
-
-{% for term in curriculumOverviews %}
-
-<h3>{{term.term}}</h3>
-<div class="content-grid">
-  {% for overview in term.overviews %}<a href="{{overview.path}}">{{overview.name}}</a>{% endfor %}
-</div>
-{% endfor %}

@@ -97,17 +97,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
-          - label: "Curriculum Overviews"
-            name: curriculumOverviews
+          - label: "Subject Overviews"
+            name: subjectOverviews
             widget: list
             fields:
-              - { label: Term, name: term, widget: string }
-              - label: "Overviews"
-                name: overviews
-                widget: list
-                fields:
-                  - { label: "Year", name: "name", widget: "string" }
-                  - { label: "Overview Document", name: "path", widget: "file" }
+              - { label: "Document Name", name: "name", widget: "string" }
+              - { label: "Document", name: "path", widget: "file" }
       - label: "Staff"
         name: staff
         file: src/about-us/staff.md
