@@ -28,7 +28,11 @@ links:
     address: /information/term-dates
   - text: COVID-19 Information
     address: /covid-19-information
+  - text: School Financial Benchmarking Service
+    address: https://schools-financial-benchmarking.service.gov.uk/
 documents:
+  - name: COVID 19 Catch-Up Premium Plan
+    path: /uploads/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf
   - name: Sports Premium Report
     path: /uploads/sports-grant-report-2018-19.pdf
 ---
