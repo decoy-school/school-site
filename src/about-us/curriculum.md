@@ -4,7 +4,7 @@ subjectOverviews:
   - name: Art and Design
     path: \#
   - name: Computing
-    path: \#
+    path: /uploads/decoy-computing-overview.pdf
   - name: Design and Technology
     path: \#
   - name: English
