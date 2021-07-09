@@ -12,6 +12,8 @@ links:
     address: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
   - text: School Performance Tables
     address: https://www.compare-school-performance.service.gov.uk/school/113209/decoy-primary-school/primary
+  - text: Our Curriculum
+    address: /about-us/our-curriculum
   - text: SEND Information
     address: /information/send-information
   - text: Governors Information
