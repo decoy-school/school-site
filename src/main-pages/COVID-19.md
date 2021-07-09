@@ -2,6 +2,16 @@
 title: COVID-19 Information
 ---
 
+## Remote Learning Information
+
+The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
+
+<div class="content-grid">
+  <a href="/uploads/Providing-remote-education-information-to-parents-Jan-2021-Decoy.pdf">Remote Education Information</a>
+  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf">Nursery & Reception Guidance</a>
+  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf">Key Stages 1 & 2 Guidanace</a>
+</div>
+
 ## Opening Decoy Community Primary School to All Children September 2020
 
 Government guidance regarding schools’ opening in England in September 2020 was updated on Friday 28th August at 9pm.

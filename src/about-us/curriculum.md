@@ -71,16 +71,6 @@ The links below outline the curriculum during the academic year for each year gr
 
 If you would like any other information about our school curriculum, please contact Mrs. Heather Poustie, Headteacher.
 
-## Remote Learning Information
-
-The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
-
-<div class="content-grid">
-  <a href="/uploads/Providing-remote-education-information-to-parents-Jan-2021-Decoy.pdf">Remote Education Information</a>
-  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf">Nursery & Reception Guidance</a>
-  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf">Key Stages 1 & 2 Guidanace</a>
-</div>
-
 ## Mathematics
 
 Please use these links for our calculation policy and for the key objectives for each year group in maths:
