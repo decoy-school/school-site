@@ -47,8 +47,6 @@ policies:
     name: SEND Information Report 2019-20
   - path: /uploads/whistleblowing-policy-may-2016.pdf
     name: Whistleblowing 2016
-  - name: Sports Premium Report
-    path: /uploads/sports-grant-report-2018-19.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
