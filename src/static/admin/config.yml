@@ -73,7 +73,7 @@ collections:
             name: documents
             widget: list
             fields:
-              - { label: "Document Name", name: "name", widget: "string" }
+              - { label: "Document name", name: "name", widget: "string" }
               - { label: "Document", name: "path", widget: "file" }
       - label: "Parents"
         name: parents
@@ -97,12 +97,6 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
-          - label: "Subject Overviews"
-            name: subjectOverviews
-            widget: list
-            fields:
-              - { label: "Document Name", name: "name", widget: "string" }
-              - { label: "Document", name: "path", widget: "file" }
       - label: "Staff"
         name: staff
         file: src/about-us/staff.md
@@ -147,8 +141,8 @@ collections:
             name: policies
             widget: list
             fields:
-              - { label: "Policy Name", name: "name", widget: "string" }
-              - { label: "Policy Document", name: "path", widget: "file" }
+              - { label: "Policy name", name: "name", widget: "string" }
+              - { label: "Policy document", name: "path", widget: "file" }
       - label: "Pupil Premium"
         name: pupil-premium
         file: src/information/pupil-premium.md
@@ -159,8 +153,8 @@ collections:
             name: policies
             widget: list
             fields:
-              - { label: "Policy Name", name: "name", widget: "string" }
-              - { label: "Policy Document", name: "path", widget: "file" }
+              - { label: "Policy name", name: "name", widget: "string" }
+              - { label: "Policy document", name: "path", widget: "file" }
       - label: "SEND"
         name: send
         file: src/information/send.md
@@ -193,3 +187,9 @@ collections:
     fields:
       - { label: title, name: title, widget: string }
       - { label: body, name: body, widget: markdown }
+      - label: "Curricular Documents"
+        name: documents
+        widget: list
+        fields:
+          - { label: "Document title", name: "name", widget: "string" }
+          - { label: "Curriculum document", name: "path", widget: "file" }

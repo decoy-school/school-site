@@ -1,5 +1,5 @@
 {
-  "layout": "default.njk",
+  "layout": "curricula.njk",
   "tags": "curricula",
-  "permalink": false
+  "permalink": "about-us/our-curriculum/{{title | slug}}/index.html"
 }
