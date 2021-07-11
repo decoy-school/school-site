@@ -193,3 +193,15 @@ collections:
         fields:
           - { label: "Document title", name: "name", widget: "string" }
           - { label: "Curriculum document", name: "path", widget: "file" }
+  - name: letters
+    label: Letters to Parents
+    folder: src/letters
+    create: false
+    fields:
+      - { label: title, name: title, widget: string }
+      - label: "Letters"
+        name: letters
+        widget: list
+        fields:
+          - { label: "Letter title", name: "name", widget: "string" }
+          - { label: "Letter document", name: "path", widget: "file" }

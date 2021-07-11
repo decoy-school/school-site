@@ -1,5 +1,4 @@
 ---
 title: Letters to Year 6
+letters: []
 ---
-
-Letters for Year 6 will be here!

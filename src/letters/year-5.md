@@ -1,5 +1,4 @@
 ---
 title: Letters to Year 5
+letters: []
 ---
-
-Letters for Year 5 will be here!

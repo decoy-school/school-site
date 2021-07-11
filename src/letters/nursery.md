@@ -1,5 +1,4 @@
 ---
 title: Letters to Nursery
+letters: []
 ---
-
-Letters for Nursery will be here!

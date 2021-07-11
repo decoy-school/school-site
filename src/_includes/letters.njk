@@ -1,0 +1,18 @@
+
+{% extends "./layout.njk" %}
+
+{% block pagecontent %}
+<main>
+  <h1>{{title}}</h1>
+  {{content | safe}}
+  {% if letters.length %}
+  <div class="content-grid">
+  {% for letter in letters %}
+  <a href="{{letter.path}}">{{letter.name}}</a>
+  {% endfor %}
+  </div>
+  {% else %}
+  <p>{{title}} will be here!</p>
+  {% endif %}
+<main>
+{% endblock %}

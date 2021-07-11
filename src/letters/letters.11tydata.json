@@ -1,5 +1,5 @@
 {
-  "layout": "default.njk",
+  "layout": "letters.njk",
   "tags": "letters",
   "permalink": "/parents/{{title | slug}}/index.html"
 }

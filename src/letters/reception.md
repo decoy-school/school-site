@@ -1,5 +1,4 @@
 ---
 title: Letters to Reception
+letters: []
 ---
-
-Letters for Reception will be here!
