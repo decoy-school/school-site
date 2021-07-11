@@ -41,7 +41,6 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - Governors info (minutes etc) - linked from Governors page
 - Pages with placeholder content or nothing:
   - SEND
-  - Newsletters
   - PP
   - Extra curricular
   - School meals - needs menu pdfs?
