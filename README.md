@@ -44,12 +44,14 @@ This repository contains code to build [Decoy Primary School's website](http://w
   - Newsletters
   - PP
   - Extra curricular
-  - Term Dates (also has only 2 pdfs)
   - School meals - needs menu pdfs?
 - Pages to update:
   - Values (body text, posters)
-  - Curriculum (body text)
+  - ~~Curriculum (body text)~~
+  - Curriculum ongoing - need each pdf
   - Safety information (videos, etc out of date)
+  - staff page
 - **FINISH HOME PAGE - STYLE BANNER, IMPROVE LOADING, ~~MOVE TWITTER FEED~~**
+- Look into https://www.npmjs.com/package/eleventy-plugin-sharp
 - Add footer logos to homepage - check what's current
 - ~~Add site search functionality~~ <- **this needs to index document content**
