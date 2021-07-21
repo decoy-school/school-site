@@ -6,7 +6,7 @@ policies:
   - path: /uploads/2020-behaviour-principles-written-statement.pdf
     name: Behaviour Principles
   - path: /uploads/2021-promoting-positive-behaviour-policy-covid.pdf
-    name: Positive Behaviour
+    name: Promoting Positive Behaviour
   - name: Homework
     path: /uploads/2018-homework-policy.pdf
   - path: /uploads/2018-outdoor-education-visits-and-off-site-activities-policy.pdf
