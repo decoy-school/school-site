@@ -2,7 +2,7 @@
 title: Policies
 policies:
   - path: /uploads/2021-charging-and-remissions-policy.pdf
-    name: Charging and Remissions 2019
+    name: Charging and Remissions
   - path: /uploads/2020-behaviour-principles-written-statement.pdf
     name: Behaviour Principles
   - path: /uploads/2019-decoy-promoting-positive-behaviour-policy.pdf
@@ -20,9 +20,9 @@ policies:
   - path: /uploads/2021-anti-bullying-policy.pdf
     name: Anti-Bullying
   - path: /uploads/2020-cp_and_safeguarding_policy_.pdf
-    name: Child Protection and Safeguarding 2019
-  - path: /uploads/2019-complaints-policy.pdf
-    name: Complaints 2019
+    name: Child Protection and Safeguarding
+  - path: /uploads/2021-complaints-policy.pdf
+    name: Complaints
   - path: /uploads/2019-decoy-admissions-policy.pdf
     name: Admissions 2019
   - path: /uploads/2019-health-_-safety-policy.pdf
