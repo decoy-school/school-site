@@ -39,14 +39,20 @@ minutes:
     documents:
       - name: Full Board Meeting, 1/2/21
         path: /uploads/fgb-minutes-1-february-2021.pdf
+      - name: Business Mangement Committee, 25/1/21
+        path: /uploads/bm-committee-minutes-25-january-2021.pdf
       - name: Learning and Wellbeing Committee, 18/1/21
         path: /uploads/lw-committee-minutes-18-january-2021.pdf
       - name: Full Board Meeting, 7/12/20
         path: /uploads/fgb-minutes-7-december-2020.pdf
+      - name: Business Mangement Committee, 23/11/20
+        path: /uploads/bm-committee-minutes-23-november-2020.pdf
       - name: Learning and Wellbeing Committee, 16/11/20
         path: /uploads/lw-committee-minutes-16-november-2020.pdf
       - name: Full Board Meeting, 5/10/20
         path: /uploads/fgb-minutes-5-october-2020.pdf
+      - name: Business Mangement Committee, 28/9/20
+        path: /uploads/bm-committee-minutes-28-september-2020.pdf
       - name: Learning and Wellbeing Committtee, 21/9/21
         path: /uploads/lw-committee-minutes-21-september-2020.pdf
 ---
