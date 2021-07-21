@@ -688,25 +688,16 @@ input#query:focus {
 }
 
 .footer-logos {
-  margin-bottom: 2em;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.footer-logos div {
-  width: 100px;
+.footer-logos img {
+  width: auto;
   height: 100px;
-  color: white;
-  font-weight: 700;
   margin: var(--gutter);
-  background-color: var(--highlight-color);
-  border-radius: 5px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: var(--shadow-1);
 }
 
 @supports (display: grid) {
