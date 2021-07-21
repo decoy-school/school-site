@@ -1,7 +1,7 @@
 ---
 title: Policies
 policies:
-  - path: /uploads/Charging-and-Remissions-Policy-2019.pdf
+  - path: /uploads/2021-charging-and-remissions-policy.pdf
     name: Charging and Remissions 2019
   - path: /uploads/2020-behaviour-principles-written-statement.pdf
     name: Behaviour Principles
