@@ -49,6 +49,8 @@ policies:
     name: Whistleblowing 2016
   - name: Collective Worship
     path: /uploads/2019-collective-worship.pdf
+  - name: Dinner Debt Recovery Policy
+    path: /uploads/2019-decoy-dinner-debt-recovery-policy-2-.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
