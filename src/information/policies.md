@@ -26,7 +26,7 @@ policies:
   - name: Complaints Procedure Form
     path: /uploads/Complaints-Procedure-Form-for-Parents.pdf
   - path: /uploads/2022-decoy-admissions-policy.pdf
-    name: Admissions
+    name: Admissions 2022
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
   - path: /uploads/2021-send-policy.pdf
