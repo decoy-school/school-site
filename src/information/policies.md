@@ -11,8 +11,8 @@ policies:
     path: /uploads/2018-homework-policy.pdf
   - path: /uploads/2018-outdoor-education-visits-and-off-site-activities-policy.pdf
     name: Outdoor Education and Visits 2018
-  - name: Supporting Pupils with Medical Condtions 2018
-    path: /uploads/Supporting-Pupils-With-Medical-Conditions-2018-Policy.pdf
+  - name: Supporting Pupils with Medical Condtions
+    path: /uploads/2021-24-supporting-pupils-with-medical-conditions.pdf
   - path: /uploads/Subject-Access-Requests-Policy-2018.pdf
     name: Subject Access Requests 2018
   - path: /uploads/2019-2022-accessibility-plan.pdf
