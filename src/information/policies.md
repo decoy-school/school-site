@@ -9,7 +9,7 @@ policies:
     name: Promoting Positive Behaviour
   - name: Homework
     path: /uploads/2018-homework-policy.pdf
-  - path: /uploads/2018-outdoor-education-visits-and-off-site-activities-policy.pdf
+  - path: /uploads/2020-outdoor-education-visits-and-off-site-activities-policy.pdf
     name: Outdoor Education and Visits
   - name: Supporting Pupils with Medical Condtions
     path: /uploads/2021-24-supporting-pupils-with-medical-conditions.pdf
@@ -27,6 +27,8 @@ policies:
     path: /uploads/Complaints-Procedure-Form-for-Parents.pdf
   - path: /uploads/2022-decoy-admissions-policy.pdf
     name: Admissions 2022
+  - name: Admissions 2021
+    path: /uploads/2021-decoy-admissions-policy.pdf
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
   - path: /uploads/2021-send-policy.pdf
@@ -45,7 +47,7 @@ policies:
     name: Privacy Notice
   - path: /uploads/send-information-report-2020-21.pdf
     name: SEND Information Report
-  - path: /uploads/whistleblowing-policy-may-2016.pdf
+  - path: /uploads/2020-whistleblowing-policy.pdf
     name: Whistleblowing
   - name: Collective Worship
     path: /uploads/2019-collective-worship.pdf
@@ -59,6 +61,12 @@ policies:
     path: /uploads/2021-relationships-sex-and-health-education-policy.pdf
   - name: COVID - Safeguarding Appendix
     path: /uploads/covid-safeguarding-policy-appendix-april-2020-004-1-.pdf
+  - name: Freedom of Publication Scheme
+    path: /uploads/2020-foi-publication-scheme.pdf
+  - name: Lettings
+    path: /uploads/2020-lettings-policy.pdf
+  - name: Privacy Notice - NHS Test and Trace
+    path: /uploads/2020-privacy_notice_nhs_test_trace_addendum.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
