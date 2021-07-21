@@ -28,6 +28,6 @@ Parents and carers also have the option to book only until 5:00pm. All children 
 
 ## Additional Information
 
-Choosing the correct childcare is crucial, and we offer group care to children from Nursery up to Year 6. This may not be everyone’s choice, and therefore we provide information on other types of childcare through the Devon County Council’s Family Information Service **(DISC)**. There are several local child-minders who drop off and collect from Decoy; details can be found by going to the [Devon Family Information Directory](http://devon.childrensservicedirectory.org.uk/kb5/devon/disc/home.page).
+Choosing the correct childcare is crucial, and we offer group care to children from Nursery up to Year 6. This may not be everyone’s choice, and therefore we provide information on other types of childcare through the Devon County Council’s Family Information Service **(DISC)**. There are several local child-minders who drop off and collect from Decoy; details can be found by going to [Devon County Council's website](https://www.devon.gov.uk/educationandfamilies/early-years-and-childcare).
 
 All of our bread products are kindly supplied by Warburtons.

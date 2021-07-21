@@ -32,7 +32,7 @@ Afternoon Session: 1:00pm - 3:30pm
 
 ## Additional Information
 
-** Devon County Council - Early Years & Childcare Website - please click [here](https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare). **
+**Devon County Council - Early Years & Childcare Website - please click [here](https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare).**
 
 If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator):  
 <a href='tel:+441626353282'>01626 353 282</a> - <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
