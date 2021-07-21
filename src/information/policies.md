@@ -39,7 +39,7 @@ policies:
     name: Calculation
   - path: /uploads/maths-policy-2016.pdf
     name: Maths 2016
-  - path: /uploads/Online-Safety-Policy-2016.pdf
+  - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
   - path: /uploads/privacy-notice.pdf
     name: Privacy Notice
