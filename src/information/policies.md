@@ -57,6 +57,8 @@ policies:
     path: /uploads/2021-looked-after-and-previously-looked-after-policy-january.pdf
   - name: Relationships, Sex and Health Education
     path: /uploads/2021-relationships-sex-and-health-education-policy.pdf
+  - name: COVID - Safeguarding Appendix
+    path: /uploads/covid-safeguarding-policy-appendix-april-2020-004-1-.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
