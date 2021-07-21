@@ -43,8 +43,8 @@ policies:
     name: Online Safety
   - path: /uploads/privacy-notice.pdf
     name: Privacy Notice
-  - path: /uploads/SEND-Information-Report-2019-20.pdf
-    name: SEND Information Report 2019-20
+  - path: /uploads/send-information-report-2020-21.pdf
+    name: SEND Information Report
   - path: /uploads/whistleblowing-policy-may-2016.pdf
     name: Whistleblowing 2016
   - name: Collective Worship
