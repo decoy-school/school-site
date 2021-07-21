@@ -126,7 +126,7 @@ collections:
             widget: list
             fields:
               - { label: "Document name", name: name, widget: string }
-              - { label: "Document", name: path, widget: string }
+              - { label: "Document", name: path, widget: file }
           - label: "People"
             name: people
             widget: list
