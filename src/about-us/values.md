@@ -8,8 +8,6 @@ title: "Our Values"
 
 Decoy Community Primary School actively encourages its children to become caring, hardworking, creative and interesting citizens of the future. Pupils are supported to develop respect for each other and positive relationships.
 
-![Children playing on the slide](/uploads/slide.jpg)
-
 ## Aims
 
 At Decoy Community Primary School, we aim to:
@@ -19,8 +17,6 @@ At Decoy Community Primary School, we aim to:
 - Ensure all members of the school staff are confident in their respective roles, working together as a team, co-ordinated by effective leadership.
 - Provide a personal and social education which will encourage children to become independent, confident, self-disciplined and courteous.
 - Create a school environment which is welcoming, visually inviting, and which is safe and secure for all members of the school community.
-
-![Drawing](/uploads/drawing2.jpg)
 
 ## Values
 

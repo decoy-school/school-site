@@ -34,8 +34,6 @@ The following websites are recommended by [South West Grid for Learning](http://
   <a href="http://www.saferinternet.org.uk/advice-and-resources/parents-and-carers/parents-guide-to-technology">Parents' Guide to Technology</a>
 </div>
 
-![Children using computers](/uploads/chromebook.jpg)
-
 ## Video Guides for Parents
 
 The following videos are led by David Wright, Director of the UK Safer Internet Centre, who talks about online parenting.
