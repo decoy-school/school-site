@@ -16,7 +16,7 @@ policies:
   - path: /uploads/Subject-Access-Requests-Policy-2018.pdf
     name: Subject Access Requests 2018
   - path: /uploads/2019-2022-accessibility-plan.pdf
-    name: Accessibilty Plan 2019-2020
+    name: Accessibilty Plan
   - path: /uploads/2019-anti-bullying-policy.pdf
     name: Anti-Bullying 2019
   - path: /uploads/2019-child-protection-andsafeguarding-policy.pdf
