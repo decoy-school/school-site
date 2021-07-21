@@ -23,8 +23,8 @@ policies:
     name: Child Protection and Safeguarding
   - path: /uploads/2021-complaints-policy.pdf
     name: Complaints
-  - path: /uploads/2019-decoy-admissions-policy.pdf
-    name: Admissions 2019
+  - path: /uploads/2022-decoy-admissions-policy.pdf
+    name: Admissions
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
   - path: /uploads/2021-send-policy.pdf
