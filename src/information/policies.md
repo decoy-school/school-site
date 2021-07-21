@@ -19,7 +19,7 @@ policies:
     name: Accessibilty Plan
   - path: /uploads/2019-anti-bullying-policy.pdf
     name: Anti-Bullying 2019
-  - path: /uploads/2019-child-protection-andsafeguarding-policy.pdf
+  - path: /uploads/2020-cp_and_safeguarding_policy_.pdf
     name: Child Protection and Safeguarding 2019
   - path: /uploads/2019-complaints-policy.pdf
     name: Complaints 2019
