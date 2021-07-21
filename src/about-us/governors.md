@@ -71,3 +71,12 @@ All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne 
 </div>
 
 ## Meeting Minutes
+
+{% for year in minutes %}
+
+### {{year.year}}
+
+<div class="content-grid">
+{% for document in year.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+</div>
+{% endfor %}
