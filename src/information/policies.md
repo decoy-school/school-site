@@ -33,6 +33,8 @@ policies:
     name: Attendence
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
     name: Equality Information and Objectives
+  - name: Public Sector Equality Duty
+    path: /uploads/2019-21-public-sector-equality-duty-compliance.pdf
   - path: /uploads/freedom-of-information.pdf
     name: Freedom of Information
   - path: /uploads/calculation-policy.pdf
