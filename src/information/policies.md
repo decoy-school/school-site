@@ -25,8 +25,8 @@ policies:
     name: Complaints
   - path: /uploads/2019-decoy-admissions-policy.pdf
     name: Admissions 2019
-  - path: /uploads/2019-health-_-safety-policy.pdf
-    name: Health and Safety 2019
+  - path: /uploads/2021-health-safety-policy.pdf
+    name: Health and Safety
   - path: /uploads/SEND-Policy-2019.pdf
     name: SEND 2019
   - path: /uploads/Attendance-Policy-2018.pdf
