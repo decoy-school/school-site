@@ -23,6 +23,8 @@ policies:
     name: Child Protection and Safeguarding
   - path: /uploads/2021-complaints-policy.pdf
     name: Complaints
+  - name: Complaints Procedure Form
+    path: /uploads/Complaints-Procedure-Form-for-Parents.pdf
   - path: /uploads/2022-decoy-admissions-policy.pdf
     name: Admissions
   - path: /uploads/2021-health-safety-policy.pdf
@@ -37,10 +39,6 @@ policies:
     path: /uploads/2019-21-public-sector-equality-duty-compliance.pdf
   - path: /uploads/freedom-of-information.pdf
     name: Freedom of Information
-  - path: /uploads/calculation-policy.pdf
-    name: Calculation
-  - path: /uploads/maths-policy-2016.pdf
-    name: Maths
   - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
   - path: /uploads/privacy-notice.pdf
