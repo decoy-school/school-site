@@ -207,7 +207,7 @@ header#nav-narrow nav a.active:hover {
 }
 
 /* hide on larger screens */
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 720px) {
   header#nav-narrow {
     display: none;
   }
@@ -312,7 +312,7 @@ header#nav-wide nav {
 }
 
 /* only show on larger screens */
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 720px) {
   header#nav-wide {
     display: block;
   }
@@ -515,7 +515,7 @@ input#query:focus {
   margin-bottom: 0.2em;
 }
 
-@media screen and (min-width: 640px) {
+@media screen and (min-width: 720px) {
   .table-of-contents ul {
     padding: 0;
   }
