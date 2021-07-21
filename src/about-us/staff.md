@@ -14,10 +14,9 @@ Mr D. Lee
 
 ## Senior Leadership Team
 
-Mrs S. Smith - _EYFS Team Leader_  
+Mrs C. Smith - _EYFS Team Leader_  
 Mrs H. Thomsett - _KS1 Team Leader_  
-Mrs Y. Morrell - _Mathematics, Year 3 and 4 Team Leader_  
-Mrs Becky Hughes - _English, Year 5 and 6 Team Leader_
+Mr S. Ball - _KS2 Team Leader_
 
 ## SEND Co-Ordinator
 
@@ -44,8 +43,7 @@ Mrs M. Hindom
 Miss C. Brealey
 
 ## Nursery Team
-
-Mrs C. Smith _(Teacher)_  
+
 Mrs V. Potter _(Teacher)_  
 Mrs L. Iddon _(HLTA)_  
 Ms E. Griffiths _(TA)_  
@@ -54,6 +52,7 @@ Ms L. Cundy-Knight _(MTA)_
 Ms A. Perkins _(MTA)_
 
 ## Reception Team
+Mrs C. Smith _(Teacher)_  
 
 Mrs A. Donnai _(Teacher)_  
 Mrs H. Cammack _(Teacher)_  
