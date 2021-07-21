@@ -39,8 +39,6 @@ policies:
     name: Equality Information and Objectives
   - name: Public Sector Equality Duty
     path: /uploads/2019-21-public-sector-equality-duty-compliance.pdf
-  - path: /uploads/freedom-of-information.pdf
-    name: Freedom of Information
   - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
   - path: /uploads/privacy-notice.pdf
@@ -61,7 +59,7 @@ policies:
     path: /uploads/2021-relationships-sex-and-health-education-policy.pdf
   - name: COVID - Safeguarding Appendix
     path: /uploads/covid-safeguarding-policy-appendix-april-2020-004-1-.pdf
-  - name: Freedom of Publication Scheme
+  - name: Freedom of Information Publication Scheme
     path: /uploads/2020-foi-publication-scheme.pdf
   - name: Lettings
     path: /uploads/2020-lettings-policy.pdf
