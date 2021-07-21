@@ -4,110 +4,191 @@ title: Our Staff
 
 [[toc]]
 
-## Headteacher
+## Senior Leadership Team
+
+### Headteacher
 
 Mrs H. Poustie
 
-## Deputy Head
+### Deputy Head
 
 Mr D. Lee
 
-## Senior Leadership Team
+### Key Stage Team Leaders
 
 Mrs C. Smith - _EYFS Team Leader_  
 Mrs H. Thomsett - _KS1 Team Leader_  
 Mr S. Ball - _KS2 Team Leader_
 
-## SEND Co-Ordinator
+### Special Eduactional Needs and Disabilities (SEND) Co-Ordinator
 
-##### (Special Eduactional Needs and Disabilities)
+Ms V. Stables
 
-Mrs V. Stables
+## EYFS Team
 
-## TA Thrive Practitioner
+### Nursery
 
-Mrs S. Stevenson
+#### Busy Bees and Butterflies
 
-## Specialist SEND TA
-
-Mrs M. Carson
-
-## SEND Support Staff
-
-Ms M. Redfern  
-Ms S. Hunt  
-Mrs D. Connor  
-Mrs K. Jones  
-Mrs C. Patchett  
-Mrs M. Hindom  
-Miss C. Brealey
-
-## Nursery Team
-
 Mrs V. Potter _(Teacher)_  
+Ms N. Campbell _(Teacher)_
+
+### Reception
+
+#### Dragonflies
+
+Mrs C. Smith _(Teacher)_  
+Mrs A. Donnai _(Teacher)_
+
+#### Ladybirds
+
+Miss S. Fraser _(Teacher)_
+
+### Support Staff
+
+#### Cognition and Learning
+
+Ms M. Cogavin _(TA)_  
+Ms A. Perkins _(TA)_
+
+#### Communication and Interaction
+
+Ms C. Brealey _(TA)_  
+Ms K. Morgan-Jones _(TA)_  
+Ms L. Cundy-Knight _(TA)_
+
+#### Sensory and Physical
+
+Ms T. Bull _(TA)_
+
+#### Nursery Targeted and Univeral Support
+
 Mrs L. Iddon _(HLTA)_  
 Ms E. Griffiths _(TA)_  
 Mrs S. Rowland _(TA)_  
-Ms L. Cundy-Knight _(MTA)_  
-Ms A. Perkins _(MTA)_
+Ms E. Boon _(TA)_
+Ms C. Brealey _(TA)_  
+Ms L. Cundy-Knight _(MTA)_
 
-## Reception Team
-Mrs C. Smith _(Teacher)_  
+## Key Stage 1 Team
 
-Mrs A. Donnai _(Teacher)_  
-Mrs H. Cammack _(Teacher)_  
-Miss S. Fraser _(Teacher)_  
-Mrs M. Cogavin _(TA)_  
-Ms A. Perkins _(TA)_  
-Mrs T. Bull _(TA)_  
-Mrs K. Jones _(TA)_
+### Year 1
 
-## Year 1 Team
+#### Woodpeckers
 
 Mrs E. Simpson _(Teacher)_  
-Mr S. Parnell _(Teacher)_  
-Miss C. Sinclair _(Teacher)_  
-Mrs B. Osborne _(TA)_  
-Mrs J. Huxtable _(TA)_  
-Ms H. Yip _(TA)_  
-Mrs Z. Kopinski _(TA)_
+Mrs H. Cammack _(Teacher)_
 
-## Year 2 Team
+#### Wrens
+
+Ms H. Thomsett _(Teacher)_  
+Mr S. Parnell _(Teacher)_
+
+### Year 2
+
+#### Partridges
 
 Mrs C. Hodgson _(Teacher)_  
-Mrs E. Lidbury _(Teacher)_  
-Miss B. Hoey _(Teacher)_  
-Mrs V. Weir _(TA)_  
-Mrs L. Morgan-Anstee _(TA)_
+Mrs E. Lidbury _(Teacher)_
 
-## Year 3 Team
+#### Chaffinches
+
+Miss C. Sinclair _(Teacher)_
+
+### Support Staff
+
+#### Cognition and Learning
+
+Ms V. Weir _(TA)_  
+Ms L. Morgan-Anstee _(TA)_  
+Ms J. Huxtable _(TA)_
+
+#### Communication and Interaction
+
+Mrs B. Obsorne _(TA)_  
+Ms Z. Kapinski _(TA)_
+
+#### Social, Emotional and Mental Health
+
+Ms H. Yip _(TA)_
+
+#### Sensory and Physical
+
+Ms E. Boon _(TA)_
+
+## Key Stage 2
+
+### Year 3
+
+#### Puffins
 
 Mrs E. Pryde _(Teacher)_  
+Mr J Kilkelly _(Teacher)_
+
+#### Swans
+
+Mr J. Smith _(Teacher)_
+
+### Year 4
+
+#### Kingfishers
+
 Mrs Y. Morrell _(Teacher)_  
-Mr J Kilkelly _(Teacher)_  
-Mrs D. Rogers _(TA)_  
-Mrs T. Hudson _(TA)_
+Mr J Kilkelly _(Teacher)_
 
-## Year 4 Team
+#### Mallards
 
-Mrs R. Hughes _(Teacher)_  
-Mrs R. Lawton _(Teacher)_  
-Ms K. Braund _(TA)_  
-Ms M. Wright _(TA)_
+Mrs R. Lawton _(Teacher)_
 
-## Year 5 Team
+### Year 5
+
+#### Owls
 
 Mr S. Ball _(Teacher)_  
-Mr J. Smith _(Teacher)_  
-Mrs M. Dower _(TA)_
-Ms G. Grey _(TA)_
+Mr J Kilkelly _(Teacher)_
 
-## Year 6 Team
+#### Kestrels
 
-Mr C. Veal _(Teacher)_  
+Ms N. Doets _(Teacher)_  
+Ms D. Searle _(Teacher)_
+
+### Year 6
+
+#### Falcons
+
+Mr C. Veal _(Teacher)_
+
+#### Eagles
+
 Mr T. Strick _(Teacher)_  
-Mrs J. Sweatman _(TA)_
-Mrs D. Minear _(TA)_
+Ms D. Searle _(Teacher)_
+
+### Support Staff
+
+#### Cognition and Learning
+
+Mrs M. Dower _(HLTA)_  
+Ms M. Wright _(HLTA)_  
+Mrs D. Minnear _(TA)_  
+Ms S. Milton _(TA)_  
+Mrs T. Hudson _(TA)_  
+Mrs K. Braund _(TA)_
+
+#### Communication and Interaction
+
+Mrs G. Gray _(TA)_  
+Ms M. Redfern _(TA)_  
+Ms D. Rogers _(TA)_
+
+#### Social, Emotional and Mental Health
+
+Ms C. Patchet _(TA)_  
+Ms S. Hunt _(TA)_
+
+#### Sensory and Physical
+
+Ms D. Connor _(TA)_  
+Ms M. Hindom _(TA)_
 
 ## Administration Team
 
