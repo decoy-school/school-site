@@ -27,8 +27,8 @@ policies:
     name: Admissions 2019
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
-  - path: /uploads/SEND-Policy-2019.pdf
-    name: SEND 2019
+  - path: /uploads/2021-send-policy.pdf
+    name: SEND
   - path: /uploads/Attendance-Policy-2018.pdf
     name: Attendence 2018
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
