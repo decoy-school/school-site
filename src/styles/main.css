@@ -152,6 +152,7 @@ main > figure {
 footer {
   background-color: white;
   border-top: 1px solid var(--font-color);
+  margin-top: 3em;
 }
 
 .footer-inner {

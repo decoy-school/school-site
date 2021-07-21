@@ -121,12 +121,37 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
-          - label: people
+          - label: "People"
             name: people
             widget: list
             fields:
               - { label: Description, name: description, widget: string }
               - { label: Picture, name: picture, widget: image }
+          - label: "Terms of Reference Documents"
+            name: termsOfReference
+            widget: list
+            fields:
+              - {
+                  label: "Term of reference name",
+                  name: "name",
+                  widget: "string",
+                }
+              - {
+                  label: "Terms of reference document",
+                  name: "path",
+                  widget: "file",
+                }
+          - label: "Minutes"
+            name: minutes
+            widget: list
+            fields:
+              - { label: Year, name: year, widget: string }
+              - label: Documents
+                name: documents
+                widget: list
+                fields:
+                  - { label: Minutes Name, name: name, widget: string }
+                  - { label: Minutes Document, name: path, widget: file }
   - name: information
     label: Information
     files:
