@@ -1,6 +1,10 @@
 ---
 title: Our Governors
-documents: []
+documents:
+  - name: Summary of Governors Information
+    path: /uploads/decoy-summary-of-governor-information-december-2020.pdf
+  - name: Governing Body Roles
+    path: /uploads/governing-body-roles.pdf
 people:
   - description: Keith Moore, Chair
     picture: /images/people/govs/keith-moore.jpg
