@@ -22,6 +22,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/static/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "src/static/images": "images" });
   eleventyConfig.addPassthroughCopy({ "src/static/uploads": "uploads" });
+  eleventyConfig.addPassthroughCopy({ "src/static/*.ico": "/" });
   eleventyConfig.addPassthroughCopy({ "src/styles": "styles" });
   // create collection of all pages
   eleventyConfig.addCollection("allPages", (collection) => {
