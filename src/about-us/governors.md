@@ -57,6 +57,14 @@ minutes:
         path: /uploads/lw-committee-minutes-21-september-2020.pdf
   - year: 2019-2020
     documents:
+      - name: Full Board Meeting, 13/7/20
+        path: /uploads/fgb-minutes-13-july-2020-final.pdf
+      - name: Full Board Meeting, 23/3/20
+        path: /uploads/fgb-minutes-200323-final.pdf
+      - name: Full Board Meeting, 3/2/20
+        path: /uploads/fgb-minutes-200203-final.pdf
+      - name: Full Board Meeting, 9/12/19
+        path: /uploads/fgb-minutes-191209-final-.pdf
       - name: Full Board Meeting, 14/10/19
         path: /uploads/fgb-minutes-191014.pdf
 ---
