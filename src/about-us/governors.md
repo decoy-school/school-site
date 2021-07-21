@@ -34,6 +34,15 @@ termsOfReference:
     name: Business Management Committee
   - path: /uploads/Terms-of-Reference-for-the-Pay-Committee-Autumn-2020.pdf
     name: Business Management Committee
+minutes:
+  - year: 2020-2021
+    documents:
+      - name: Full Board Meeting, 1/2/2021
+        path: /uploads/fgb-minutes-1-february-2021.pdf
+      - name: Full Board Meeting, 7/12/20
+        path: /uploads/fgb-minutes-7-december-2020.pdf
+      - name: Full Board Meeting, 5/10/20
+        path: /uploads/fgb-minutes-5-october-2020.pdf
 ---
 
 [[toc]]
