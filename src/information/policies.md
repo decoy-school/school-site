@@ -53,6 +53,8 @@ policies:
     path: /uploads/2019-decoy-dinner-debt-recovery-policy-2-.pdf
   - name: Data Protection
     path: /uploads/2021-data-protection.pdf
+  - name: Looked After Children
+    path: /uploads/2021-looked-after-and-previously-looked-after-policy-january.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
