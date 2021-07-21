@@ -145,7 +145,7 @@ collections:
             name: minutes
             widget: list
             add_to_top: true
-            label_singular: "Add a year"
+            label_singular: "year"
             fields:
               - { label: Year, name: year, widget: string }
               - label: Documents
