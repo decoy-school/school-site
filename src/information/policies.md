@@ -31,7 +31,7 @@ policies:
     name: SEND 2019
   - path: /uploads/Attendance-Policy-2018.pdf
     name: Attendence 2018
-  - path: /uploads/equality-objectives.pdf
+  - path: /uploads/2019-21-public-sector-equality-duty-compliance.pdf
     name: Equality Objectives
   - path: /uploads/freedom-of-information.pdf
     name: Freedom of Information
