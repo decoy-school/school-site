@@ -7,14 +7,14 @@ policies:
     name: Behaviour Principles
   - path: /uploads/2021-promoting-positive-behaviour-policy-covid.pdf
     name: Positive Behaviour
-  - name: Homework 2018
+  - name: Homework
     path: /uploads/2018-homework-policy.pdf
   - path: /uploads/2018-outdoor-education-visits-and-off-site-activities-policy.pdf
-    name: Outdoor Education and Visits 2018
+    name: Outdoor Education and Visits
   - name: Supporting Pupils with Medical Condtions
     path: /uploads/2021-24-supporting-pupils-with-medical-conditions.pdf
   - path: /uploads/Subject-Access-Requests-Policy-2018.pdf
-    name: Subject Access Requests 2018
+    name: Subject Access Requests
   - path: /uploads/2019-2022-accessibility-plan.pdf
     name: Accessibilty Plan
   - path: /uploads/2021-anti-bullying-policy.pdf
@@ -30,7 +30,7 @@ policies:
   - path: /uploads/2021-send-policy.pdf
     name: SEND
   - path: /uploads/Attendance-Policy-2018.pdf
-    name: Attendence 2018
+    name: Attendence
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
     name: Equality Information and Objectives
   - path: /uploads/freedom-of-information.pdf
@@ -38,7 +38,7 @@ policies:
   - path: /uploads/calculation-policy.pdf
     name: Calculation
   - path: /uploads/maths-policy-2016.pdf
-    name: Maths 2016
+    name: Maths
   - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
   - path: /uploads/privacy-notice.pdf
@@ -46,7 +46,7 @@ policies:
   - path: /uploads/send-information-report-2020-21.pdf
     name: SEND Information Report
   - path: /uploads/whistleblowing-policy-may-2016.pdf
-    name: Whistleblowing 2016
+    name: Whistleblowing
   - name: Collective Worship
     path: /uploads/2019-collective-worship.pdf
   - name: Dinner Debt Recovery
