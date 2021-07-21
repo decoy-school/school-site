@@ -121,6 +121,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+          - label: "General Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Document name", name: name, widget: string }
+              - { label: "Document", name: path, widget: string }
           - label: "People"
             name: people
             widget: list

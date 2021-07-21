@@ -1,5 +1,6 @@
 ---
 title: Our Governors
+documents: []
 people:
   - description: Keith Moore, Chair
     picture: /images/people/govs/keith-moore.jpg
@@ -77,6 +78,7 @@ All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne 
 
 <div class="content-grid">
   <a href="https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing">Governors Information</a>
+  {% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
 </div>
 
 <div class="content-grid">
