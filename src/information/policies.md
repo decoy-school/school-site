@@ -3,8 +3,8 @@ title: Policies
 policies:
   - path: /uploads/Charging-and-Remissions-Policy-2019.pdf
     name: Charging and Remissions 2019
-  - path: /uploads/Behaviour-Principles-Written-Statement-2018.pdf
-    name: Behaviour Principles 2018
+  - path: /uploads/2020-behaviour-principles-written-statement.pdf
+    name: Behaviour Principles
   - path: /uploads/2019-decoy-promoting-positive-behaviour-policy.pdf
     name: Behaviour 2019
   - name: Homework 2018
