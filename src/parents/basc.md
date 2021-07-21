@@ -18,8 +18,6 @@ Children in our First Steps Nursery, Reception, Year 1 and Year 2 classes are ta
 
 All the children have the option of a variety of breakfast choices ranging from cereals, toast, scrambled eggs and other hot items perfect for those cold wintery mornings; and just as popular in the summer term too!
 
-![Beans on toast!](/uploads/beans.JPG)
-
 The children can choose from a range of drinks including fruit juices, milk and other cold drinks. We offer a 'share platter' every morning consisting of Fruit Toast, Crumpets, Golden Pancakes; along with fresh fruit.
 
 ## After School Club
