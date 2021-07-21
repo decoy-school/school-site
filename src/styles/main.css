@@ -582,7 +582,7 @@ input#query:focus {
     grid-gap: 18px;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     grid-auto-rows: minmax(90px, auto);
-    margin: 2em auto 1em auto;
+    margin: 1em auto 2em auto;
   }
 
   .content-grid a,
