@@ -34,7 +34,7 @@ policies:
   - path: /uploads/2021-send-policy.pdf
     name: SEND
   - path: /uploads/Attendance-Policy-2018.pdf
-    name: Attendence
+    name: Attendance
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
     name: Equality Information and Objectives
   - name: Public Sector Equality Duty
