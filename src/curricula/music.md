@@ -4,6 +4,19 @@ documents:
   - name: Music Curriculum Overview
     path: /uploads/music.pdf
 ---
+## Aims
+
+**The national curriculum for music aims to ensure that all pupils:** 
+
+
+•	perform, listen to, review and evaluate music across a range of historical periods, genres, styles and traditions, including the works of the great composers and musicians 
+
+
+•	learn to sing and to use their voices, to create and compose music on their own and with others, have the opportunity to learn a musical instrument, use technology appropriately and have the opportunity to progress to the next level of musical excellence 
+
+
+•	understand and explore how music is created, produced and communicated, including through the inter-related dimensions: pitch, duration, dynamics, tempo, timbre, texture, structure and appropriate musical notations
+
 ## Intent
 
 Music is intrinsically valuable but supports learning in all other areas of the curriculum.
