@@ -3,6 +3,8 @@ title: Design and Technology
 documents:
   - name: Design and Technology Curriulum Overview
     path: /uploads/design-and-technology-curriculum-overview.pdf
+  - name: Design and Technology Progression document
+    path: /uploads/design-and-technology.pdf
 ---
 ## Aims
 
