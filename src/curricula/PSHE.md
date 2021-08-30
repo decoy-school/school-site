@@ -3,6 +3,8 @@ title: PSHE
 documents:
   - name: PSHE Curriculum Overview
     path: /uploads/pshe.pdf
+  - name: PSHE and RSHE Progression document
+    path: /uploads/pshe-and-rshe-progression-document.pdf
 ---
 ## Intent
 
