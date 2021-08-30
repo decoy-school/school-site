@@ -1,7 +1,7 @@
 ---
 title: Computing
 documents:
-  - path: /uploads/decoy-computing-overview.pdf
+  - path: /uploads/computing-curriculum-overview.pdf
     name: Computing Curriculum Overview
 ---
 
