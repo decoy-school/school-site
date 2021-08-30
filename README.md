@@ -25,7 +25,8 @@ This repository contains code to build [Decoy Primary School's website](http://w
     - ~~Note of interest~~
     - ~~Nursery Twitter~~
   - Governors
-    - Document to show make up of governing body
+    - ~~Document to show make up of governing body~~
+    - Reogranise minutes by committee rather than year
 - Styling ~~(basic - this will mostly be inline in layout header)~~ <-- no it won't
   - ~~style lists normal lists~~
   - ~~responsive nav~~ <- look into accessibilty, ~~and animation~~
@@ -38,19 +39,19 @@ This repository contains code to build [Decoy Primary School's website](http://w
 - Photos - take new photos, check permissions, look at https://www.npmjs.com/package/eleventy-plugin-sharp for processing/responsive images
 - Things to keep in Google Drive (for now):
   - BASC club docs - linked from BASC page
-  - Governors info (minutes etc) - linked from Governors page
+  - ~~Governors info (minutes etc) - linked from Governors page~~
 - Pages with placeholder content or nothing:
   - SEND
   - PP
   - Extra curricular
-  - School meals - needs menu pdfs?
+  - School meals - needs menu pdfs? **add widgit for this**
 - Pages to update:
   - Values (body text, posters)
   - ~~Curriculum (body text)~~
   - Curriculum ongoing - need each pdf
-  - Safety information (videos, etc out of date)
-  - staff page
+  - ~~Safety information (videos, etc out of date)~~
+  - ~~staff page~~
 - **FINISH HOME PAGE - STYLE BANNER, IMPROVE LOADING, ~~MOVE TWITTER FEED~~**
 - Look into https://www.npmjs.com/package/eleventy-plugin-sharp
-- Add footer logos to homepage - check what's current
+- ~~Add footer logos to homepage - check what's current~~
 - ~~Add site search functionality~~ <- **this needs to index document content**
