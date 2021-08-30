@@ -1,6 +1,6 @@
 ---
-title: "Parents"
-layout: "links.njk"
+title: Parents
+layout: links.njk
 links:
   - text: Admissions Information
     address: /parents/admissions-information
@@ -16,7 +16,7 @@ links:
     address: /parents/letters-to-parents
   - text: Parent Mail
     address: https://pmx.parentmail.co.uk/#core/login
-  - text: Safety Information
+  - text: Safeguarding Information
     address: /parents/safety-information
   - text: School Meals
     address: /parents/school-meals
