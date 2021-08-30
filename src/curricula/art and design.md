@@ -6,7 +6,7 @@ documents:
 ---
 ## Aims
 
-The national curriculum for art and design aims to ensure that all pupils: 
+**The national curriculum for art and design aims to ensure that all pupils:** 
 
 •	produce creative work, exploring their ideas and recording their experiences 
 
