@@ -1,5 +1,5 @@
 ---
-title: Safety Information
+title: Safeguarding Information
 ---
 
 [[toc]]
