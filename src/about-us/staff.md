@@ -105,7 +105,7 @@ Ms J. Huxtable *(TA)*
 #### Communication and Interaction
 
 Mrs B. Obsorne *(TA)*\
-Ms Z. Kapinski *(TA)*
+Ms Z. Kopinski *(TA)*
 
 #### Social, Emotional and Mental Health
 
