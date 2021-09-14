@@ -55,3 +55,4 @@ This repository contains code to build [Decoy Primary School's website](http://w
 - Look into https://www.npmjs.com/package/eleventy-plugin-sharp
 - ~~Add footer logos to homepage - check what's current~~
 - ~~Add site search functionality~~ <- **this needs to index document content**
+- add AR link to homepage
