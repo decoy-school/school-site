@@ -25,8 +25,6 @@ policies:
     name: Complaints
   - name: Complaints Procedure Form
     path: /uploads/Complaints-Procedure-Form-for-Parents.pdf
-  - path: /uploads/2022-decoy-admissions-policy.pdf
-    name: Admissions 2022
   - name: Admissions 2021
     path: /uploads/2021-decoy-admissions-policy.pdf
   - path: /uploads/2021-health-safety-policy.pdf
@@ -65,6 +63,8 @@ policies:
     path: /uploads/2020-lettings-policy.pdf
   - name: Privacy Notice - NHS Test and Trace
     path: /uploads/2020-privacy_notice_nhs_test_trace_addendum.pdf
+  - name: 2022 Admissions Policy
+    path: /uploads/2022-decoy-admissions-policy-updated-.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
