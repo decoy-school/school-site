@@ -33,8 +33,6 @@ links:
 documents:
   - name: COVID 19 Catch-Up Premium Plan
     path: /uploads/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf
-  - name: Sports Premium Report
-    path: /uploads/2019-2020-sports-grant-report.pdf
   - name: 2020-2021 Sports Premium Report
     path: /uploads/2020-2021-sports-grant-report.pdf
 ---
