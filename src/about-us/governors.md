@@ -40,28 +40,14 @@ termsOfReference:
   - path: /uploads/Terms-of-Reference-for-the-Pay-Committee-Autumn-2020.pdf
     name: Business Management Committee
 minutes:
-  - year: 2020-2021
+  - committee: Full Board Meetings
     documents:
       - name: Full Board Meeting, 1/2/21
         path: /uploads/fgb-minutes-1-february-2021.pdf
-      - name: Business Mangement Committee, 25/1/21
-        path: /uploads/bm-committee-minutes-25-january-2021.pdf
-      - name: Learning and Wellbeing Committee, 18/1/21
-        path: /uploads/lw-committee-minutes-18-january-2021.pdf
       - name: Full Board Meeting, 7/12/20
         path: /uploads/fgb-minutes-7-december-2020.pdf
-      - name: Business Mangement Committee, 23/11/20
-        path: /uploads/bm-committee-minutes-23-november-2020.pdf
-      - name: Learning and Wellbeing Committee, 16/11/20
-        path: /uploads/lw-committee-minutes-16-november-2020.pdf
       - name: Full Board Meeting, 5/10/20
         path: /uploads/fgb-minutes-5-october-2020.pdf
-      - name: Business Mangement Committee, 28/9/20
-        path: /uploads/bm-committee-minutes-28-september-2020.pdf
-      - name: Learning and Wellbeing Committtee, 21/9/21
-        path: /uploads/lw-committee-minutes-21-september-2020.pdf
-  - year: 2019-2020
-    documents:
       - name: Full Board Meeting, 13/7/20
         path: /uploads/fgb-minutes-13-july-2020-final.pdf
       - name: Full Board Meeting, 23/3/20
@@ -72,6 +58,22 @@ minutes:
         path: /uploads/fgb-minutes-191209-final-.pdf
       - name: Full Board Meeting, 14/10/19
         path: /uploads/fgb-minutes-191014.pdf
+  - committee: Learning and Well Being Committee Meetings
+    documents:
+      - name: Learning and Wellbeing Committee, 18/1/21
+        path: /uploads/lw-committee-minutes-18-january-2021.pdf
+      - name: Learning and Wellbeing Committee, 16/11/20
+        path: /uploads/lw-committee-minutes-16-november-2020.pdf
+      - name: Learning and Wellbeing Committtee, 21/9/21
+        path: /uploads/lw-committee-minutes-21-september-2020.pdf
+  - committee: Business Management Committtee Meetings
+    documents:
+      - name: Business Mangement Committee, 25/1/21
+        path: /uploads/bm-committee-minutes-25-january-2021.pdf
+      - name: Business Mangement Committee, 23/11/20
+        path: /uploads/bm-committee-minutes-23-november-2020.pdf
+      - name: Business Mangement Committee, 28/9/20
+        path: /uploads/bm-committee-minutes-28-september-2020.pdf
 ---
 
 [[toc]]
@@ -102,11 +104,11 @@ All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne 
 
 ## Meeting Minutes
 
-{% for year in minutes %}
+{% for committee in minutes %}
 
-### {{year.year}}
+### {{committee.committee}}
 
 <div class="content-grid">
-{% for document in year.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+{% for document in committee.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
 </div>
 {% endfor %}

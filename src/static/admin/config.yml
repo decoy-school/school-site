@@ -151,14 +151,13 @@ collections:
             name: minutes
             widget: list
             add_to_top: true
-            label_singular: "year"
+            label_singular: "committee"
             fields:
-              - { label: Year, name: year, widget: string }
+              - { label: Committee, name: committee, widget: string }
               - label: Documents
                 name: documents
                 widget: list
                 add_to_top: true
-
                 fields:
                   - { label: Minutes Name, name: name, widget: string }
                   - { label: Minutes Document, name: path, widget: file }
