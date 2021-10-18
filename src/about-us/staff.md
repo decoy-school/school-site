@@ -23,6 +23,12 @@ Mr S. Ball - *KS2 Team Leader*
 
 Ms V. Stables
 
+### School-Wide Support
+
+Sue Stevenson - SEMH specialist TA
+Melissa Carson - SLCN specialist TA
+
+
 ## EYFS Team
 
 ### Nursery
@@ -47,7 +53,7 @@ Miss S. Fraser *(Teacher)*
 
 #### Cognition and Learning
 
-Ms M. Cogavin *(TA)*\
+Ms T. Bull *(TA)*
 Ms A. Perkins *(TA)*
 
 #### Communication and Interaction
@@ -58,7 +64,7 @@ Ms L. Cundy-Knight *(TA)*
 
 #### Sensory and Physical
 
-Ms T. Bull *(TA)*
+Ms M. Cogavin *(TA)*
 
 #### Nursery Targeted and Univeral Support
 
