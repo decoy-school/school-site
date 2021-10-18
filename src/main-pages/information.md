@@ -10,7 +10,7 @@ links:
     address: https://reports.ofsted.gov.uk/provider/21/113209
   - text: Ofsted - guidance for parents
     address: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
-  - text: School Performance Tables
+  - text: School Performance Tables (not current)
     address: https://www.compare-school-performance.service.gov.uk/school/113209/decoy-primary-school/primary
   - text: Our Curriculum
     address: /about-us/our-curriculum
