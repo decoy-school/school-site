@@ -1,5 +1,4 @@
 ---
-title: "Extra-Curricular Activities"
+title: Extra-Curricular Activities
 ---
-
-Ipsum ad sit amet Lorem ut consectetur. Officia magna nulla ex sint eu ipsum dolore sunt deserunt ad. Eiusmod id ad minim id voluptate. Exercitation fugiat occaecat quis ipsum Lorem veniam laboris ea commodo dolor ullamco aute in ipsum.
+Our extra-curricular clubs have had to be suspended during the COVID-19 pandemic. However, we are hoping to restart as many as possible soon - please keep an eye out for more information!
