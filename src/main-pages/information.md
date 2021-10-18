@@ -30,6 +30,8 @@ links:
     address: /covid-19-information
   - text: School Financial Benchmarking Service
     address: https://schools-financial-benchmarking.service.gov.uk/
+  - text: Schools Finacial Benchmarking Service
+    address: https://schools-financial-benchmarking.service.gov.uk/school/detail?urn=113209
 documents:
   - name: COVID 19 Catch-Up Premium Plan
     path: /uploads/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf
