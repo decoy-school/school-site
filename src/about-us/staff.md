@@ -25,9 +25,8 @@ Ms V. Stables
 
 ### School-Wide Support
 
-Sue Stevenson - SEMH specialist TA
+Sue Stevenson - SEMH specialist TA\
 Melissa Carson - SLCN specialist TA
-
 
 ## EYFS Team
 
@@ -53,7 +52,7 @@ Miss S. Fraser *(Teacher)*
 
 #### Cognition and Learning
 
-Ms T. Bull *(TA)*
+Ms T. Bull *(TA)*\
 Ms A. Perkins *(TA)*
 
 #### Communication and Interaction
