@@ -43,12 +43,12 @@ This repository contains code to build [Decoy Primary School's website](http://w
 - Pages with placeholder content or nothing:
   - SEND
   - PP
-  - Extra curricular
+  - ~~Extra curricular~~
   - School meals - needs menu pdfs? **add widgit for this**
 - Pages to update:
   - Values (body text, posters)
   - ~~Curriculum (body text)~~
-  - Curriculum ongoing - need each pdf
+  - Curriculum ongoing - ~~need each pdf~~
   - ~~Safety information (videos, etc out of date)~~
   - ~~staff page~~
 - **FINISH HOME PAGE - STYLE BANNER, IMPROVE LOADING, ~~MOVE TWITTER FEED~~**
