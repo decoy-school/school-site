@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/static/uploads": "uploads" });
   eleventyConfig.addPassthroughCopy({ "src/static/*.ico": "/" });
   eleventyConfig.addPassthroughCopy({ "src/styles": "styles" });
+  eleventyConfig.addPassthroughCopy({"src/.htaccess": "/.htaccess"})
   // create collection of all pages
   eleventyConfig.addCollection("allPages", (collection) => {
     // filters out pages that have "permalink: false"
