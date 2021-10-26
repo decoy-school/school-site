@@ -63,6 +63,8 @@ policies:
     path: /uploads/2020-lettings-policy.pdf
   - name: Privacy Notice - NHS Test and Trace
     path: /uploads/2020-privacy_notice_nhs_test_trace_addendum.pdf
+  - path: /uploads/2021-cp-and-safeguarding-policy.pdf
+    name: "Child Protection and Safeguarding Policy "
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
