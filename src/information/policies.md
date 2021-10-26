@@ -19,8 +19,6 @@ policies:
     name: Accessibilty Plan
   - path: /uploads/2021-anti-bullying-policy.pdf
     name: Anti-Bullying
-  - path: /uploads/2020-cp_and_safeguarding_policy_.pdf
-    name: Child Protection and Safeguarding
   - path: /uploads/2021-complaints-policy.pdf
     name: Complaints
   - name: Complaints Procedure Form
