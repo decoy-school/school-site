@@ -1,202 +1,134 @@
 ---
 title: COVID-19 Information
 ---
-
 ## Remote Learning Information
 
 The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
 
-<div class="content-grid">
-  <a href="/uploads/Providing-remote-education-information-to-parents-Jan-2021-Decoy.pdf">Remote Education Information</a>
-  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-Nursery-Reception.pdf">Nursery & Reception Guidance</a>
-  <a href="/uploads/Guidance-Remote-Learning-and-Support-Offer-KS1-KS2.pdf">Key Stages 1 & 2 Guidanace</a>
-</div>
 
-## Opening Decoy Community Primary School to All Children September 2020
 
-Government guidance regarding schools’ opening in England in September 2020 was updated on Friday 28th August at 9pm.
+## Opening Decoy Community Primary School to All Children September 2021
 
-You can read the full document [here](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak/guidance-for-full-opening-schools).
+We are excited to welcome all of the children back to school after the Summer holidays and cannot wait to see them and start working with them all again.  We are also pleased to inform you that we have planned to return to many of the previous school routines and procedures (before the pandemic).  However, we are aware that there are still certain guidelines that we must follow as a school and that we continue to have a responsibility to keep our school community safe.  Therefore, we will still have to adhere to certain safety measures which are outlined in this document.
 
-We have put together a plan that will allow us to do so from the start of term, Monday 7th September 2020. The plan is in place for the first few weeks of term, and we will make changes to our arrangements as things settle and if we receive updated guidance from the government.
+Devon and the neighbouring authorities Torbay, Plymouth, Cornwall have now been [designated as an ‘enhanced response area’](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA4MjcuNDUxNDczMDEiLCJ1cmwiOiJodHRwczovL3d3dy5kZXZvbm5ld3NjZW50cmUuaW5mby9nb3Zlcm5tZW50LWRlc2lnbmF0ZXMtZGV2b24tYXMtYW4tZW5oYW5jZWQtcmVzcG9uc2UtYXJlYS8ifQ.8hfUBnMEVeN1-FLGvvotulpmgDm1JKCc4muP8cgu4g4/s/742886030/br/111530729141-l) by the government because COVID-19 case rates are so high. Public Health England continue to promote the following 5 key principles for educational settings. 
 
-To minimise the risk of transmission between children they will stay in their own class within the **year group ‘bubble’**. Teachers will stay with their class, and wherever possible other staff will work within a year-group bubble although at times staff will need to work across several year groups. We will keep records to make sure we know which staff have been in contact with which group of children, as it will not always be possible for there to be no contact between groups (for example if a class has a supply teacher or when their teacher is released for planning and preparation time).
+**Ensure good hygiene for everyone**
 
-**Essential measures include:**
+·       Hand hygiene - Frequent and thorough hand cleaning is now regular practice in school. We shall continue to ensure that pupils clean their hands regularly. This can be done with soap and water or hand sanitiser.
 
-- a requirement that people who are ill stay at home
-- robust hand and respiratory hygiene
-- enhanced cleaning arrangements
-- active engagement with NHS Test and Trace
-- reducing contacts and maximising distancing between those in school wherever possible and minimise potential for contamination so far as is reasonably practicable
-- grouping children together in ‘bubbles’
-- avoiding contact between ‘bubbles’
-- staff maintaining distance from pupils and other staff as much as possible
-- using PPE if we need to
+·       Respiratory hygiene- The ‘catch it, bin it, kill it’ approach continues to be very important.
 
-We will _respond_ to any infections by engaging with the NHS Track and Trace system and following the advice of the local health protection team.
+**Maintain appropriate cleaning regimes**
 
-### How this will work…
+We shall continue to put in place and maintain an appropriate cleaning schedule. This will include regular cleaning of areas and equipment with a particular focus on frequently touched surfaces.
 
-Please make sure you go through the following arrangements with your child so that they know exactly what they should be doing.
+**Keep occupied spaces well ventilated**
 
-### Arriving at and Leaving School
+During the school day, we shall ensure areas are well ventilated and work hard to make sure that a comfortable teaching environment is maintained.
 
-We are encouraging as many families as possible to arrive on foot, **please note scooters and bikes will not be allowed on site**. The details about your child’s drop off and pick up times, and which gate they should use are described below. The classrooms will be open from the times stated below, and the children should make their way straight into class at those times. More information and a map will be sent to parents via ParentMail before the start of term.
+**Follow public health advice on testing, self-isolation and managing confirmed cases of COVID-19**
 
-**Parents of children in our Nursery, Reception, Year 1, Year 2 and Year 3 will be able to come through the gates with their child/ren** and there will be a clear one-way system showing where to come in and where to leave. Please be assured that staff will be on hand to help. **Please do not come into the classroom with your child** as adults other than staff will not be permitted inside the school building except by prior appointment.
+Further information below.
 
-**Our Year 4, Year 5 and Year 6 children will need to say goodbye to parents at the gate and come on site alone**. Mrs Stables, SENDCo, will liaise with parents whose children may need a slightly different arrangement.
+**The school day…** 
 
-If your children have different start or finish times, please could you wait with them until it is time for them to come into school. Please avoid congregating with other adults as social distancing is key to avoiding transmission. Wherever possible we ask that **only one parent/carer brings their child to school**. If possible, please can we ask that you walk to school or park away from the school possibly using Decoy Park Car park; we will try to get more parking permits for families.
+**Arriving at and Leaving School**
 
-**NB – for the first Monday (7th September), Tuesday (8th September) and Wednesday (9th September), all children will be going to their last year’s class with their previous class teacher. For these three days, please follow that class’ staggered start and end to the day information, alongside their entrance and exit points to the school site.**
+We are still encouraging as many families as possible to arrive on foot so if possible, please can we ask that you walk to school or alternatively, park away from the school, possibly using Decoy Park Car Park; please contact the school office about free parking permits.
 
-**From Thursday 10th September onward, your child will go to their new class, with their new class teacher, following the new start and end to the school day timings and entrance/exit points to school.
-For example - A child who was in Woodpeckers last year (2019 – 2020) with Mrs Campbell will be in Woodpeckers on Monday 7th, Tuesday 8th and Wednesday 9th September and will arrive at Decoy Primary for this year groups’ timings (8:40am start, 3:10pm finish - as highlighted below in yellow for those days). From Thursday 10th, the same child will move to their new class (Partridges with Mrs Hodgson and Mrs Lidbury) and follow the new class timings and points into and out of school: arriving at 8:50am and leaving at 3:20pm as highlighted in green below.**
+**NB:  At this stage, we still politely request that children do not bring scooters and/or bikes on site (this will be reviewed later in the year)**.
 
-We need to make sure our timings help parents to socially distance and we will review the timings for the staggered start and end to the day towards the end of the second week.
+**Start of the Day**
 
-**Punctuality is crucial to allow staggered times to be effective. Please try to arrive as close to the stated time rather than earlier to ensure we do not have parents and children congregating outside the school site.**
+As we are no longer required to have staggered starts, the Main School Gate on Deer Park Road will be open from **8:45am – 8:55am**.  The start of the school day has historically been a very busy time with regard to traffic congestion and the congregating of both children and adults in one place.  To help try and alleviate this issue, we are giving a 15-minute window for children to arrive at school. 
 
-It is really important that families do not arrive too early to park near school and then sit and wait for their child’s drop off time. This will cause a lot of congestion. **Please arrive as close to your child’s class times as possible and leave promptly after dropping your child/ren. Please remember that the Parking ‘D’ by the main gate is not a parking place but only for dropping off.** Thank you for your help with this.
+**To minimise mixing and maximise distancing**, upon arrival to the school site, children will be expected to go straight into their classrooms, ready for **registration at 9.00am**.  This will mean that there is a little more flexibility for parents/carers with drop-off times and that parents/carers will not need to remain on the school site whilst waiting for the children to line up.  For the time being, we are asking for parents/carers to drop their children off to their classrooms and then leave the school premises via the Staff Car Park Gate at the end of the playground (adults will be available to help any families who are unsure of where to go).  Staff cars will be parked along one side of the car park allowing plenty of room for people to exit the school site through this route.  Your support and understanding with this is greatly appreciated and will help to prevent large gatherings of people in one place.= 
 
-<div style="overflow-x:auto;">
+**Parents/Carers of children in our Nursery, Reception, Year 1, Year 2 and Year 3 are welcome to come through the gates with their child/ren and drop them to their entrance point to the school building**. 
 
-| Class       | Start         | Finish | Entrance Point      | Exit Point          |
-| ----------- | ------------- | ------ | ------------------- | ------------------- |
-| Nursery 1   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
-| Nursery 2   | 9:00 – 9:15am | 3:30pm | Nursery Gate        | Main Gate           |
-| Dragonflies | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
-| Ladybirds   | 9:10am        | 3:40pm | Staff Car Park Gate | Main Gate           |
-| Woodpeckers | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
-| Wrens       | 8:40am        | 3:10pm | BASC Gate           | Staff Car Park Gate |
-| Chaffinches | 8:50am        | 3:20pm | BASC Gate           | Staff Car Park Gate |
-| Partridges  | 8:50am        | 3:20pm | BASC Gate           | Staff Car Park Gate |
-| Puffins     | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
-| Swans       | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
-| Kingfishers | 8:50am        | 3:20pm | Main Gate           | Staff Car Park Gate |
-| Mallards    | 8:50am        | 3:20pm | Main Gate           | Staff Car Park Gate |
-| Owls        | 8:40am        | 3:10pm | Main Gate           | Staff Car Park Gate |
-| Kestrels    | 8:40am        | 3:10pm | Main Gate           | Staff Car Park Gate |
-| Falcons     | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
-| Eagles      | 8:30am        | 3:00pm | Main Gate           | Staff Car Park Gate |
+**Parents/Carers of our Year 4, Year 5 and Year 6 children are also welcome to come onto the school site to drop their children off at their classrooms but we would like to encourage as many parents/carers as possible to say goodbye to their children at the Main Gate so that the children come onto the school site alone.**  Drop-offs such as these worked really well during the last year or so and particularly for those children feeling more anxious about school.  As a result of this, we would like to continue this routine or at the very least, work towards this as the school term progresses.
 
-</div>
+***Please remember that punctuality is crucial to allow an effective and smooth start to the school day for all children. Any children arriving after 9:00am will need to report to the school office as all other access to the school site will then be locked.***
 
-Please remember that if children wear a facemask/covering on their way to and from school, they will not be able to bring it onto the school site.
+As previously stated, school staff will be on hand to guide any parents/carers who may be unsure of any drop-off arrangements, so please do ask if you need any help or have any questions.
 
-### Admin (office)
+**End of the Day**
 
-In line with government guidance, adults other than staff are not able to come into the school building without having made an appointment. Please may we ask that parents/carers post all forms, letters etc. in the letter box by the office entrance and telephone or email messages rather than popping on to the office.
+The school day finishes at **3:30pm** for all classes apart for our Nursery, Reception and Year 1 cohorts, who finish their day at **3:25pm**.  **NB:  Parents/Carers of children in our Reception classes will need to follow the timings/arrangements for their child’s first school week (as previously shared) as this will differ from this general information.** 
 
-### Attendance
+The Main Gate on Deer Park Road will be opened at **3:20pm** for parents/carers to enter the school site.  Children in our Nursery, Reception, Year 1, 2 and 3 classes will then be let out of classes by school staff once their parents/carers have arrived.  School staff will ensure that children in these year groups will only be let out of class when their parents/carers have arrived and will also ensure that the children are passed onto these adults so that they are safe.  Similar to the start of the day, please can all families ensure that once you have collected your child/ren, you exit the school site through the Staff Car Park Gate as soon as possible in order to avoid large numbers congregating unnecessarily in one place.  Again, you support and understanding with regard to this request is greatly appreciated.
 
-Attendance from the start of the Autumn Term will be compulsory unless there are medical, or other exceptional reasons, for your child not to come to school. Please contact us directly if you think this is the case so that we can go through your individual circumstances with you.
+If your child is in Year 4, 5 or 6, please be aware that they will be let out from their class at the end of the school day to either walk home alone or to meet the adult(s) who is picking them up from school.  It is important that all parents/carers of children in these year groups have discussed pick up arrangements with their children so that they know what they are doing at the end of the school day. 
 
-### BASC
+**Attendance**
 
-We are planning for Breakfast and After School Club to be open during the Autumn Term. We are planning to open After School Club w/b 21st September 2020 and Breakfast Club will follow w/b 28th September 2020. We are finalising these plans now that we know that over 100 children would like to access this provision. We anticipate confirming arrangements during the first week of term.
+Full-time education is compulsory for all children in the term after their fifth birthday. This is on 31st December, 31st March or 31st August following their fifth birthday - whichever comes first. If your child’s fifth birthday is on one of those dates, then they reach compulsory school age on that date. Attendance is compulsory unless children are unwell or there are other exceptional reasons for your child not to come to school.  Please let the school office know if your child is going to be absent from the school as soon as possible by phoning 01626 353282 – Option 1.
 
-### Belongings
+**BASC**
 
-Limited resources need to be taken between home and school. We will be providing all the stationery and a pencil case for each child, so please do not send in any additional equipment. They will need to bring to school the following: a water bottle; a lunchbox if they are having a packed lunch; outdoor clothing depending on the weather; and their reading book. This can be brought in a backpack but please keep the bags as small as possible! Please do not bring a book-bag as well.
+Our Breakfast and After School Club is open during the Autumn Term. An online booking form has already been sent out. 
 
-### Classrooms
+Children can be dropped off for Breakfast Club from **7:55am** onwards.  I am also pleased to confirm that After School Club sessions can be booked up until **5:00pm or 6:00pm** – please see booking form. 
 
-The children will be learning in their own classroom. These will be pared back, with all unnecessary furniture removed. Our spaces will be reconfigured to reflect guidelines and tables arranged so that children are not sitting face to face. In many classrooms this will mean that the tables will all be facing forward. Windows will be kept open for maximum ventilation whenever possible whilst. The children will spend most of their day in their class with their own teacher although we will make as much use of outside space as possible. Where other adults work with a group we will keep a record of close contacts so that, in the event of an infection, we would know who would need to contact to tell them to self-isolate.
+**NB: Please note that we are now able to stay open until 6:00pm as children no longer need to be grouped in ‘bubbles’ although we will be keeping children in smaller groups rather than having them altogether.**
 
-### Cleaning
+Our BASC A-Z will also be sent out before the start of term.
 
-All classrooms will have their own cleaning kit. This will allow staff to regularly wipe and clean equipment, handles and frequently touched surfaces as appropriate. We have also arranged on-site enhanced cleaning throughout the day.
+**Belongings**
 
-Classroom based resources such as books, games and equipment can be used and shared within the class bubble and these will be cleaned regularly.
+Children will need to bring the following to school each day - a water bottle; a lunchbox if they are having a packed lunch; outdoor clothing depending on the weather, their reading book and their reading record (the reading books and records will be given out at school). 
 
-### Computing
+For PE Kit guidance, please see the information below.
 
-Children have access to chrome books and/or iPad. These will be cleaned between use by classes before they are returned to the charging trolley.
+**Communication**
 
-### Communication
+If you need to communicate information to your child’s class teacher, please contact them via email which should include the information needed to be passed on. 
 
-We shall continue to send ParentMails with information to our families and we also have a COVID-19 page on our website. The DfE have also asked that we share the following links with our families with regards to children returning to school:
+**Contact details**
 
-- Via the [DfE on Twitter](https://twitter.com/educationgovuk/status/1295737399042027530)
-- Via the [DfE on Facebook](https://www.facebook.com/educationgovuk/photos/a.317627041606420/3191534104215685/?type=3&theater)
-- And from [Gov.uk](https://www.gov.uk/backtoschool)
+It is very important that we have up to date contact details for you. If you have changed your email address or mobile number recently, please let us have the new ones. We must be able to contact a parent/carer at any time during the day should we need to.
 
-### Contact details
+**Covid symptoms**
 
-It is even more important than usual that we have up to date contact details for you. If you have changed your email address or mobile number recently, please let us have the new ones. We must be able to contact a parent/carer at any time during the day should we need to.
+**Families and staff must continue to follow public health advice on testing and self-isolation. (**In keeping with government guidance)
 
-### First Aid
+When an individual develops COVID-19 symptoms or has a positive test
 
-First aid will be administered by staff from your child’s year group. A First Aid kit will be available in each classroom together with the full range of PPE if needed.
+Pupils, staff and other adults should follow public health advice on [when to self-isolate and what to do](https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-and-treatment/when-to-self-isolate-and-what-to-do/). They should not come into school if they have symptoms, have had a positive test result or other reasons requiring them to stay at home due to the risk of them passing on COVID-19 (for example, they are required to quarantine).
 
-### Handwashing
+If anyone in our school develops [COVID-19 symptoms](https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/), however mild, we will need to send them home and parents/carers/staff should follow public health advice. For everyone with symptoms, they should avoid using public transport and, wherever possible, be collected by a member of their family or household. **Please make sure that the office has contact details that can be reached at any time during the school day.**
 
-Children will continue to wash hands regularly and at key points during the day with soap and water for 20 seconds and dry thoroughly. They may also use sanitiser.
+If a pupil is awaiting collection, they will wait in a room on their own if possible and safe to do so. A window will be opened for fresh air ventilation if possible. Staff supervising will wear Appropriate PPE will also be used if close contact is necessary.
 
-### Health
+The household (including any brothers and sisters) should follow the PHE [stay at home guidance for households with possible or confirmed coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection).
 
-All members of the school community need to engage with the NHS Test and Trace process. Anyone who displays symptoms needs to book a test. You can do that online [here](https://www.gov.uk/guidance/coronavirus-covid-19-getting-tested).
+**Confirmatory PCR tests**
 
-If you suspect your child is poorly do not send them to school. If a child or member of staff falls ill at school, we will phone for collection as usual or send the member of staff home. If Covid19 symptoms are present they will be isolated until collection. They should then arrange to have a test (as above).
+If parents/carers have a positive LFD test result, they should self-isolate in line with the [stay at home guidance for households with possible or confirmed coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection). They will also need to [get a free PCR test to check if they have COVID-19](https://www.gov.uk/get-coronavirus-test). Whilst awaiting the PCR result, the individual should continue to self-isolate.
 
-Parents and staff must inform us immediately of the results of a test.
+If the PCR test is taken within 2 days of the positive lateral flow test, and is negative, it overrides the self-test LFD test and the pupil can return to school, as long as the individual doesn’t have COVID-19 symptoms.
 
-- If someone tests negative they can stop self-isolating and return to school when they feel well enough. Other members of their household can also stop self-isolating.
-- If someone tests positive they should follow the ‘Stay at Home’ guidance for households and other members of their household should also self-isolate in line with the latest government guidance.
+**Handwashing**
 
-### Homework
+Children will continue to wash hands regularly and at key points during the day. They may also use antibacterial hand gel.
 
-As we are reducing the number of items that go between home and school, we will be using Google classroom and Tapestry to set homework to avoid having homework books.
+**Lunchtime**
 
-### Library
+School meals can be ordered using the usual system. If they are not ordered in advance, they can be ordered daily from class teachers when the register is taken. Lunches can be paid for online using the ParentPay system and menus will be available on their website.
 
-There will be time slots allocated for the use of the library, with a limit to the number of children in there at any one time. Once books are returned they will be quarantined for 48 hours before they are put back on the shelves (72 hours if in a plastic cover). The children will be reminded to clean their hands before and after visits to the library.
+**P.E. Kit**
 
-### Lunchtime
+**Nursery** children do not require a PE kit.
 
-Lunch will be eaten in classrooms or the hall, a year group at a time. The hall will be cleaned between groups. The children will be allocated time to eat and to play, avoiding year groups mixing on the playground. There will be no contact sports, including football and basketball, but the children will be allowed to use the large apparatus (excepting the climbing wall). These will be cleaned between use by each group.
+**Reception** children do not require a PE kit for the Autumn Term but will need to bring in a PE kit in the Spring and Summer Terms.  More information will follow with regard to this nearer the time.
 
-School meals can be ordered using the current system via ParentPay. **In an exceptional circumstance**, if a meal is not ordered in advance it can be ordered when the register is taken but **please book using the ParentPay system whenever possible**. Every family has been sent their sign-in for ParentPay so please check your Junk/Spam box if you have not seen this information.
+**Year 1 and Year 2** will need to bring in a PE kit on the days that they have PE.  Class teachers will inform parents/carers of PE days near to the start of term.
 
-### Moving around the School
+**Year 3, 4, 5 and 6** can come into school in their PE kit on the days that they have PE.  Class teachers will inform parents/carers of PE days near to the start of term.
 
-This will be limited inside as we will make most use of external doors and outside routes to reach most areas.
+**Each child in school will receive two PE lesson each week.**
 
-### P.E. Kit
+We can assure you that we will keep all our systems under review to ensure the smooth running of the school as well as making sure we can keep our community as safe as possible.
 
-There is a change to previous arrangements for children wearing PE kit. We are asking children to come into school in their PE kit when they have PE. A timetable will be shared with families to help plan for this. Along with all other arrangements, this will be reviewed during the first few weeks of term.
-
-### Playtimes
-
-Playtimes have been scheduled at different times, in different areas for each year group.
-
-### PPE
-
-Staff and children will not be routinely wearing protective equipment unless they are dealing with a medical issue or for other agreed circumstances. We have had clear guidance about when and how this equipment should be used, which we will be following carefully. The children will not be allowed to wear masks, and their teachers will not wear them unless they choose do so if they work across several year groups.
-
-### Reading
-
-Children will be reading in school daily and will be able to take books home. Every child from **Reception – Year 6** will be given a reading record during the Autumn Term and we ask that you complete it every time you read/share a book at home.
-
-Children will not be bringing books home on the first 3 days when they are with their previous teacher. Mrs Hughes, Literacy Subject Leader will also be sharing more information with parents about how you can support your child at home and as we cannot run our reading workshops for EYFS and KS1 parents we shall share links to workshop videos at a later date.
-
-### Snacks
-
-Because of the changes to lunch and break time the children may need to have additional snacks. Please send in healthy snacks such as fruit, vegetable sticks or savoury snacks e.g. extra sandwiches. Please do not send in chocolate biscuits or crisps. This will help with reducing litter and plastic waste by bringing snacks without wrappers.
-
-### Stationery
-
-Children will have their own stationery which will be kept in a name labelled pencil case provided by the school for every child. Younger children may share some stationery within a small group but these will be cleaned regularly.
-
-### Toilet use
-
-Children will access the toilets as they need them. They will be cleaned regularly throughout the day. The numbers of children using the toilets at any one time will be kept to a minimum.
-
-### Uniform
-
-The children will need to wear their usual school uniform. Clothing they wear to school needs to be washed regularly.
-
-We hope this information has been useful and we shall keep you regularly updated.
+Thank you.
