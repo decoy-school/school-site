@@ -3,6 +3,20 @@ title: Art and Design
 documents:
   - name: Art and Design Curriculum Overview
     path: /uploads/art-and-design.pdf
+  - name: Reception Progression
+    path: /uploads/reception-progression-2021.pdf
+  - name: "Year 1 Progression "
+    path: /uploads/year-1-progression-2021.pdf
+  - name: "Year 2 Progression "
+    path: /uploads/year-2-progression-2021.pdf
+  - name: "Year 3 Progression "
+    path: /uploads/year-3-progression-2021.pdf
+  - name: "Year 4 Progression "
+    path: /uploads/year-4-progression-2021.pdf
+  - name: "Year 5 Progression "
+    path: /uploads/year-5-progression-2021.pdf
+  - name: "Year 6 Progression "
+    path: /uploads/year-6-progression-2021.pdf
 ---
 ## Aims
 
