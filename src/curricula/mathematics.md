@@ -17,6 +17,8 @@ documents:
     path: /uploads/key-objectives-y6.pdf
   - name: Mathematics Curriculum Overview
     path: /uploads/maths.pdf
+  - name: Maths Progression
+    path: /uploads/maths-progression.pdf
 ---
 ## Aims
 
