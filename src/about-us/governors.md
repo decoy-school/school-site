@@ -6,8 +6,6 @@ documents:
   - name: Governing Body Roles
     path: /uploads/governing-body-roles.pdf
 people:
-  - description: Keith Moore, Chair
-    picture: /images/people/govs/keith-moore.jpg
   - description: Heather Poustie, Headteacher
     picture: /images/people/heather-poustie.jpg
   - description: Simon Barnes, Vice Chair
@@ -16,8 +14,6 @@ people:
     picture: /images/people/govs/paul-evemy.jpg
   - description: Sandra Cartwright
     picture: /images/people/govs/placeholder.png
-  - description: Paul Reynolds
-    picture: /images/people/govs/paul-reynolds.jpg
   - description: Oliver Laity
     picture: /images/people/govs/chris-winfield.jpg
   - description: Kay Dicken
@@ -30,6 +26,8 @@ people:
     picture: /images/people/govs/placeholder.png
   - description: Ruth Shoare
     picture: /images/people/govs/placeholder.png
+  - description: Andrew McKenzie
+    picture: /uploads/300x300.png
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
