@@ -15,7 +15,7 @@ people:
   - description: Sandra Cartwright
     picture: /images/people/govs/placeholder.png
   - description: Oliver Laity
-    picture: /images/people/govs/chris-winfield.jpg
+    picture: /uploads/300x300.png
   - description: Kay Dicken
     picture: /images/people/govs/placeholder.png
   - description: Pete Obsorne, Clerk
