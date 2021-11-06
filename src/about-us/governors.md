@@ -16,7 +16,7 @@ people:
     picture: /images/people/govs/placeholder.png
   - description: Oliver Laity
     picture: /uploads/300x300.png
-  - description: Kay Dicken
+  - description: Kay Dicken, Associate Member
     picture: /images/people/govs/placeholder.png
   - description: Pete Obsorne, Clerk
     picture: /images/people/govs/pete-osborne.jpg
