@@ -10,9 +10,9 @@ people:
     picture: /images/people/heather-poustie.jpg
   - description: Simon Barnes, Chair
     picture: /images/people/govs/simon-barnes.jpg
-  - description: Paul Evemy
+  - description: Paul Evemy, Vice Chair
     picture: /images/people/govs/paul-evemy.jpg
-  - description: Sandra Cartwright
+  - description: Sandra Cartwright, Vice Chair
     picture: /images/people/govs/placeholder.png
   - description: Oliver Laity
     picture: /uploads/300x300.png
