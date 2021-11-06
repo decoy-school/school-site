@@ -28,6 +28,6 @@ Our aspiration is that all pupils will develop a genuine interest and positive c
 
 ## Implementation
 
-##### Language Angels Scheme of Work
+#### Language Angels Scheme of Work
 
 We follow the Language Angels scheme of work for Spanish in Key Stage 2. In our curriculum, there are four key language learning skills; **listening, speaking, reading and writing** are taught and all necessary grammar will be covered in an age-appropriate way across the Our aspiration is that all pupils will develop a genuine interest and positive curiosity about foreign languages, finding them enjoyable and stimulating. Learning a second language will also offer pupils the opportunity to explore relationships between language and identity, develop a deeper understanding of other cultures and the world around them with a better awareness of self, others and cultural differences. This enables pupils to use and apply their learning in a variety of contexts, laying down solid foundations for future language learning. In addition, the children are taught how to research language that they are unsure of and they have a bank of reference materials to help them with their spoken and written tasks going forward. This bank of reference materials develops into a reference library to help pupils recall and build on previous knowledge throughout their primary school language learning journey.
