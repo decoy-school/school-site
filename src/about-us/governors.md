@@ -8,7 +8,7 @@ documents:
 people:
   - description: Heather Poustie, Headteacher
     picture: /images/people/heather-poustie.jpg
-  - description: Simon Barnes, Vice Chair
+  - description: Simon Barnes, Chair
     picture: /images/people/govs/simon-barnes.jpg
   - description: Paul Evemy
     picture: /images/people/govs/paul-evemy.jpg
