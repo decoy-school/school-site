@@ -3,6 +3,8 @@ title: Music
 documents:
   - name: Music Curriculum Overview
     path: /uploads/music.pdf
+  - name: Music Curriculum Progression
+    path: /uploads/music-curriculum-progression.pdf
 ---
 ## Intent
 
