@@ -41,3 +41,33 @@ This phrase captures how pupils can learn to
 Furthermore, using real, relevant and contemporary contexts is important in helping pupils relate general principles to actual locations.
 
 Our curriculum will instil in pupils, a sense of being a custodian of the planet and an understanding of how to be world citizens who take action to reduce climate change and the negative impacts this is having on our wonderful world.
+
+### Implementation
+
+Our curriculum is divided into four strands:
+
+*Locational knowledge –* a knowledge of distance, orientation, scale and position (both relatively and using positioning systems (eg longitude and latitude)
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->Knowing ‘where is where’ which supports identity and sense of place
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->Over time, pupils remember this locational knowledge so building up fluency.
+
+*Place knowledge* – is the knowledge which brings meaning to locations and the processes happening there
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->The curriculum and planning builds upon pupils’ prior learning by linking places they already know or are familiar with (here at Decoy this is the area around our school, Newton Abbot and Dartmoor.
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->Pupils’ place knowledge is built over time, which allows them to make comparisons.
+
+*Environmental, physical and human geography knowledge* – allow pupils to describe and explain different environments.
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->the core understanding is developed first before moving on to more complex phenomena are considered
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->over time pupils learn about processes they are less familiar with or that are less visible.
+
+*Geographical skills and fieldwork* – these skills allow pupils to gather, analyse, present and interpret spatial information.
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->Pupils have the skills they need to represent and interpret this information and its repeated practise over time will develop its fluency.
+
+<!--\[if !supportLists]-->-       <!--\[endif]-->Fieldwork includes data collection, analysis and presentation. Additionally, it draws together pupils’ locational knowledge and that of human and physical processes and the relationship between them.
+
+Children are inspired to be geographers by taking part in fieldtrips with a clear geographical purpose and experience. There is a comprehensive menu of trips throughout their time at Decoy community Primary School
