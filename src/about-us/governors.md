@@ -24,11 +24,13 @@ people:
     picture: /images/people/govs/placeholder.png
   - description: Kate Eames
     picture: /images/people/govs/placeholder.png
-  - description: Ruth Shoare, Parent Governor
+  - description: Ruth Shoare
     picture: /images/people/govs/placeholder.png
-  - description: Andrew McKenzie, Parent Governor
+  - description: Andrew McKenzie
     picture: /uploads/300x300.png
-  - description: Craig Veal, Staff Governor
+  - description: Craig Veal
+    picture: /uploads/300x300.png
+  - description: Gill Quantrell
     picture: /uploads/300x300.png
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
