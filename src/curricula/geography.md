@@ -38,15 +38,11 @@ By the end of Key Stage 2, our pupils will *‘Think like a geographer’*
 
 This phrase captures how pupils can learn to
 
-<!--\[if !supportLists]-->·       <!--\[endif]-->build on and expand pupils’ personal experiences of geography and what they already know, thus securing their understanding and helping them commit knowledge to their long-term memory
-
-<!--\[if !supportLists]-->·       <!--\[endif]-->Think about the future
-
-<!--\[if !supportLists]-->·       <!--\[endif]-->Consider how they influence decision that will be made
+* build on and expand pupils’ personal experiences of geography and what they already know, thus securing their understanding and helping them commit knowledge to their long-term memory
+* Think about the future
+*  Consider how they influence decision that will be made
 
 Furthermore, using real, relevant and contemporary contexts is important in helping pupils relate general principles to actual locations.
-
-Our curriculum will instil in pupils, a sense of being a custodian of the planet and an understanding of how to be world citizens who take action to reduce climate change and the negative impacts this is having on our wonderful world.
 
 Through high quality teaching, we develop the following essential concepts of geographer knowledge:
 
@@ -68,6 +64,6 @@ Through high quality teaching, we develop the following essential concepts of ge
 
 § The ability to express well-balanced opinions, rooted in very good knowledge and understanding about current issues in society and the environment, particularly those relating to climate change and sustainability;
 
-We hope that these concepts will enable Decoy pupils to understand their world, their role in it and their associated responsibilities.
+We hope that these concepts will enable Decoy pupils to understand their world, their role in it and their associated responsibilities. Our curriculum will instil in pupils, a sense of being a custodian of the planet and an understanding of how to be world citizens who take action to reduce climate change and the negative impacts this is having on our wonderful world.
 
 Children are inspired to be geographers by taking part in fieldtrips with a clear geographical purpose and experience. There is a comprehensive menu of trips throughout their time at Decoy community Primary School
