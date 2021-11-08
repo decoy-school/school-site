@@ -7,29 +7,31 @@ documents:
     path: /uploads/governing-body-roles.pdf
 people:
   - description: Heather Poustie, Headteacher
-    picture: /images/people/heather-poustie.jpg
-  - description: Simon Barnes, Chair
-    picture: /images/people/govs/simon-barnes.jpg
-  - description: Paul Evemy, Vice Chair
-    picture: /images/people/govs/paul-evemy.jpg
-  - description: Sandra Cartwright, Vice Chair
-    picture: /images/people/govs/placeholder.png
-  - description: Oliver Laity
-    picture: /uploads/300x300.png
+    picture: /uploads/heather-poustie.jpg
+  - description: Simon Barnes, Co-opted Governor, Chair
+    picture: /uploads/simon-barnes.jpg
+  - description: Paul Evemy, Co-opted Governor, Vice Chair
+    picture: /uploads/paul-evemy.jpg
+  - description: Sandra Cartwright, Co-opted Governor, Vice Chair
+    picture: /uploads/placeholder.png
+  - description: Oliver Laity, Co-opted Governor
+    picture: /uploads/oliver-laity.png
   - description: Kay Dicken, Associate Member
-    picture: /images/people/govs/placeholder.png
+    picture: /uploads/placeholder.png
   - description: Pete Obsorne, Clerk
-    picture: /images/people/govs/pete-osborne.jpg
-  - description: Ruth Dennis
-    picture: /images/people/govs/placeholder.png
-  - description: Kate Eames
-    picture: /images/people/govs/placeholder.png
+    picture: /uploads/pete-osborne.jpg
+  - description: Ruth Dennis, Co-opted Governor
+    picture: /uploads/placeholder.png
+  - description: Kate Eames, Co-opted Governor,
+    picture: /uploads/placeholder.png
   - description: Ruth Shoare, Parent Governor
-    picture: /images/people/govs/placeholder.png
+    picture: /uploads/placeholder.png
   - description: Andrew McKenzie, Parent Governor
-    picture: /uploads/300x300.png
+    picture: /uploads/placeholder.png
+  - description: Gill Quantrell, Co-opted Governor
+    picture: /uploads/placeholder.png
   - description: Craig Veal, Staff Governor
-    picture: /uploads/300x300.png
+    picture: /uploads/placeholder.png
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
