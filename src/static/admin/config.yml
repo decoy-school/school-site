@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 
-display_url: https://decoy-school-test-site.netlify.com
+display_url: https://www.decoyschool.co.uk
 
 media_folder: /src/static/uploads
 public_folder: /uploads
@@ -56,6 +56,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+          - label: "COVID-19 Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Document name", name: name, widget: string }
+              - { label: "Document", name: path, widget: file }
       - label: "Information"
         name: information
         file: src/main-pages/information.md
