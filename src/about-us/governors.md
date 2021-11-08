@@ -2,7 +2,7 @@
 title: Our Governors
 documents:
   - name: Summary of Governors Information
-    path: /uploads/decoy-summary-of-governor-information-december-2020.pdf
+    path: /uploads/decoy-summary-of-governor-information-september-2021.pdf
   - name: Governing Body Roles
     path: /uploads/governing-body-roles.pdf
 people:
