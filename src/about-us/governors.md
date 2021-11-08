@@ -19,6 +19,7 @@ people:
   - description: Kay Dicken, Associate Member
     picture: /uploads/placeholder.png
   - description: Pete Obsorne, Clerk
+<<<<<<< HEAD
     picture: /uploads/pete-osborne.jpg
   - description: Ruth Dennis, Co-opted Governor
     picture: /uploads/placeholder.png
@@ -32,6 +33,21 @@ people:
     picture: /uploads/placeholder.png
   - description: Craig Veal, Staff Governor
     picture: /uploads/placeholder.png
+=======
+    picture: /images/people/govs/pete-osborne.jpg
+  - description: Ruth Dennis
+    picture: /images/people/govs/placeholder.png
+  - description: Kate Eames
+    picture: /images/people/govs/placeholder.png
+  - description: Ruth Shoare
+    picture: /images/people/govs/placeholder.png
+  - description: Andrew McKenzie
+    picture: /uploads/300x300.png
+  - description: Craig Veal
+    picture: /uploads/300x300.png
+  - description: Gill Quantrell
+    picture: /uploads/300x300.png
+>>>>>>> 494e06467305d2800efeea1db908fa75217f5cc7
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
