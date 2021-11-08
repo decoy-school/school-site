@@ -15,7 +15,7 @@ people:
   - description: Sandra Cartwright, Co-opted Governor, Vice Chair
     picture: /uploads/placeholder.png
   - description: Oliver Laity, Co-opted Governor
-    picture: /uploads/oliver-laity.png
+    picture: /uploads/oliver-laity.jpg
   - description: Kay Dicken, Associate Member
     picture: /uploads/placeholder.png
   - description: Pete Obsorne, Clerk
