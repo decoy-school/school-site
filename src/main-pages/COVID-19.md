@@ -4,7 +4,7 @@ documents:
   - path: /uploads/guidance-remote-learning-and-support-offer-ks1-ks2.pdf
     name: Remote Learning, KS1 & KS2
   - path: /uploads/guidance-remote-learning-and-support-offer-nursery-reception.pdf
-    name: Remote Learning, EYFS
+    name: Remote Learning, Nursery & Reception
 ---
 
 ## Remote Learning Information
