@@ -28,14 +28,10 @@ Please use the links below for information about our curriculum for {{title}}.
 
 Decoy’s History curriculum is designed to give children a greater understanding of their place in history and its chronology. We aspire for our children to become confident historians who readily employ historical enquiry to investigate the past.
 
- 
-
 Through learning about British and World History our children will understand the impact of societies, influential people and events impact on our lives today, thus helping them to make sense of the world that they live in.
 
 ### Implementation
 
 Throughout their time at Decoy, our children are taught about a range of different time periods in the form of large scale case studies as well as those that focus on specific individuals and their impact on society. We teach each topic with reference to the children’s previous exposure to other periods of history in order that they are able to demonstrate a secure chronological understanding.
-
- 
 
 Our children learn to become active historians having opportunities to handle and investigate artefacts as well as visit sites of local significance. Our aim is that these experiences develop the children’s ability to present historical knowledge with a critical understanding of the different perspectives and bias that are at play when recording and making history.
