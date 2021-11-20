@@ -17,7 +17,7 @@ links:
   - text: Parent Mail
     address: https://pmx.parentmail.co.uk/#core/login
   - text: Safeguarding Information
-    address: /parents/safety-information
+    address: /parents/safeguarding-information
   - text: School Meals
     address: /parents/school-meals
   - text: School Uniform
