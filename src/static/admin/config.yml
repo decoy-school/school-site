@@ -220,50 +220,50 @@ collections:
       - name: admissions
       - file: src/parents/admissions.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: Breakfast & After School Club
       - name: basc
       - file: src/parents/basc.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: Extra-Curricular Activities
       - name: extra-curricular
       - file: src/parents/extra-curricular.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: Letters to Parents
       - name: letters-to-parents
       - file: src/parents/letters-to-parents.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: b
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: Nursery
       - name: nursery
       - file: src/parents/nursery.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: Safeguarding
       - name: safeguarding
       - file: src/parents/safeguarding.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: School Meals
       - name: school-meals
       - file: src/parents/school-meals.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }ody, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: School Uniform
       - name: school-uniform
       - file: src/parents/school-uniform.md
       - fields:
-        - { label: title, name: title, widget: string }
-        - { label: body, name: body, widget: markdown }
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
   - name: curricula
     label: Curricula
     folder: src/curricula
