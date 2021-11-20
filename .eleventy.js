@@ -1,3 +1,4 @@
+const embedYouTube = require("eleventy-plugin-youtube-embed");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItToc = require("markdown-it-table-of-contents");
@@ -17,6 +18,7 @@ module.exports = function (eleventyConfig) {
       containerHeaderHtml: `<h4>What’s on this page?</h4>`,
     })
     .use(markdownItFigures);
+  eleventyConfig.addPlugin(embedYouTube)
   eleventyConfig.setLibrary("md", mdIt);
   eleventyConfig.addFilter("squash", squash);
   eleventyConfig.addPassthroughCopy({ "src/static/admin": "admin" });
