@@ -13,6 +13,15 @@ bullying:
 
 [[toc]]
 
+{%if general %}
+
+## Safeguarding Documents
+
+<div class="content-grid">
+{% for document in general %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+</div>
+{% endif %}
+
 ## Bullying Resources
 
 Below are the SMART rules that children are taught about in school, and information for parents about children potentially accessing the social media platforms Snapchat, TikTok and WhatsApp. **Please be aware that these social media platforms do have age restrictions, but children may still be accessing them.**

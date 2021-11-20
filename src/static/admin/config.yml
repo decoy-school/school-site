@@ -253,7 +253,7 @@ collections:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
           - label: "General Documents"
-            name: documents
+            name: general
             widget: list
             fields:
               - { label: "Document title", name: "name", widget: "string" }
