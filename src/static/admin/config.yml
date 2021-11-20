@@ -252,6 +252,18 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+          - label: "General Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Document title", name: "name", widget: "string" }
+              - { label: "General document", name: "path", widget: "file" }
+          - label: "Bullying Resources"
+            name: bullying
+            widget: list
+            fields:
+              - { label: "Document title", name: "name", widget: "string" }
+              - { label: "Bullying document", name: "path", widget: "file" }
       - label: School Meals
         name: school-meals
         file: src/parents/school-meals.md
