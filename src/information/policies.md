@@ -17,8 +17,6 @@ policies:
     name: Subject Access Requests
   - path: /uploads/2019-2022-accessibility-plan.pdf
     name: Accessibilty Plan
-  - path: /uploads/2021-anti-bullying-policy.pdf
-    name: Anti-Bullying
   - path: /uploads/2021-complaints-policy.pdf
     name: Complaints
   - name: Complaints Procedure Form
@@ -67,6 +65,8 @@ policies:
     name: "Child Protection and Safeguarding Policy "
   - name: Privacy Notice - Primary School Pupils and Parents
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
+  - name: Anti-bullying
+    path: /uploads/2020-anti-bullying-policy.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
