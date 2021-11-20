@@ -3,6 +3,7 @@ title: Home
 layout: homepage.njk
 permalink: index.html
 ---
+
 # Welcome
 
 On behalf of the children, staff, and governors I should like to welcome you to Decoy Primary School.
