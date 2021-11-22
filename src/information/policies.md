@@ -35,8 +35,6 @@ policies:
     path: /uploads/2019-21-public-sector-equality-duty-compliance.pdf
   - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
-  - path: /uploads/privacy-notice.pdf
-    name: Privacy Notice
   - path: /uploads/send-information-report-2020-21.pdf
     name: SEND Information Report
   - path: /uploads/2020-whistleblowing-policy.pdf
@@ -61,8 +59,6 @@ policies:
     path: /uploads/2020-privacy_notice_nhs_test_trace_addendum.pdf
   - path: /uploads/2021-cp-and-safeguarding-policy.pdf
     name: "Child Protection and Safeguarding Policy "
-  - name: Privacy Notice - Primary School Pupils and Parents
-    path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
   - name: Anti-bullying
     path: /uploads/2020-anti-bullying-policy.pdf
   - name: EYFS and KS1 Acceptable User Agreement
