@@ -69,6 +69,8 @@ policies:
     path: /uploads/years-5-and-6-decoy-school-acceptable-user-agreement.pdf
   - name: Privacy Notice Parents and Pupils
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
+  - name: 2021 Complaints Form - Template
+    path: /uploads/2021-complaints-form-template.docx
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
