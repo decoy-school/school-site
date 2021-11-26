@@ -7,4 +7,6 @@ letters:
     path: /uploads/next-week-in-year-1-wc-15.11.21.pdf
   - name: This Week in Year 1 W/C 22/11/21
     path: /uploads/this-week-in-year-1-wc-22.11.21.pdf
+  - name: Next Week in Year 1 - W/C 29/11/21
+    path: /uploads/next-week-in-year-1-wc-29.11.21.pdf
 ---
