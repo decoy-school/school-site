@@ -16,7 +16,7 @@ policies:
   - path: /uploads/2019-2022-accessibility-plan.pdf
     name: Accessibilty Plan
   - path: /uploads/2021-complaints-policy.pdf
-    name: Complaints
+    name: 2021 Complaints Policy
   - name: Complaints Procedure Form
     path: /uploads/Complaints-Procedure-Form-for-Parents.pdf
   - name: 2021 Complaints Form - Template
