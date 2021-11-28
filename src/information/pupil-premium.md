@@ -7,6 +7,8 @@ policies:
     path: /uploads/Pupil-Premium-Glossary-2019-22.pdf
   - name: Pupil Premium Strategy for Parents (2017-18)
     path: /uploads/Pupil-Premium-Strategy-for-Parents-2017-18.pdf
+  - name: Pupil Premium Strategy Statement 2020-2021
+    path: /uploads/primary-strategy-2020-2021.pdf
 ---
 For our Pupil Premium Policy, please see our [policies page](https://decoy-school-test-site.netlify.app/information/policies/).
 
