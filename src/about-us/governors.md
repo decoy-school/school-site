@@ -5,6 +5,8 @@ documents:
     path: /uploads/decoy-summary-of-governor-information-september-2021.pdf
   - name: Governing Body Roles
     path: /uploads/governing-body-roles.pdf
+  - name: Decoy Summary of Governor Information 2021
+    path: /uploads/decoy-summary-of-governor-information-september-2021-.pdf
 people:
   - description: Heather Poustie, Headteacher
     picture: /uploads/heather-poustie.jpg
