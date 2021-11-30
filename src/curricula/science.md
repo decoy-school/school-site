@@ -3,6 +3,8 @@ title: Science
 documents:
   - name: Science Curriculum Overview
     path: /uploads/science.pdf
+  - name: Decoy Working Scientifically Progression
+    path: /uploads/decoy-working-scientifically-progression.pdf
 ---
 ## Aims
 
