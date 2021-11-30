@@ -27,8 +27,6 @@ policies:
     name: Health and Safety
   - path: /uploads/2021-send-policy.pdf
     name: SEND
-  - path: /uploads/Attendance-Policy-2018.pdf
-    name: Attendance
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
     name: Equality Information and Objectives
   - name: Public Sector Equality Duty
@@ -69,6 +67,8 @@ policies:
     path: /uploads/years-5-and-6-decoy-school-acceptable-user-agreement.pdf
   - name: Privacy Notice Parents and Pupils
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
+  - name: 2020 Attendance Policy
+    path: /uploads/2020-attendance-policy.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
