@@ -5,6 +5,8 @@ documents:
     name: Remote Learning, KS1 & KS2
   - path: /uploads/guidance-remote-learning-and-support-offer-nursery-reception.pdf
     name: Remote Learning, Nursery & Reception
+  - name: COVID-19 Catch Up Premium
+    path: /uploads/decoy-catch-up-premium-plan.pdf
 ---
 
 ## Remote Learning Information
