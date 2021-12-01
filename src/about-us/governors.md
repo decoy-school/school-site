@@ -31,7 +31,7 @@ people:
   - description: Andrew McKenzie, Parent Governor
     picture: /uploads/placeholder.png
   - description: Gill Quantrell, Co-opted Governor
-    picture: /uploads/placeholder.png
+    picture: /uploads/gill-q-1-.bmp
   - description: Craig Veal, Staff Governor
     picture: /uploads/placeholder.png
 termsOfReference:
