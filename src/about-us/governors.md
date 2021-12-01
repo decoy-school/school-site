@@ -23,7 +23,7 @@ people:
   - description: Pete Obsorne, Clerk
     picture: /uploads/pete-osborne.jpg
   - description: Ruth Dennis, Co-opted Governor
-    picture: /uploads/ruth-d-2-.jpg
+    picture: /uploads/ruth-d-5-.jpg
   - description: Kate Eames, Co-opted Governor,
     picture: /uploads/kate-e.png
   - description: Ruth Shoare, Parent Governor
