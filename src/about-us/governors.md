@@ -9,7 +9,7 @@ documents:
     path: /uploads/decoy-summary-of-governor-information-september-2021-.pdf
 people:
   - description: Heather Poustie, Headteacher
-    picture: /uploads/heather-poustie-.jpg
+    picture: /uploads/heather-poustie-2-.jpg
   - description: Simon Barnes, Co-opted Governor, Chair
     picture: /uploads/simon-barnes.jpg
   - description: Paul Evemy, Co-opted Governor, Vice Chair
