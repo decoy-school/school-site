@@ -67,6 +67,8 @@ policies:
     path: /uploads/2020-attendance-policy.pdf
   - name: Admissions Policy 2022
     path: /uploads/2022-decoy-admissions-policy-updated-.pdf
+  - name: 2022 Behaviour Principles Written Statement (Draft)
+    path: /uploads/2022-behaviour-principles-written-statement.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
