@@ -11,8 +11,6 @@ policies:
     name: Outdoor Education and Visits
   - name: Supporting Pupils with Medical Condtions
     path: /uploads/2021-24-supporting-pupils-with-medical-conditions.pdf
-  - path: /uploads/Subject-Access-Requests-Policy-2018.pdf
-    name: Subject Access Requests
   - path: /uploads/2019-2022-accessibility-plan.pdf
     name: Accessibilty Plan
   - path: /uploads/2021-complaints-policy.pdf
