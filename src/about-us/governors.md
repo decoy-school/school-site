@@ -19,7 +19,7 @@ people:
   - description: Oliver Laity, Co-opted Governor
     picture: /uploads/oliver-laity.jpg
   - description: Kay Dicken, Associate Member
-    picture: /uploads/kay-dicken.jpg
+    picture: /uploads/kay-dicken-2-.jpg
   - description: Pete Obsorne, Clerk
     picture: /uploads/pete-osborne.jpg
   - description: Ruth Dennis, Co-opted Governor
