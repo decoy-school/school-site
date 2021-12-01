@@ -13,5 +13,3 @@ Your child’s class teacher will contact you if they consider your child may ha
 
 \
 By working together we can achieve the best outcomes for all our pupils.
-
-Mrs Stables is our SENDCo and she can be contacted via vstables@decoyschool.co.uk
