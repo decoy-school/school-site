@@ -15,7 +15,7 @@ people:
   - description: Paul Evemy, Co-opted Governor, Vice Chair
     picture: /uploads/paul-evemy.jpg
   - description: Sandra Cartwright, Co-opted Governor, Vice Chair
-    picture: /uploads/placeholder.png
+    picture: /uploads/sandra-c.jpg
   - description: Oliver Laity, Co-opted Governor
     picture: /uploads/oliver-laity.jpg
   - description: Kay Dicken, Associate Member
@@ -23,11 +23,11 @@ people:
   - description: Pete Obsorne, Clerk
     picture: /uploads/pete-osborne.jpg
   - description: Ruth Dennis, Co-opted Governor
-    picture: /uploads/placeholder.png
+    picture: /uploads/ruth-d.jpg
   - description: Kate Eames, Co-opted Governor,
-    picture: /uploads/placeholder.png
+    picture: /uploads/kate-e.png
   - description: Ruth Shoare, Parent Governor
-    picture: /uploads/placeholder.png
+    picture: /uploads/ruth-s.jpg
   - description: Andrew McKenzie, Parent Governor
     picture: /uploads/placeholder.png
   - description: Gill Quantrell, Co-opted Governor
