@@ -21,8 +21,6 @@ policies:
     path: /uploads/2021-complaints-form-template.docx
   - name: Admissions 2021
     path: /uploads/2021-decoy-admissions-policy.pdf
-  - name: Admissions Policy 2022
-    path: /uploads/2022-decoy-admissions-policy-updated-.pdf
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
   - path: /uploads/2021-send-policy.pdf
@@ -69,6 +67,8 @@ policies:
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
   - name: 2020 Attendance Policy
     path: /uploads/2020-attendance-policy.pdf
+  - name: Admissions Policy 2022
+    path: /uploads/2022-decoy-admissions-policy-updated-.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
