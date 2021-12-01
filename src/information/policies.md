@@ -29,8 +29,6 @@ policies:
     name: Online Safety
   - path: /uploads/send-information-report-2020-21.pdf
     name: SEND Information Report
-  - path: /uploads/2020-whistleblowing-policy.pdf
-    name: Whistleblowing
   - name: Collective Worship
     path: /uploads/2019-collective-worship.pdf
   - name: Dinner Debt Recovery
