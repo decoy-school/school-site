@@ -13,4 +13,6 @@ letters:
     path: /uploads/cew-handwriting-practice.pdf
   - name: Next Week in Year 2 - W/C 6/12/21
     path: /uploads/next-week-in-year-2-wc-6.12.21-1-.pdf
+  - name: Money Mastery
+    path: /uploads/money-mastery.pdf
 ---
