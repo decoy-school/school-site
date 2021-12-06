@@ -7,6 +7,8 @@ documents:
     path: /uploads/writing-progression-document.pdf
   - name: Reading Curriculum Plan
     path: /uploads/reading-curriculum-plan.pdf
+  - path: /uploads/parent-reading-guide-ks2.pdf
+    name: Parent/Carer Reading Guided KS2
 ---
 ## Aims
 
