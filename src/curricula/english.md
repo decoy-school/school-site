@@ -1,8 +1,6 @@
 ---
 title: English
 documents:
-  - name: Reading Progression
-    path: /uploads/decoy-reading-progression.pdf
   - name: Reading Skills Progression
     path: /uploads/skills-progression-reading.pdf
   - name: Writing Progression document
