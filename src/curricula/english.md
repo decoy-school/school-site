@@ -7,6 +7,8 @@ documents:
     path: /uploads/skills-progression-reading.pdf
   - name: Writing Progression document
     path: /uploads/writing-progression-document.pdf
+  - name: Reading Curriculum Plan
+    path: /uploads/reading-curriculum-plan.pdf
 ---
 ## Aims
 
