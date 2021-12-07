@@ -2,7 +2,7 @@
 title: Physical Education
 documents:
   - name: PE Curriculum Overview
-    path: /uploads/pe.pdf
+    path: /uploads/pe-curriculum-overview.pdf
 ---
 ## Aims
 
