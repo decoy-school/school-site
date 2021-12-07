@@ -14,14 +14,6 @@ bullying:
 
 {%if general %}
 
-
-
-## Equalities and Diversity Statement
-
-At Decoy Community Primary School, we are committed to providing equality of opportunity for all pupils and staff, and to providing a working environment which is free from discrimination, prejudice and harassment. We encourage respect and consideration for others, and recognise and value the school as a safe place for learning.
-
-The staff at Decoy recognise that inequalities exist in all levels of society and believe that, as educators, we have a crucial role to play in eliminating racism, sexism and all forms of discrimination. We can promote equality by dealing with bullying, racial abuse and sexism immediately and by educating the young people in our care without prejudice.
-
 ## Safeguarding Documents
 
 <div class="content-grid">
