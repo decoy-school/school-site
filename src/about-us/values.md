@@ -1,8 +1,9 @@
 ---
-title: "Our Values"
+title: Our Values
 ---
 
-[[toc]]
+
+\[[toc]]
 
 ## Ethos - Inspiring Positive Futures
 
@@ -12,11 +13,11 @@ Decoy Community Primary School actively encourages its children to become caring
 
 At Decoy Community Primary School, we aim to:
 
-- Provide a happy and stimulating learning environment which promotes curiosity, creativity, enjoyment and interest in all aspects of learning.
-- Provide high quality education suitable for the needs of each child using a wide range of teaching methods and experiences.
-- Ensure all members of the school staff are confident in their respective roles, working together as a team, co-ordinated by effective leadership.
-- Provide a personal and social education which will encourage children to become independent, confident, self-disciplined and courteous.
-- Create a school environment which is welcoming, visually inviting, and which is safe and secure for all members of the school community.
+* Provide a happy and stimulating learning environment which promotes curiosity, creativity, enjoyment and interest in all aspects of learning.
+* Provide high quality education suitable for the needs of each child using a wide range of teaching methods and experiences.
+* Ensure all members of the school staff are confident in their respective roles, working together as a team, co-ordinated by effective leadership.
+* Provide a personal and social education which will encourage children to become independent, confident, self-disciplined and courteous.
+* Create a school environment which is welcoming, visually inviting, and which is safe and secure for all members of the school community.
 
 ## Values
 
@@ -39,6 +40,12 @@ Our values are embedded into our curriculum; key skills are taught discretely in
 
 Our Golden Rule is easy: **Treat other people as you would like them to treat you.**
 It's as easy as that!
+
+## Equalities and Diversity Statement
+
+At Decoy Community Primary School, we are committed to providing equality of opportunity for all pupils and staff, and to providing a working environment which is free from discrimination, prejudice and harassment. We encourage respect and consideration for others, and recognise and value the school as a safe place for learning.
+
+The staff at Decoy recognise that inequalities exist in all levels of society and believe that, as educators, we have a crucial role to play in eliminating racism, sexism and all forms of discrimination. We can promote equality by dealing with bullying, racial abuse and sexism immediately and by educating the young people in our care without prejudice.
 
 ## Behaviour
 
