@@ -59,10 +59,10 @@ policies:
     path: /uploads/years-5-and-6-decoy-school-acceptable-user-agreement.pdf
   - name: Privacy Notice Parents and Pupils
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
-  - name: 2020 Attendance Policy
-    path: /uploads/2020-attendance-policy.pdf
   - name: Admissions Policy 2022
     path: /uploads/2022-decoy-admissions-policy-updated-.pdf
+  - name: 2020 Attendance Policy
+    path: /uploads/2020-attendance-policy.pdf
 ---
 
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
