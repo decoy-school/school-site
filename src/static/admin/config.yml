@@ -115,6 +115,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+          - label: "Documents"
+            name: documents
+            widget: list
+            fields:
+              - { label: "Document name", name: "name", widget: "string" }
+              - { label: "Document", name: "path", widget: "file" }
       - label: "Values"
         name: values
         file: src/about-us/values.md
