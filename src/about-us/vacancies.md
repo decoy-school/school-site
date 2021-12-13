@@ -33,15 +33,13 @@ We are looking to recruit Teaching Assistants to fulfil three roles at Decoy Com
 
  
 
-**Vacancy 4 x 2**
+We also have vacancies for working across the school.
+
+**Vacancy 1 x 2**
 
 <!--\[if !supportLists]-->·        <!--\[endif]-->Mealtime Assistants Monday – Friday.
 
 <!--\[if !supportLists]-->·        <!--\[endif]-->Candidates can apply for the role for one or more lunchtimes a week.
-
- 
-
- 
 
 If you would like to apply for one or more of these roles, please see the information below.
 
