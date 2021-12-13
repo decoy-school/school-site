@@ -1,5 +1,4 @@
 ---
-title: "Job Vacancies"
+title: Job Vacancies
 ---
-
-There are currently no job vacancies at Decoy School. Thank you for your interest.
+We currently have some very exciting job opportunities in EYFS .
