@@ -3,8 +3,6 @@ title: Job Vacancies
 documents:
   - name: Application form
     path: /uploads/application-form-support-staff.docx
-  - name: 1:1 Teaching Assistant advert
-    path: /uploads/1-to-1-teaching-assistant.pdf
   - name: "1 to 1 Teaching Assistant Job Description "
     path: /uploads/ta-grade-c-job-description.pdf
   - name: 1 to 1 Teaching Assistant Person Specification
@@ -19,6 +17,8 @@ documents:
     path: /uploads/mta-person-specification.pdf
   - name: Mealtime Assistant Advert
     path: /uploads/mta-vacancy-spring-2022.pdf
+  - name: 1 to 1 Teaching Assistant Advert
+    path: /uploads/1-to-1-teaching-assistant-2022.pdf
 ---
 We currently have some very exciting job opportunities in EYFS .
 
