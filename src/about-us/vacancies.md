@@ -1,5 +1,12 @@
 ---
 title: Job Vacancies
+documents:
+  - name: Application form
+    path: /uploads/application-form-support-staff.docx
+  - name: Nursery Practitioner Advert
+    path: /uploads/nursery-vacancy-spring-2022.pdf
+  - name: Nursery Practitioner Job Description and Person Specification
+    path: /uploads/nursery-practitioner-level-3-job-description-and-person-specification.pdf
 ---
 We currently have some very exciting job opportunities in EYFS .
 
