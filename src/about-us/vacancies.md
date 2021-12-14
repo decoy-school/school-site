@@ -3,10 +3,16 @@ title: Job Vacancies
 documents:
   - name: Application form
     path: /uploads/application-form-support-staff.docx
+  - name: 1:1 Teaching Assistant Advert
+    path: /uploads/1-to-1-teaching-assistant.pdf
+  - name: "1 to 1 Teaching Assistant Job Description "
+    path: /uploads/ta-grade-c-job-description.pdf
   - name: Nursery Practitioner Advert
     path: /uploads/nursery-vacancy-spring-2022.pdf
   - name: Nursery Practitioner Job Description and Person Specification
     path: /uploads/nursery-practitioner-level-3-job-description-and-person-specification.pdf
+  - name: 1 to 1 Teaching Assistant Person Specification
+    path: /uploads/teaching-assistant-person-specification.pdf
 ---
 We currently have some very exciting job opportunities in EYFS .
 
