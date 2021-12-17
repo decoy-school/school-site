@@ -5,8 +5,6 @@ documents:
     path: /uploads/Term-Dates-2020-2021.pdf
   - name: Term Dates, 2019-2020
     path: /uploads/Term-Dates-2019-2020.pdf
-  - name: Term Dates 2021-2022
-    path: /uploads/term-dates-2021-2022-updated.pdf
   - name: Term Dates 2022-2023
     path: /uploads/term-dates-2022-2023.pdf
 ---
