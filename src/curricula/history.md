@@ -4,7 +4,7 @@ documents:
   - name: History Skills Progression
     path: /uploads/skills-progression-decoy.pdf
   - name: History Curriculum Overview
-    path: /uploads/history-curriculum-overview.pdf
+    path: /uploads/history-curriculum-overview-1.pdf
 ---
 ## Aims
 
