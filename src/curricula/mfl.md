@@ -4,7 +4,7 @@ documents:
   - name: Spanish Progression document
     path: /uploads/skills-progression-grid-mfl.pdf
   - name: Spanish Curriculum Overview
-    path: /uploads/mfl.-spanish-curriculum-overview-21-22.pdf
+    path: /uploads/mfl.-spanish-curriculum-overview-2-.pdf
 ---
 ## Aims
 
