@@ -4,7 +4,7 @@ documents:
   - name: Geography Skills Progression
     path: /uploads/geography-skills-progression.pdf
   - name: Geography Curriculum Overview
-    path: /uploads/geography-curriculum-overview.pdf
+    path: /uploads/geography-curriculum-overview-1.pdf
 ---
 ## Aims
 
