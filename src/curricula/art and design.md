@@ -2,7 +2,7 @@
 title: Art and Design
 documents:
   - name: Art and Design Curriculum Overview
-    path: /uploads/art-and-design.pdf
+    path: /uploads/art-and-design-1.pdf
   - name: Reception Progression
     path: /uploads/reception-progression-2021.pdf
   - name: "Year 1 Progression "
