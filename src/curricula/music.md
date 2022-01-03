@@ -2,7 +2,7 @@
 title: Music
 documents:
   - name: Music Curriculum Overview
-    path: /uploads/music.pdf
+    path: /uploads/music-1.pdf
   - name: Music Curriculum Progression
     path: /uploads/music-curriculum-progression.pdf
 ---
