@@ -4,7 +4,7 @@ documents:
   - name: Design and Technology Progression document
     path: /uploads/design-and-technology.pdf
   - name: Design and Technology Curriculum Overview
-    path: /uploads/dt.pdf
+    path: /uploads/dt-1.pdf
 ---
 ## Aims
 
