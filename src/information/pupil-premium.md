@@ -1,12 +1,10 @@
 ---
 title: Pupil Premium Information
 policies:
-  - name: Pupil Premium Strategy Statement (2019-22)
+  - name: Pupil Premium 3 - Year Strategy Statement Overview
     path: /uploads/Pupil-Premium-Strategy-Statement-2019-22.pdf
   - name: Pupil Premium Strategy Glossary
     path: /uploads/Pupil-Premium-Glossary-2019-22.pdf
-  - name: Pupil Premium Strategy for Parents (2017-18)
-    path: /uploads/Pupil-Premium-Strategy-for-Parents-2017-18.pdf
   - name: Pupil Premium Strategy Statement 2020-2021
     path: /uploads/primary-strategy-2020-2021.pdf
   - name: Pupil Premium Strategy and Report 2021 -2022
