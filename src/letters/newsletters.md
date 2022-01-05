@@ -7,4 +7,6 @@ letters:
     path: /uploads/newsletter-autumn-4.pdf
   - name: Diary Dates (Autumn 4 Newsletter)
     path: /uploads/diary-dates-2021-22.docx
+  - name: Newsletter Spring 1
+    path: /uploads/newsletter-spring-1.pdf
 ---
