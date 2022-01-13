@@ -1,8 +1,7 @@
 ---
 title: Our Staff
 ---
-
-[[toc]]
+\[[toc]]
 
 ## Senior Leadership Team
 
@@ -14,15 +13,17 @@ Mrs H. Poustie
 
 Mr D. Lee
 
+### Special Eduactional Needs and Disabilities (SEND) Co-Ordinator
+
+Ms V. Stables
+
+
+
 ### Key Stage Team Leaders
 
 Mrs C. Smith - *EYFS Team Leader*\
 Mrs H. Thomsett - *KS1 Team Leader*\
 Mr S. Ball - *KS2 Team Leader*
-
-### Special Eduactional Needs and Disabilities (SEND) Co-Ordinator
-
-Ms V. Stables
 
 ### School-Wide Support
 
