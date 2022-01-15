@@ -13,11 +13,9 @@ Mrs H. Poustie
 
 Mr D. Lee
 
-### Special Eduactional Needs and Disabilities (SEND) Co-Ordinator
+### Special Educational Needs and Disabilities (SEND) Co-Ordinator
 
 Ms V. Stables
-
-
 
 ### Key Stage Team Leaders
 
