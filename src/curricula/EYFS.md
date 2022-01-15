@@ -8,7 +8,7 @@ documents:
   - name: Reception Autumn Term
     path: /uploads/autumn-term-medium-term-planning-.pdf
   - name: Reception Spring Term
-    path: /uploads/spring-term-medium-term-plan.pdf
+    path: /uploads/spring-term-medium-term-plan-spring-term.pdf
   - name: Reception Summer Term
     path: /uploads/summer-term-medium-term-plan-.pdf
 ---
