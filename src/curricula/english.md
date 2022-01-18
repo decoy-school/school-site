@@ -10,6 +10,8 @@ documents:
   - path: /uploads/parent-reading-guide-ks2.pdf
     name: Parent/Carer Reading Guided KS2
 ---
+![](/uploads/library-2.jpeg)
+
 ## Aims
 
 **The national curriculum for English aims to ensure that all pupils:** 
