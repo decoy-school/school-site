@@ -3,7 +3,7 @@ title: Home
 layout: homepage.njk
 permalink: index.html
 ---
-![](/uploads/heather-poustie-.jpg)
+![]()
 
 # Welcome
 
