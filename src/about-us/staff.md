@@ -126,10 +126,9 @@ Ms E. Boon *(TA)*
 
 #### Puffins
 
-Mrs E. Pryde *(Teacher)*\
-Mr J Kilkelly *(Teacher)*
+Mrs E. Pryde *(Teacher)*
 
-#### Swans
+### **Swans**
 
 Mr J. Smith *(Teacher)*
 
@@ -137,8 +136,7 @@ Mr J. Smith *(Teacher)*
 
 #### Kingfishers
 
-Mrs Y. Morrell *(Teacher)*\
-Mr J Kilkelly *(Teacher)*
+Mrs Y. Morrell *(Teacher)*
 
 #### Mallards
 
@@ -148,8 +146,7 @@ Mrs R. Lawton *(Teacher)*
 
 #### Owls
 
-Mr S. Ball *(Teacher)*\
-Mr J Kilkelly *(Teacher)*
+Mr S. Ball *(Teacher)*
 
 #### Kestrels
 
