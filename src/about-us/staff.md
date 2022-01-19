@@ -128,7 +128,7 @@ Ms E. Boon *(TA)*
 
 Mrs E. Pryde *(Teacher)*
 
-### **Swans**
+#### **Swans**
 
 Mr J. Smith *(Teacher)*
 
