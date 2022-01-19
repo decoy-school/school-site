@@ -202,7 +202,7 @@ Ms D. O'Halloran, Ms J. Edwards, Mrs L. Vile - *Administrators*
 ## Mealtime Assistants
 
 **Nursery** - Mrs H. Webster, Mrs L. Cundy-Knight, Mrs A. Perkins, Mrs S. Langton\
-**Reception** - Mrs V. Guppy, Mrs S. Wilton, Ms N. Lentle, Miss C. Brealey, Mrs Knight\
+**Reception** - Mrs V. Guppy, Mrs S. Wilton, Ms N. Lentle, Miss C. Brealey\
 **KS1** - Mrs L. Gilo, Mrs Z. Kopinski, Mrs V. Weir, Mrs L. Morgan-Anstee, Mrs T. Hudson\
 **KS2** – Mrs D. Rogers, Mrs. G. Hawkins, Mrs D. Minear, Ms Lentle
 
