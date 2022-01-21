@@ -147,6 +147,15 @@ main ol {
 
 main > figure {
   margin: 0;
+  float: none;
+  max-width: 360px;
+}
+
+@media screen and (min-width: 540px) {
+  main > figure {
+    float: left;
+    margin: 0 1em 0 0;
+  }
 }
 
 footer {
