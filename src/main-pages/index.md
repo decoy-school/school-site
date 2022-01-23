@@ -17,5 +17,3 @@ I hope our website gives you a glimpse of what we do and enough information for 
 
 Kind regards, Mrs Heather Poustie
 Headteacher
-
-![](/uploads/heather-poustie-.jpg)
