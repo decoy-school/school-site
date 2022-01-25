@@ -1,8 +1,6 @@
 ---
 title: Term Dates
 documents:
-  - name: Term Dates 2021-2022
-    path: /uploads/term-dates-2021-2022.pdf
   - name: Term Dates 2022-2023
     path: /uploads/term-dates-2022-2023.pdf
 ---
