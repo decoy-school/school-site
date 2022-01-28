@@ -1,6 +1,9 @@
 ---
 title: Job Vacancies
-documents: []
+documents:
+  - name: Child Protection and Safeguarding Policy
+    path: /uploads/2021-cp-and-safeguarding-policy.pdf
 ---
+We currently do not have any job vacancies at our school. 
 
-We currently do not have any job vacancies at our school. Thank you for your interest.
+However, if you are interested in joinng our staff team, we are coomitted to safeguarding and would encourage you to read our Child Protection and Safeguarding Policy
