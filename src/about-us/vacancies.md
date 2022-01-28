@@ -6,4 +6,4 @@ documents:
 ---
 We currently do not have any job vacancies at our school. 
 
-However, if you are interested in joinng our staff team, we are coomitted to safeguarding and would encourage you to read our Child Protection and Safeguarding Policy
+However, if you are interested in joinng our staff team, we are committed to safeguarding and would encourage you to read our Child Protection and Safeguarding Policy
