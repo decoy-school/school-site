@@ -21,4 +21,6 @@ letters:
     path: /uploads/y2-cew-handwriting-practice.pdf
   - name: Next Week in Year 2 - W/C 24/1/22
     path: /uploads/next-week-in-year-2-wc-24.1.22.pdf
+  - name: Next Week in Year 2 - W/C 10/1/22
+    path: /uploads/next-week-in-year-2-wc-10.1.22.pdf
 ---
