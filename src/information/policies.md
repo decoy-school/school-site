@@ -63,6 +63,8 @@ policies:
     path: /uploads/2022-decoy-admissions-policy-updated-.pdf
   - name: 2020 Attendance Policy
     path: /uploads/2020-attendance-policy.pdf
+  - name: Privacy Notice - Visitors
+    path: /uploads/privacy-notice-visitors.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
