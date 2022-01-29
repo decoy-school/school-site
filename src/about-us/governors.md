@@ -31,7 +31,7 @@ people:
   - description: Ruth Shoare, Parent Governor
     picture: /uploads/ruth-s.jpg
   - description: Andrew McKenzie, Parent Governor
-    picture: /uploads/placeholder.png
+    picture: /uploads/am.jpg
   - description: Gill Quantrell, Co-opted Governor
     picture: /uploads/gill-q-2-.bmp
   - description: Craig Veal, Staff Governor
