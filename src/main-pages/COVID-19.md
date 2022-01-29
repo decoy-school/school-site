@@ -10,7 +10,6 @@ documents:
   - name: Outbreak Management Plan
     path: /uploads/outbreak_management_plan_.pdf
 ---
-
 ## Remote Learning Information
 
 The documents below give key information for parents and carers, detailing our remote education and support offers for Nursery, Early Years, Key Stage 1 and Key Stage 2 whilst children are learning at home due to the ongoing COVID-19 pandemic.
@@ -55,13 +54,13 @@ We are still encouraging as many families as possible to arrive on foot so if po
 
 As we are no longer required to have staggered starts, the Main School Gate on Deer Park Road will be open from **8:45am – 8:55am**.  The start of the school day has historically been a very busy time with regard to traffic congestion and the congregating of both children and adults in one place.  To help try and alleviate this issue, we are giving a 15-minute window for children to arrive at school.
 
-**To minimise mixing and maximise distancing**, upon arrival to the school site, children will be expected to go straight into their classrooms, ready for **registration at 9.00am**.  This will mean that there is a little more flexibility for parents/carers with drop-off times and that parents/carers will not need to remain on the school site whilst waiting for the children to line up.  For the time being, we are asking for parents/carers to drop their children off to their classrooms and then leave the school premises via the Staff Car Park Gate at the end of the playground (adults will be available to help any families who are unsure of where to go).  Staff cars will be parked along one side of the car park allowing plenty of room for people to exit the school site through this route.  Your support and understanding with this is greatly appreciated and will help to prevent large gatherings of people in one place.=
+**To minimise mixing and maximise distancing**, upon arrival to the school site, children will be expected to go straight into their classrooms, ready for **registration at 8:55am**.  This will mean that there is a little more flexibility for parents/carers with drop-off times and that parents/carers will not need to remain on the school site whilst waiting for the children to line up.  For the time being, we are asking for parents/carers to drop their children off to their classrooms and then leave the school premises via the Staff Car Park Gate at the end of the playground (adults will be available to help any families who are unsure of where to go).  Staff cars will be parked along one side of the car park allowing plenty of room for people to exit the school site through this route.  Your support and understanding with this is greatly appreciated and will help to prevent large gatherings of people in one place.=
 
 **Parents/Carers of children in our Nursery, Reception, Year 1, Year 2 and Year 3 are welcome to come through the gates with their child/ren and drop them to their entrance point to the school building**.
 
 **Parents/Carers of our Year 4, Year 5 and Year 6 children are also welcome to come onto the school site to drop their children off at their classrooms but we would like to encourage as many parents/carers as possible to say goodbye to their children at the Main Gate so that the children come onto the school site alone.**  Drop-offs such as these worked really well during the last year or so and particularly for those children feeling more anxious about school.  As a result of this, we would like to continue this routine or at the very least, work towards this as the school term progresses.
 
-**_Please remember that punctuality is crucial to allow an effective and smooth start to the school day for all children. Any children arriving after 9:00am will need to report to the school office as all other access to the school site will then be locked._**
+***Please remember that punctuality is crucial to allow an effective and smooth start to the school day for all children. Any children arriving after 9:00am will need to report to the school office as all other access to the school site will then be locked.***
 
 As previously stated, school staff will be on hand to guide any parents/carers who may be unsure of any drop-off arrangements, so please do ask if you need any help or have any questions.
 
@@ -117,7 +116,7 @@ The household (including any brothers and sisters) should follow the PHE [stay
 
 **Confirmatory PCR tests**
 
-If parents/carers have a positive LFD test result, they should self-isolate in line with the [stay at home guidance for households with possible or confirmed coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection). They will also need to [get a free PCR test to check if they have COVID-19](https://www.gov.uk/get-coronavirus-test). Whilst awaiting the PCR result, the individual should continue to self-isolate.
+If parents/carers have a positive LFD test result, they should self-isolate in line with the [stay at home guidance for households with possible or confirmed coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection).  Whilst awaiting a PCR result, if symptomatic, the individual should continue to self-isolate.
 
 If the PCR test is taken within 2 days of the positive lateral flow test, and is negative, it overrides the self-test LFD test and the pupil can return to school, as long as the individual doesn’t have COVID-19 symptoms.
 
@@ -133,7 +132,7 @@ School meals can be ordered using the usual system. If they are not ordered in a
 
 **Nursery** children do not require a PE kit.
 
-**Reception** children do not require a PE kit for the Autumn Term but will need to bring in a PE kit in the Spring and Summer Terms.  More information will follow with regard to this nearer the time.
+**Reception** children will need to bring in a PE kit in the Spring and Summer Terms.  
 
 **Year 1 and Year 2** will need to bring in a PE kit on the days that they have PE.  Class teachers will inform parents/carers of PE days near to the start of term.
 
