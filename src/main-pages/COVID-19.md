@@ -7,6 +7,8 @@ documents:
     name: Remote Learning, Nursery & Reception
   - name: COVID-19 Catch Up Premium
     path: /uploads/decoy-catch-up-premium-plan.pdf
+  - name: Outbreak Management Plan
+    path: /uploads/outbreak_management_plan_.pdf
 ---
 
 ## Remote Learning Information
