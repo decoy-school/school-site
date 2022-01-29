@@ -64,9 +64,28 @@ policies:
   - name: 2020 Attendance Policy
     path: /uploads/2020-attendance-policy.pdf
 ---
-
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
 <div class="content-grid">
   {% for policy in policies %}<a href="{{policy.path}}">{{policy.name}}</a>{% endfor %}
 </div>
+
+
+
+Requests for paper copies can be made to the office on:
+
+**Tel |** 01626 353282
+
+**E-mail |** admin@decoyschool.co.uk
+
+Or write to us at:
+
+**Decoy Community Primary School**
+
+Deer Park Road
+
+Newton Abbot
+
+Devon TQ12 1DH
+
+<!--EndFragment-->
