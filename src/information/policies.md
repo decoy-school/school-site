@@ -3,7 +3,7 @@ title: Policies
 policies:
   - path: /uploads/2021-charging-and-remissions-policy.pdf
     name: Charging and Remissions
-  - path: /uploads/2020-behaviour-principles-written-statement.pdf
+  - path: /uploads/2022-behaviour-principles-written-statement.pdf
     name: Behaviour Principles
   - path: /uploads/2021-promoting-positive-behaviour-policy-covid.pdf
     name: Promoting Positive Behaviour
