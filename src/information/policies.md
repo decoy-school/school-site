@@ -69,6 +69,8 @@ policies:
     path: /uploads/decoy-children-with-health-needs-who-cannot-attend-school-policy-draft.pdf
   - name: Special Educational Needs and Disability (SEND) Policy
     path: /uploads/2022-send-policy.pdf
+  - name: "Special Educaional Needs and Disabilty (SEND) Report "
+    path: /uploads/2021-2022-send-information-report.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
