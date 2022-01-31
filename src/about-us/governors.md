@@ -48,6 +48,8 @@ termsOfReference:
 minutes:
   - committee: Full Board Meetings
     documents:
+      - name: Full Board Meeting, 11/10/21
+        path: /uploads/full-board-meeting-11.10.21.pdf
       - name: Full Board Meeting, 1/2/21
         path: /uploads/fgb-minutes-1-february-2021.pdf
       - name: Full Board Meeting, 7/12/20
