@@ -69,6 +69,8 @@ policies:
     path: /uploads/2022-send-policy.pdf
   - name: "Special Educaional Needs and Disabilty (SEND) Report "
     path: /uploads/2021-2022-send-information-report.pdf
+  - name: Behaviour Principles
+    path: /uploads/2022-behaviour-principles-written-statement.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
