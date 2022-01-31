@@ -9,4 +9,6 @@ letters:
     path: /uploads/diary-dates-2021-22.docx
   - name: Newsletter Spring 1
     path: /uploads/newsletter-spring-1.pdf
+  - name: Newsletter Spring 2
+    path: /uploads/newsletter-spring-2.pdf
 ---
