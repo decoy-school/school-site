@@ -58,8 +58,6 @@ minutes:
         path: /uploads/fgb-minutes-1-february-2021.pdf
       - name: Full Board Meeting, 7/12/20
         path: /uploads/fgb-minutes-7-december-2020.pdf
-      - name: Full Board Meeting, 5/10/20
-        path: /uploads/fgb-minutes-5-october-2020.pdf
       - name: Full Board Meeting, 13/7/20
         path: /uploads/fgb-minutes-13-july-2020-final.pdf
       - name: Full Board Meeting, 23/3/20
