@@ -13,3 +13,7 @@ documents:
 If you are interested in joinng our staff team, we are committed to safeguarding and encourage you to read our Child Protection and Safeguarding Policy before applying for any posts at Decoy Primary School.
 
 We currently have a vacancy for a Foundation Stage Practitioner in our First Steps Nursery.
+
+<div class="content-grid">
+{% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+</div>
