@@ -7,8 +7,8 @@ documents:
     path: /uploads/application-form-support-staff.docx
   - name: Job description and person specification
     path: /uploads/foundation-stage-practitioner-job-description-and-person-specification.pdf
-  - name: Nursery Vacancy Advert
-    path: /uploads/nursery-vacancy-spring-2022.pdf
+  - name: Nursery Advert
+    path: /uploads/nursery-advert.pdf
 ---
 If you are interested in joinng our staff team, we are committed to safeguarding and encourage you to read our Child Protection and Safeguarding Policy before applying for any posts at Decoy Primary School.
 
