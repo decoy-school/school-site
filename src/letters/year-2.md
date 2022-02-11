@@ -25,4 +25,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-10.1.22.pdf
   - name: Next Week in Year 2 - W/C 17/1/22
     path: /uploads/next-week-in-year-2-wc-17.1.22.pdf
+  - name: Virtual Aquarium Visit Feb 2022
+    path: /uploads/virtual-aquarium-letter-to-parents-2022.pdf
 ---
