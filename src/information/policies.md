@@ -45,8 +45,6 @@ policies:
     path: /uploads/2020-lettings-policy.pdf
   - name: Privacy Notice - NHS Test and Trace
     path: /uploads/2020-privacy_notice_nhs_test_trace_addendum.pdf
-  - path: /uploads/2021-cp-and-safeguarding-policy.pdf
-    name: "Child Protection and Safeguarding Policy "
   - name: Anti-bullying
     path: /uploads/2020-anti-bullying-policy.pdf
   - name: EYFS and KS1 Acceptable User Agreement
