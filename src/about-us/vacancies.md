@@ -1,7 +1,7 @@
 ---
 title: Job Vacancies
 layout: vacancies.njk
-jobs:
+vacancies:
   - text: "We currently have a vacancy for a Foundation Stage Practitioner in our First Steps Nursery."
     documents:
       - name: Child Protection and Safeguarding Policy
