@@ -21,4 +21,6 @@ letters:
     path: /uploads/this-week-in-year-1-wc-24.1.22.pdf
   - name: Next Week in Year 1 - W/C 17/1/22
     path: /uploads/next-week-in-year-1-wc-17.1.22.pdf
+  - name: Next Week in Year 1 - W/C 14/2/22
+    path: /uploads/next-week-in-year-1-wc-14.2.22.pdf
 ---

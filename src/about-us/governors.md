@@ -109,7 +109,6 @@ minutes:
 All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne - <a href="mailto:posborne@decoyschool.co.uk">posborne@decoyschool.co.uk</a>.
 
 <div class="content-grid">
-  <a href="https://drive.google.com/folderview?id=0B0102cki14zKM1V0bDRJZVFyRmM&usp=sharing">Governors Information</a>
   {% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
 </div>
 
