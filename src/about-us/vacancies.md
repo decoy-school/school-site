@@ -2,15 +2,17 @@
 title: Job Vacancies
 layout: vacancies.njk
 vacancies:
-  - text: We currently have a vacancy for a Foundation Stage Practitioner in our
-      First Steps Nursery.
+  - text: "We currently have vacancies for a Nursery Teacher and a Reception Teacher
+      "
     documents:
       - name: Child Protection and Safeguarding Policy
         path: /uploads/2021-cp-and-safeguarding-policy.pdf
-      - name: Application Form
-        path: /uploads/application-form-support-staff.docx
-      - name: Job description and person specification
-        path: /uploads/foundation-stage-practitioner-job-description-and-person-specification.pdf
-      - name: Nursery Vacancy Advert
-        path: /uploads/nursery-advert.pdf
+      - name: EYFS Teacher Advert
+        path: /uploads/eyfs-class-teachers-advert.pdf
+      - name: Application form
+        path: /uploads/application-form-teaching.docx
+      - name: EYFS Teacher Job Description
+        path: /uploads/eyfs-class-teacher-jd.pdf
+      - name: EYFS Teacher Person Specification
+        path: /uploads/eyfs-teacher-person-specification.pdf
 ---
