@@ -138,12 +138,10 @@ main {
   padding: 0 var(--gutter);
 }
 
-/* 
-main p,
 main ul,
 main ol {
-  set some different width?
-} */
+  list-style-position: inside;
+}
 
 main > figure {
   margin: 0;
