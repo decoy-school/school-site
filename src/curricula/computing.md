@@ -4,7 +4,7 @@ documents:
   - path: /uploads/decoy-computing-overview.pdf
     name: Computing Curriculum Overview
 ---
-![](/uploads/dsc_0005-800x533-.jpg)
+![Children coding BBC MicroBits](/uploads/dsc_0005-800x533-.jpg "Children coding BBC MicroBits")
 
 ## Aims
 
