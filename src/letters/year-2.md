@@ -29,4 +29,6 @@ letters:
     path: /uploads/virtual-aquarium-letter-to-parents-2022.pdf
   - name: Next Week in Year 2 - W/C 14/2/22
     path: /uploads/next-week-in-year-2-wc-14.2.22.pdf
+  - name: This Week in Year 2 - W/C 28/2/22
+    path: /uploads/this-week-in-year-2-wc-28.2.22.pdf
 ---
