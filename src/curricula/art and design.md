@@ -18,6 +18,8 @@ documents:
   - name: "Year 6 Progression "
     path: /uploads/year-6-progression-2021.pdf
 ---
+![](/uploads/goldsworthy-web.jpg)
+
 ## Aims
 
 **The national curriculum for art and design aims to ensure that all pupils:** 
