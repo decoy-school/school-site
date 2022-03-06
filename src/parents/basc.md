@@ -3,7 +3,7 @@ title: Breakfast and After School Club
 ---
 \[[toc]]
 
-*For more information about the service we provide including our Terms & Conditions and application documents please click [here](https://drive.google.com/a/decoyschool.co.uk/folderview?id=0B0102cki14zKbWFUblRocFZOVjQ&usp=sharing&tid=0B0102cki14zKUmg5Y1FYcVhwUlU).*
+*More information about our fees and payments can be found on our [policies page](https://www.decoyschool.co.uk/information/policies/)*.
 
 Here at Decoy, we run Breakfast & After School Clubs every day of the academic year that our school is open to the children.
 
