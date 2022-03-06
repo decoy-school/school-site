@@ -32,6 +32,8 @@ links:
     address: https://schools-financial-benchmarking.service.gov.uk/
   - text: Schools Finacial Benchmarking Service
     address: https://schools-financial-benchmarking.service.gov.uk/school/detail?urn=113209
+  - text: British Values
+    address: /infromation/british-values
 documents:
   - name: COVID 19 Catch-Up Premium Plan
     path: /uploads/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf
