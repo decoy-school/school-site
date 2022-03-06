@@ -1,5 +1,4 @@
 ---
 title: British Values
 ---
-
-Coming soon!
+Information coming soon!
