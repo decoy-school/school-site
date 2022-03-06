@@ -213,6 +213,12 @@ collections:
         fields:
           - { label: title, name: title, widget: string }
           - { label: body, name: body, widget: markdown }
+      - label: "British Values"
+        name: "british values"
+        file: src/information/british-values.md
+        fields:
+          - { label: title, name: title, widget: string }
+          - { label: body, name: body, widget: markdown }
       - label: "Term Dates"
         name: term-dates
         file: src/information/term-dates.md
