@@ -76,8 +76,10 @@ minutes:
         path: /uploads/fgb-minutes-191209-final-.pdf
       - name: Full Board Meeting, 14/10/19
         path: /uploads/fgb-minutes-191014.pdf
-  - committee: Learning and Well Being Committee Meetings
+  - committee: Learning and Wellbeing Committee Meetings
     documents:
+      - name: Learning and Wellbeing Committee, 15/11/21
+        path: /uploads/learning-and-wellbeing-committee-15.11.21.pdf
       - name: Learning and Wellbeing Committee, 4/10/21
         path: /uploads/learning-and-wellbeing-committe-4.10.21.pdf
       - name: Learning and Wellbeing Committee, 6/7/21
