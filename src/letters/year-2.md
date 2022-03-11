@@ -43,4 +43,6 @@ letters:
     name: Y2 Match the Infant to the Adult (Science) W/C 7/2/22
   - name: Next Week in Year 2 - W/C 14/3/22
     path: /uploads/next-week-in-year-2-wc-14.3.22.pdf
+  - path: /uploads/y2-reading-comprehension-wb14.3.22.pdf
+    name: Y2 Reading Comprehension W/C 14/3/22
 ---
