@@ -39,4 +39,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-7.2.22.pdf
   - path: /uploads/y2-divison-challenge-cards.pdf
     name: Y2 Division Challenge Cards W/C 7/2/22
+  - path: /uploads/y2-match-the-infant-to-the-adult-science.pdf
+    name: Y2 Match the Infant to the Adult (Science) W/C 7/2/22
 ---
