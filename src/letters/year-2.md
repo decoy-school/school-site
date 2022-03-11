@@ -35,4 +35,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-31.1.22.pdf
   - name: CEW Handwriting Practice W/C 31/1/22
     path: /uploads/cew-handwriting-practice-3.pdf
+  - name: Next Week in Year 2 - W/C 7/2/22
+    path: /uploads/next-week-in-year-2-wc-7.2.22.pdf
 ---
