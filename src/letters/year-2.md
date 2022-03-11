@@ -37,4 +37,6 @@ letters:
     path: /uploads/cew-handwriting-practice-3.pdf
   - name: Next Week in Year 2 - W/C 7/2/22
     path: /uploads/next-week-in-year-2-wc-7.2.22.pdf
+  - path: /uploads/y2-divison-challenge-cards.pdf
+    name: Y2 Division Challenge Cards W/C 7/2/22
 ---
