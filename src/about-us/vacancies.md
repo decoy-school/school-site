@@ -13,6 +13,6 @@ vacancies:
         path: /uploads/eyfs-class-teacher-jd.pdf
       - name: EYFS Teacher Person Specification
         path: /uploads/eyfs-teacher-person-specification.pdf
-      - name: EYFS Teacher Vacancy - updated
-        path: /uploads/eyfs-class-teachers-advert.pdf
+      - name: EYFS Teacher Advert
+        path: /uploads/eyfs-class-teachers-advert-updated.pdf
 ---
