@@ -25,8 +25,8 @@ people:
   - description: Pete Obsorne, Clerk
     picture: /uploads/pete-osborne.jpg
   - description: Ruth Dennis, Co-opted Governor
-    picture: /uploads/ruth-d-5-.jpg
-  - description: Kate Eames, Co-opted Governor,
+    picture: /uploads/ruth-d.jpg
+  - description: Kate Eames, Co-opted Governor
     picture: /uploads/kate-e.png
   - description: Ruth Shoare, Parent Governor
     picture: /uploads/ruth-s.jpg
@@ -34,6 +34,8 @@ people:
     picture: /uploads/am.jpg
   - description: Gill Quantrell, Co-opted Governor
     picture: /uploads/gill-q-2-.bmp
+  - description: Alexa Gainsbury, Co-opted Governor
+    picture: /uploads/Alexa-Gainsbury.jpg
   - description: Craig Veal, Staff Governor
     picture: /uploads/placeholder.png
 termsOfReference:
