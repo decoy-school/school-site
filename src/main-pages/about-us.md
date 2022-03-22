@@ -1,6 +1,5 @@
 ---
 title: "About Us"
-layout: "links.njk"
 links:
   - text: Values
     address: /about-us/our-values

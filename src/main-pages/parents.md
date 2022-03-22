@@ -1,6 +1,5 @@
 ---
 title: Parents
-layout: links.njk
 links:
   - text: Admissions Information
     address: /parents/admissions-information

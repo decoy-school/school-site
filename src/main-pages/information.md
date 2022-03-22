@@ -1,6 +1,5 @@
 ---
 title: Information
-layout: links.njk
 links:
   - text: Contact Details
     address: /contact-us

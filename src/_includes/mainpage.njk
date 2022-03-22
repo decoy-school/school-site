@@ -1,0 +1,20 @@
+{% extends "./layout.njk" %}
+
+{% block pagecontent %}
+<div class="banner">
+  <h1>{{title}}</h1>
+</div>
+<main>
+  {{content | safe}}
+  {% if links %}
+    <div class="content-grid">
+    {% for link in links %}
+      <a href="{{link.address}}">{{link.text}}</a>
+    {% endfor %}
+    {% for document in documents %}
+      <a href="{{document.path}}">{{document.name}}</a>
+    {% endfor %}
+    </div>
+  {% endif %}
+<main>
+{% endblock %}
