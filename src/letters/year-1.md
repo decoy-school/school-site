@@ -29,4 +29,6 @@ letters:
     path: /uploads/this-week-in-year-1-wc-7.2.22.pdf
   - name: Next Week in Year 1 - W/C 14/3/22
     path: /uploads/next-week-in-year-1-wc-14.3.22.pdf
+  - name: Next Week in Year 1 - W/C 21/3/22
+    path: /uploads/next-week-in-year-1-wc-21.3.22.pdf
 ---
