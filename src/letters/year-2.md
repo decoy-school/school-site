@@ -47,4 +47,6 @@ letters:
     name: Y2 Reading Comprehension W/C 14/3/22
   - path: /uploads/y2-maths-wb14.3.22.pdf
     name: Y2 Maths W/C 14/3/22
+  - name: Next Week in Year 2 - W/C 21/3/22
+    path: /uploads/next-week-in-year-2-wc-21.1.22.pdf
 ---
