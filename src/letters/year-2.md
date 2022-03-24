@@ -51,4 +51,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-21.1.22.pdf
   - name: Reading Comprehension W/C 21/3/22
     path: /uploads/y2-reading-comprehension-wc-21.3.22.pdf
+  - name: Y2 Maths W/C 21/3/22
+    path: /uploads/y2-maths-wc-21.3.22.pdf
 ---
