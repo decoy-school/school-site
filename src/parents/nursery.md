@@ -18,7 +18,7 @@ You can also request additional hours that will be charged at a rate of £4 an h
 
 In addition, any child registered to our nursery is eligible to use our Breakfast & After School Clubs. Our Breakfast Club runs 7:55am - 8:55am and our After School Club runs 3:30pm - 6:00pm, with the additional option for a 5:00pm collection. If this is something you are interested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. Further information can be found [here](/parents/breakfast-and-after-school-club).
 
-Please click [here](/uploads/Decoy-Nursery-Note-of-Interest.pdf) to download a printable **form to register your interest** in a nursery place for your child.
+Please see [below](#additional-information) to download a printable **form to register your interest** in a nursery place for your child.
 
 **As a school we will aim to offer places a term in advance. However, this may not always be possible.
 Parents are advised to apply as early as possible as places are offered with a term's notice.**
