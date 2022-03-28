@@ -619,24 +619,29 @@ input#query:focus {
 /* ---------------------- */
 /* banner images for main pages */
 .banner {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
     url("/uploads/banner.jpg");
   height: 300px;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+}
+
+.banner-inner {
+  max-width: var(--content-wide);
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 .banner h1 {
   color: white;
   border: none;
-  position: absolute;
-  top: 100%;
-  max-width: var(--content-wide);
-  margin: -1.3em auto 0 auto;
-  padding: 0 var(--gutter);
+  margin-bottom: 0.2em;
 }
 
 /* --------------------- */
