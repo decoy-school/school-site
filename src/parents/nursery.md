@@ -36,6 +36,8 @@ Parents are advised to apply as early as possible as places are offered with a t
 If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator):  
 <a href='tel:+441626353282'>01626 353 282</a> - <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
 
+You can find our Nursery Admissions Policy on our [policies page](/information/policies).
+
 {% if documents %}
 
 <div class="content-grid">
