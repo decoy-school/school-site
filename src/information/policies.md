@@ -75,6 +75,8 @@ policies:
     path: /uploads/breakfast-after-school-club-basc-fees-and-payments-summer-term-2022.pdf
   - name: Nursery Admissions
     path: /uploads/nursery-admissions-policy-2022.pdf
+  - name: 2023 Decoy Admissions Policy
+    path: /uploads/2023-decoy-admissions-policy.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
