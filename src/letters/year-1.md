@@ -35,4 +35,6 @@ letters:
     path: /uploads/y1-newton-abbot-museum.pdf
   - name: Next Week in Year 1 - W/C 28/3/22
     path: /uploads/next-week-in-year-1-wc-28.3.22.pdf
+  - name: Next Week in Year 1 - W/C 4/4/22
+    path: /uploads/next-week-in-year-1-wc-4.4.22.pdf
 ---
