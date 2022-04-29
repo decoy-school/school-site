@@ -67,4 +67,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-3.5.22.pdf
   - name: Y2 Maths W/C 3/5/22
     path: /uploads/y2-maths-wc-3.5.22.pdf
+  - name: Y2 Florence Nightingale Reading Comprehension W/C 3/5/22
+    path: /uploads/y2-florence-nightingale-reading-comprehension-wc-3.5.22.pdf
 ---
