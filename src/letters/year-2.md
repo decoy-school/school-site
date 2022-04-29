@@ -61,4 +61,6 @@ letters:
     path: /uploads/reading-comprehension-wc-4.4.22.pdf
   - name: Next Week in Year 2 - W/C 28/3/22
     path: /uploads/next-week-in-year-2-wc-28.3.22.pdf
+  - name: This Week in Year 2 - W/C 25/4/22
+    path: /uploads/this-week-in-y2-wc-25.4.22.pdf
 ---
