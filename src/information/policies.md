@@ -19,14 +19,10 @@ policies:
     path: /uploads/2021-decoy-admissions-policy.pdf
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
-  - path: /uploads/2021-send-policy.pdf
-    name: SEND
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
     name: Equality Information and Objectives
   - path: /uploads/2018-online-safety-policy.pdf
     name: Online Safety
-  - path: /uploads/send-information-report-2020-21.pdf
-    name: SEND Information Report
   - name: Collective Worship
     path: /uploads/2019-collective-worship.pdf
   - name: Dinner Debt Recovery
@@ -77,6 +73,10 @@ policies:
     path: /uploads/nursery-admissions-policy-2022.pdf
   - name: 2023 Decoy Admissions Policy
     path: /uploads/2023-decoy-admissions-policy.pdf
+  - name: SEND Policy
+    path: /uploads/send-policy-january-2022.pdf
+  - name: SEND Information Report
+    path: /uploads/send-information-report-2021-22.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
