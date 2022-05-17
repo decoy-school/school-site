@@ -1,5 +1,8 @@
 ---
 title: Safeguarding Information
+general:
+  - path: /uploads/let-s-talk-teenagers-a4-poster-june-2022.pdf
+    name: Let's talk Teenagers June 2022 Workshops
 bullying:
   - name: SMART Rules
     path: /uploads/smart-rules.pdf
