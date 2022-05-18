@@ -9,4 +9,6 @@ letters:
     path: /uploads/south-devon-college-photo-release-form.pdf
   - name: "Information and Curriculum Letter - Autumn Term "
     path: /uploads/autumn-term-y3-information-curriculum-letter.pdf
+  - name: Information and Curriculum Letter - Spring Term
+    path: /uploads/spring-term-y3-information-curriculum-letter.pdf
 ---
