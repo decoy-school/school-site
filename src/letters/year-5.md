@@ -7,4 +7,6 @@ letters:
     path: /uploads/autumn-term-y5-information-curriculum-letter.pdf
   - name: Information and Curriculum Letter - Spring Term
     path: /uploads/spring-term-y5-information-curriculum-letter.pdf
+  - name: Information and Curriculum Letter - Summer Term
+    path: /uploads/summer-term-y5-information-curriculum-letter.pdf
 ---
