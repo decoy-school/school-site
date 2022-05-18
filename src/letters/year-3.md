@@ -7,4 +7,6 @@ letters:
     path: /uploads/y3-trip-to-skillbuild.pdf
   - name: South Devon College Photo Release Form (Skillbuild)
     path: /uploads/south-devon-college-photo-release-form.pdf
+  - name: "Information and Curriculum Letter - Autumn Term "
+    path: /uploads/autumn-term-y3-information-curriculum-letter.pdf
 ---
