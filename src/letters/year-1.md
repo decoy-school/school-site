@@ -43,4 +43,6 @@ letters:
     path: /uploads/next-week-in-year-1-wc-2.5.22.pdf
   - name: Next Week in Year 1 - W/C 9/5/22
     path: /uploads/next-week-in-year-1-wc-9.5.22.pdf
+  - name: Next Week in Year 1 - W/C 16/5/22
+    path: /uploads/next-week-in-year-1-wc-16.5.22.pdf
 ---
