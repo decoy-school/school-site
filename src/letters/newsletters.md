@@ -17,4 +17,6 @@ letters:
     path: /uploads/newsletter-autumn-1-2-.pdf
   - name: Newsletter Autumn 2
     path: /uploads/newsletter-autumn-2.pdf
+  - name: Autumn 2 - Parent letter to explain new Covid arrangements
+    path: /uploads/parent-letter-to-explain-new-covid-arrangements-2-.pdf
 ---
