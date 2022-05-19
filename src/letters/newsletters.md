@@ -15,4 +15,6 @@ letters:
     path: /uploads/newsletter-summer-1.pdf
   - name: Newsletter Autumn 1
     path: /uploads/newsletter-autumn-1-2-.pdf
+  - name: Newsletter Autumn 2
+    path: /uploads/newsletter-autumn-2.pdf
 ---
