@@ -77,4 +77,6 @@ letters:
     path: /uploads/y2-maths-wc-9.5.22.pdf
   - name: Next Week in Year 2 - W/C 16/5/22
     path: /uploads/y2-maths-wc-9.5.22.pdf
+  - name: Y2 Maths W/C 16/5/22
+    path: /uploads/y2-maths-wc-16.5.22.pdf
 ---
