@@ -71,4 +71,6 @@ letters:
     path: /uploads/y2-florence-nightingale-reading-comprehension-wc-3.5.22.pdf
   - name: Next Week in Year 2 - W/C 9/5/22
     path: /uploads/next-week-in-year-2-wc-9.5.22.pdf
+  - name: Y2 Eid Al-Fitr KS1 Reading Comprehension W/C 9/5/22
+    path: /uploads/y2-eid-al-fitr-ks1-reading-comprehension-wc-9.5.22.pdf
 ---
