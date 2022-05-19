@@ -73,4 +73,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-9.5.22.pdf
   - name: Y2 Eid Al-Fitr KS1 Reading Comprehension W/C 9/5/22
     path: /uploads/y2-eid-al-fitr-ks1-reading-comprehension-wc-9.5.22.pdf
+  - name: Y2 Maths W/C 9/5/22
+    path: /uploads/y2-maths-wc-9.5.22.pdf
 ---
