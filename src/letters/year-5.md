@@ -9,4 +9,6 @@ letters:
     path: /uploads/spring-term-y5-information-curriculum-letter.pdf
   - name: Information and Curriculum Letter - Summer Term
     path: /uploads/summer-term-y5-information-curriculum-letter.pdf
+  - name: RSHE Letter
+    path: /uploads/y5-rshe-letter-2022.pdf
 ---
