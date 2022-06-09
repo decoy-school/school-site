@@ -2,7 +2,7 @@
 title: Job Vacancies
 layout: vacancies.njk
 vacancies:
-  - text: "Vacancies for September "
+  - text: Vacancies for September 2022
     documents:
       - name: Key Stage 2 Teacher Application Pack
         path: /uploads/decoy-ks2-class-teacher-application-pack-2022.pdf
