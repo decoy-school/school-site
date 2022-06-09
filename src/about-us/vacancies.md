@@ -10,6 +10,6 @@ vacancies:
         path: /uploads/2021-cp-and-safeguarding-policy.pdf
       - name: Teacher Application Form
         path: /uploads/application-form-teaching.docx
-      - name: Maths Subject Leader
+      - name: Maths Subject Leader Application Pack
         path: /uploads/decoy-maths-subject-leader-application-pack-2022.pdf
 ---
