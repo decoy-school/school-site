@@ -13,4 +13,6 @@ letters:
     path: /uploads/spring-term-y3-information-curriculum-letter.pdf
   - name: Information and Curriculum Letter - Summer Term
     path: /uploads/summer-term-y3-information-curriculum-letter.pdf
+  - name: Roman Outreach Artefact Handling 2022
+    path: /uploads/y3-roman-outreach-artefact-handling-2022.pdf
 ---
