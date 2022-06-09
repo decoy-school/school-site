@@ -2,17 +2,12 @@
 title: Job Vacancies
 layout: vacancies.njk
 vacancies:
-  - text: "We currently have vacancies for a Nursery Teacher and a Reception Teacher
-      "
+  - text: "Vacancies for September "
     documents:
       - name: Child Protection and Safeguarding Policy
         path: /uploads/2021-cp-and-safeguarding-policy.pdf
-      - name: Application form
+      - name: KS2 Teacher Application Pack
+        path: /uploads/decoy-ks2-class-teacher-application-pack-2022.pdf
+      - name: Teacher Application Form
         path: /uploads/application-form-teaching.docx
-      - name: EYFS Teacher Job Description
-        path: /uploads/eyfs-class-teacher-jd.pdf
-      - name: EYFS Teacher Person Specification
-        path: /uploads/eyfs-teacher-person-specification.pdf
-      - name: "EYFS Teacher "
-        path: /uploads/eyfs-class-teachers-advert-updated.pdf
 ---
