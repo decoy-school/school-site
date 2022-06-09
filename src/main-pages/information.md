@@ -44,4 +44,4 @@ The government defines [what maintained schools must publish online](https://www
 
 If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
 
-### **For vacancies for 2022-2023 please visit the 'About Us' page on our website**
+### **For staff vacancies for 2022-2023 please visit the 'About Us' page on our website**
