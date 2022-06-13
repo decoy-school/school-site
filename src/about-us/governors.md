@@ -37,7 +37,7 @@ people:
   - description: Alexa Gainsbury, Co-opted Governor
     picture: /uploads/Alexa-Gainsbury.jpg
   - description: Craig Veal, Staff Governor
-    picture: /uploads/placeholder.png
+    picture: /uploads/craig.png
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
