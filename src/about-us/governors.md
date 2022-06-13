@@ -1,5 +1,6 @@
 ---
 title: Our Governors
+layout: governors.njk
 documents:
   - name: Summary of Governors Information
     path: /uploads/decoy-summary-of-governor-information-september-2021.pdf
@@ -123,33 +124,3 @@ minutes:
 ## About Us
 
 All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne - <a href="mailto:posborne@decoyschool.co.uk">posborne@decoyschool.co.uk</a>.
-
-<div class="content-grid">
-  {% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
-</div>
-
-<div class="content-grid">
-{% for person in people %}
-<figure>
-  <img src="{{person.picture}}" alt="{{person.description}}">
-  <figcaption>{{person.description}}</figcaption>
-</figure>
-{% endfor %}
-</div>
-
-## Terms of Reference
-
-<div class="content-grid">
-{% for document in termsOfReference %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
-</div>
-
-## Meeting Minutes
-
-{% for committee in minutes %}
-
-### {{committee.committee}}
-
-<div class="content-grid">
-{% for document in committee.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
-</div>
-{% endfor %}

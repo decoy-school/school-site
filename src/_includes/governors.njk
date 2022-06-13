@@ -1,0 +1,39 @@
+{% extends "./layout.njk" %}
+
+{% block pagecontent %}
+<main>
+  <h1>{{title}}</h1>
+  {{content | safe}}
+  
+  <div class="content-grid">
+    {% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+  </div>
+
+  <div class="content-grid">
+  {% for person in people %}
+  <figure>
+    <img src="{{person.picture}}" alt="{{person.description}}">
+    <figcaption>{{person.description}}</figcaption>
+  </figure>
+  {% endfor %}
+  </div>
+
+  <h2>Terms of Reference</h2>
+
+  <div class="content-grid">
+  {% for document in termsOfReference %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+  </div>
+
+  <h2>Meeting Minutes</h2>
+
+  {% for committee in minutes %}
+
+  <h3>{{committee.committee}}</h2>
+
+  <div class="content-grid">
+  {% for document in committee.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
+  </div>
+  {% endfor %}
+
+<main>
+{% endblock %}
