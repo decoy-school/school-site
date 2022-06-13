@@ -120,10 +120,10 @@ collections:
             fields:
               - label: Title
                 name: heading
-                widget: string
+                widget: text
               - label: Text
                 name: text
-                widget: string
+                widget: text
               - label: "Documents"
                 name: documents
                 widget: list
