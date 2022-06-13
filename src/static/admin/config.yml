@@ -120,7 +120,7 @@ collections:
             fields:
               - label: Title
                 name: heading
-                widget: text
+                widget: string
               - label: Text
                 name: text
                 widget: text
