@@ -23,4 +23,6 @@ letters:
     path: /uploads/newsletter-summer-2.pdf
   - name: Newsletter Summer 3
     path: /uploads/newsletter-summer-3.pdf
+  - name: Diary Dates (Summer 3 Newsletter)
+    path: /uploads/diary-dates-summer-2022-updated-may-2-.pdf
 ---
