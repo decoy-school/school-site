@@ -83,4 +83,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-23.5.22.pdf
   - name: Shallowford Farm Trip
     path: /uploads/y2-shallowford-visit-june-2022.pdf
+  - name: Next Week in Year 2 - W/C 20/6/22
+    path: /uploads/next-week-in-year-2-wc-20.6.22.pdf
 ---
