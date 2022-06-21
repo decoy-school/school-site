@@ -51,4 +51,6 @@ letters:
     path: /uploads/this-week-in-year-1-wc-6.6.22.pdf
   - name: Space Dome 2022
     path: /uploads/y1-space-dome-2022.pdf
+  - name: Next Week in Year 1 - W/C 20/6/22
+    path: /uploads/next-week-in-year-1-wc-20.6.22.pdf
 ---
