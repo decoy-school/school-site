@@ -21,4 +21,6 @@ letters:
     path: /uploads/parent-letter-to-explain-new-covid-arrangements-2-.pdf
   - name: Newsletter Summer 2
     path: /uploads/newsletter-summer-2.pdf
+  - name: Newsletter Summer 3
+    path: /uploads/newsletter-summer-3.pdf
 ---
