@@ -13,4 +13,6 @@ letters:
     path: /uploads/y5-rshe-letter-2022.pdf
   - name: Space Dome 2022
     path: /uploads/space-dome-y5-2022.pdf
+  - name: Sporting Spectacular at Coombeshead Academy
+    path: /uploads/y5-sporting-spectacular.pdf
 ---
