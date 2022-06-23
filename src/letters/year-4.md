@@ -11,4 +11,6 @@ letters:
     path: /uploads/spring-term-y4-information-curriculum-letter.pdf
   - name: Information and Curriculum Letter - Summer Term
     path: /uploads/summer-term-y4-information-curriculum-letter.pdf
+  - name: Y4 Olympic Day at Newton Abbot College
+    path: /uploads/y4-olympic-sports-day-trip-to-nac.pdf
 ---
