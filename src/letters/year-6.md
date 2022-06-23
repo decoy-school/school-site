@@ -11,4 +11,6 @@ letters:
     path: /uploads/summer-term-y6-information-curriculum-letter.pdf
   - name: Space Dome 2022
     path: /uploads/y6-space-dome-2022.pdf
+  - name: Woodlands July 2022
+    path: /uploads/y6-woodlands-july-2022.pdf
 ---
