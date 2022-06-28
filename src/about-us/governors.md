@@ -81,6 +81,8 @@ minutes:
         path: /uploads/fgb-minutes-191014.pdf
   - committee: Learning and Wellbeing Committee Meetings
     documents:
+      - name: Learning and Wellbeing Committee, 17/1/22
+        path: /uploads/lw-committee-minutes-17-january-2022-final.pdf
       - name: Learning and Wellbeing Committee, 15/11/21
         path: /uploads/learning-and-wellbeing-committee-15.11.21.pdf
       - name: Learning and Wellbeing Committee, 4/10/21
