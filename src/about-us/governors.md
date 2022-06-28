@@ -105,6 +105,8 @@ minutes:
         path: /uploads/lw-committee-minutes-21-september-2020.pdf
   - committee: Business Management Committtee Meetings
     documents:
+      - name: Business Management Committee, 21/3/22
+        path: /uploads/bm-committee-minutes-21-march-2022-final.pdf
       - name: Business Management Committee, 24/1/22
         path: /uploads/bm-committee-minutes-24-january-2022-final.pdf
       - name: Business Management Committee, 22/11/21
