@@ -15,4 +15,6 @@ letters:
     path: /uploads/space-dome-y5-2022.pdf
   - name: Sporting Spectacular at Coombeshead Academy
     path: /uploads/y5-sporting-spectacular.pdf
+  - name: Dartmoor National Park - July 2022
+    path: /uploads/y5-dartmoor-july-2022.pdf
 ---
