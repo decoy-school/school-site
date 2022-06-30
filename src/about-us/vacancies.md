@@ -18,5 +18,7 @@ vacancies:
         path: /uploads/person-specification-grade-c-ta.pdf
       - name: Key Stage 2 Teaching Assistant Advert
         path: /uploads/advert-ks2-ta-sept-22-5-ams.pdf
+      - name: Child Protection and Safeguarding Policy
+        path: /uploads/2021-cp-and-safeguarding-policy.pdf
     text: Information for BASC Play Worker
 ---
