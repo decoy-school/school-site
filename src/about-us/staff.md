@@ -1,7 +1,7 @@
 ---
 title: Our Staff
 ---
-\[[toc]]
+[[toc]]
 
 ## Senior Leadership Team
 
