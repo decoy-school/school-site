@@ -77,6 +77,8 @@ policies:
     path: /uploads/send-policy-january-2022.pdf
   - name: SEND Information Report
     path: /uploads/send-information-report-2021-22.pdf
+  - name: Chartwell's Food Policy
+    path: /uploads/chartwells-healthy-eating-policy.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
