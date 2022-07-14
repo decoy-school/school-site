@@ -11,8 +11,6 @@ policies:
     path: /uploads/2021-24-supporting-pupils-with-medical-conditions.pdf
   - path: /uploads/2019-2022-accessibility-plan.pdf
     name: Accessibilty Plan
-  - path: /uploads/2021-complaints-policy.pdf
-    name: 2021 Complaints Policy
   - name: 2021 Complaints Form - Template
     path: /uploads/2021-complaints-form-template.docx
   - name: Admissions 2021
@@ -79,6 +77,8 @@ policies:
     path: /uploads/send-information-report-2021-22.pdf
   - name: Chartwell's Food Policy
     path: /uploads/chartwells-healthy-eating-policy.pdf
+  - name: Complaints Policy and Procedures
+    path: /uploads/2022-complaints-policy.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
