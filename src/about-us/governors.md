@@ -43,11 +43,11 @@ termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
   - path: /uploads/Terms-of-Reference-LW-Committee-September-2020.pdf
-    name: Business Management Committee
+    name: Learning and Wellbeing Committee
   - path: /uploads/Terms-of-Reference-BM-Committee-September-2020.pdf
     name: Business Management Committee
   - path: /uploads/Terms-of-Reference-for-the-Pay-Committee-Autumn-2020.pdf
-    name: Business Management Committee
+    name: Pay Committee
 minutes:
   - committee: Full Board Meetings
     documents:
