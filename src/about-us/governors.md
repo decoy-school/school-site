@@ -10,6 +10,10 @@ documents:
     path: /uploads/decoy-summary-of-governor-information-september-2021-.pdf
   - name: Meet the Governors
     path: /uploads/governors-september-2021.pdf
+  - name: Meeting Attendance 2021-22
+    path: /uploads/governor-attendance-2021-2022.pdf
+  - name: Meeting Dates 2022-23
+    path: /uploads/governing-body-and-committee-meeting-dates-2022-2023.pdf
 people:
   - description: Heather Poustie, Headteacher
     picture: /uploads/heather-poustie-2-.jpg
@@ -132,9 +136,6 @@ minutes:
       - name: Business Mangement Committee, 28/9/20
         path: /uploads/bm-committee-minutes-28-september-2020.pdf
 ---
-
-[[toc]]
-
 ## About Us
 
 All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne - <a href="mailto:posborne@decoyschool.co.uk">posborne@decoyschool.co.uk</a>.
