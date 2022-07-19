@@ -17,4 +17,6 @@ letters:
     path: /uploads/y5-sporting-spectacular.pdf
   - name: Dartmoor National Park - July 2022
     path: /uploads/y5-dartmoor-july-2022.pdf
+  - name: Y5 trip to Hay Tor
+    path: /uploads/y5-dartmoor-july-2022-final-1-.pdf
 ---
