@@ -9,8 +9,7 @@ documents:
   - name: First Steps Nursery Admissions Policy 2022
     path: /uploads/nursery-admissions-policy-template-2022-.pdf
 ---
-
-[[toc]]
+\[[toc]]
 
 ## Nursery Information
 
@@ -22,7 +21,7 @@ At Decoy we can offer, subject to availability, up to fifteen hours, using your 
 
 You can also request additional hours that will be charged at a rate of £4 an hour.
 
-In addition, any child registered to our nursery is eligible to use our Breakfast & After School Clubs. Our Breakfast Club runs 7:55am - 8:55am and our After School Club runs 3:30pm - 6:00pm, with the additional option for a 5:00pm collection. If this is something you are interested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. Further information can be found [here](/parents/breakfast-and-after-school-club).
+In addition, any child registered to our nursery is eligible to book a place at our Breakfast & After School Clubs. Our Breakfast Club runs 7:55am - 8:55am and our After School Club runs 3:30pm - 6:00pm, with the additional option for a 5:00pm collection. If this is something you are interested in, please contact <a href="mailto:tbull@decoyschool.co.uk">Tania Bull</a>. Further information can be found [here](/parents/breakfast-and-after-school-club). Please be aware that there are limited nursery places available at our Breakfast and after School Clubs.
 
 Please see [below](#additional-information) to download a printable **form to register your interest** in a nursery place for your child.
 
@@ -31,15 +30,15 @@ Parents are advised to apply as early as possible as places are offered with a t
 
 ## Session Times
 
-- Morning Session: 9:00am - 12:00am
-- Lunch Session: 12:00am - 1:00pm
-- Afternoon Session: 1:00pm - 3:30pm
+* Morning Session: 9:00am - 12:00am
+* Lunch Session: 12:00am - 1:00pm
+* Afternoon Session: 1:00pm - 3:30pm
 
 ## Additional Information
 
 **Devon County Council - Early Years & Childcare Website - please click [here](https://new.devon.gov.uk/educationandfamilies/early-years-and-childcare).**
 
-If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator):  
+If you have any further queries about our nursery, please do not hesitate to contact Louise Iddon (Early Years Supervisor / Nursery Administrator):\
 <a href='tel:+441626353282'>01626 353 282</a> - <a href="mailto:admin@decoyschool.co.uk">admin@decoyschool.co.uk</a>
 
 You can find our Nursery Admissions Policy on our [policies page](/information/policies).
