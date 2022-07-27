@@ -43,5 +43,3 @@ documents:
 The government defines [what maintained schools must publish online](https://www.gov.uk/guidance/what-maintained-schools-must-publish-online). This is to help parents make informed choices and to assist Ofsted in their evaluation of our school. The following statutory information is found on this site.
 
 If you would like to request a paper copy of any of the information on our website, please [contact us](/contact-us).
-
-### **For staff vacancies for 2022-2023 please visit the 'About Us' page on our website**
