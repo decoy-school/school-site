@@ -51,8 +51,6 @@ termsOfReference:
 minutes:
   - committee: Full Board Meetings
     documents:
-      - name: Full Board Meeting, 23/5/22
-        path: /uploads/fgb-minutes-23-may-2022-final.pdf
       - name: Full Board Meeting, 13/12/21
         path: /uploads/full-board-meeting-13.12.21.pdf
       - name: Full Board Meeting, 6/12/21
