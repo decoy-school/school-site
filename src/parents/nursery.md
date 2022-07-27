@@ -1,7 +1,13 @@
 ---
-title: "First Steps Nursery"
-layout: "nursery.njk"
-documents: []
+title: First Steps Nursery
+layout: nursery.njk
+documents:
+  - name: First Steps Nursery Admissions form
+    path: /uploads/decoy-first-steps-nursery-admissions-form-march-22.docx
+  - name: First Steps Nursery Note of Interest
+    path: /uploads/decoy-first-steps-nursery-note-of-interest-march-22.docx
+  - name: First Steps Nursery Admissions Policy 2022
+    path: /uploads/nursery-admissions-policy-template-2022-.pdf
 ---
 
 [[toc]]
