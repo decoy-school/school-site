@@ -22,7 +22,7 @@ documents:
 ---
 ## Aims
 
-**The national curriculum for mathematics aims to ensure that all pupils:**
+The national curriculum for mathematics aims to ensure that all pupils:
 
 - become fluent in the fundamentals of mathematics, including through varied and frequent practice with increasingly complex problems over time, so that pupils develop conceptual understanding and the ability to recall and apply knowledge rapidly and accurately
 - reason mathematically by following a line of enquiry, conjecturing relationships and generalisations, and developing an argument, justification or proof using mathematical language
