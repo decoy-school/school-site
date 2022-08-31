@@ -487,6 +487,20 @@ input#query:focus {
 /* end link buttons and people pictures */
 /* ------------------------ */
 
+/* styles for governor bios list */
+.meet-the-governors div img{
+  max-width: 100px;
+  margin-right: 1em;
+  float: left;  
+}
+
+.clearfix::after{
+  content: "";
+  clear: both;
+  display: table
+}
+
+
 /* additional styles for uniform links*/
 
 .uniform-pics a {

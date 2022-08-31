@@ -9,12 +9,14 @@
     {% for document in documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
   </div>
 
-  <div class="content-grid">
+  <div>
   {% for person in people %}
-  <figure>
+  {# <figure>
     <img src="{{person.picture}}" alt="{{person.description}}">
     <figcaption>{{person.description}}</figcaption>
-  </figure>
+  </figure> #}
+  <h3>{{person.title}}</h3>
+  <p>{{person.bio}}
   {% endfor %}
   </div>
 
@@ -28,7 +30,7 @@
 
   {% for committee in minutes %}
 
-  <h3>{{committee.committee}}</h2>
+  <h3>{{committee.committee}}</h3>
 
   <div class="content-grid">
   {% for document in committee.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
