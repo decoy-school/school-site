@@ -27,4 +27,6 @@ letters:
     path: /uploads/diary-dates-summer-2022-updated-may-2-.pdf
   - name: Newsletter Summer 4
     path: /uploads/newsletter-summer-4.pdf
+  - name: Newsletter Summer 5
+    path: /uploads/summer-5.pdf
 ---
