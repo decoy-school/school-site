@@ -176,7 +176,7 @@ collections:
                 fields:
                   - { label: Minutes Name, name: name, widget: string }
                   - { label: Minutes Document, name: path, widget: file }
-      - name: "Meet the Governors"
+      - label: "Meet the Governors"
         name: "meet the governors"
         file: src/about-us/meet-the-governors.md
         fields:
@@ -186,7 +186,13 @@ collections:
             fields:
               - { label: Title, name: title, widget: string }
               - { label: Picture, name: picture, widget: image }
-              - { label: Bio, name: bio, widget: markdown, buttons: [bold, italic], minimal: true}
+              - {
+                  label: Bio,
+                  name: bio,
+                  widget: markdown,
+                  buttons: [bold, italic],
+                  minimal: true,
+                }
   - name: information
     label: Information
     files:
