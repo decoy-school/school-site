@@ -181,13 +181,12 @@ collections:
         file: src/about-us/meet-the-governors.md
         fields:
           - label: "People"
-              name: people
-              widget: list
-              fields:
-                - { label: Title, name: title, widget: string }
-                - { label: Picture, name: picture, widget: image }
-                - { label: Bio, name: bio, widget: markdown, buttons: [bold, italic], minimal: true}
-
+            name: people
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Picture, name: picture, widget: image }
+              - { label: Bio, name: bio, widget: markdown, buttons: [bold, italic], minimal: true}
   - name: information
     label: Information
     files:
