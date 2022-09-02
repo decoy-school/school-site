@@ -1,0 +1,19 @@
+{% extends "./layout.njk" %}
+
+{% block pagecontent %}
+<main>
+  <h1>{{title}}</h1>
+  {{content | safe}}
+  
+  <div class="meet-the-governors">
+  {% for person in people %}
+    <div class="clearfix">
+      <h3>{{person.title}}</h3>
+      {% if person.picture %}<img src="{{person.picture}}" alt="{{person.title}}">{% endif %}
+      <p>{{person.bio}}
+    </div>
+  {% endfor %}
+  </div>
+
+<main>
+{% endblock %}
