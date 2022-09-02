@@ -192,6 +192,7 @@ collections:
                   widget: markdown,
                   buttons: [bold, italic],
                   minimal: true,
+                  editor_components: [],
                 }
   - name: information
     label: Information
