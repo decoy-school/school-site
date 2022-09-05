@@ -4,8 +4,7 @@ layout: default.njk
 people:
   - title: Gill Quantrell – Co-opted
     picture: /uploads/gill-q-2-.bmp
-    bio:
-      I’m Gill Quantrell, I was a teacher for 27 years and worked in a variety of
+    bio: I’m Gill Quantrell, I was a teacher for 27 years and worked in a variety of
       primary schools across all age ranges. My last teaching post was at Decoy
       Primary where I worked as a class teacher and the EYFS lead from
       2007-2019. I now work as a Curriculum Developer and Early Years Consultant
@@ -14,8 +13,7 @@ people:
       me.
   - title: Kate Eames – Co-opted Governor
     picture: /uploads/kate-e.png
-    bio:
-      I started primary teaching in 1999 and left my last school in July 2019.
+    bio: I started primary teaching in 1999 and left my last school in July 2019.
       During that time, I have led many areas of curriculum, including maths,
       music, PSHE and the humanities, and taught in all year groups. I have also
       been a school SENDCO, and my last post was as Head of School in a small
@@ -47,8 +45,7 @@ people:
       I’m very keen that Decoy communicates well with parents and have been pleased to see this improve during my time as governor.
   - title: Ruth Dennis - Co-opted Governor
     picture: /uploads/ruth-d-5-.jpg
-    bio:
-      My name is Ruth Dennis and I am delighted to have joined the Governing Body
+    bio: My name is Ruth Dennis and I am delighted to have joined the Governing Body
       from the start of this academic year (September 2020). My affinity with
       the school goes back to the time when my own 3 children received a
       fantastic education here between 1995 to 2005. During part of this time, I
@@ -64,8 +61,7 @@ people:
       the role of a Governor.
   - title: Sandra Cartwright - Co-opted Governor (Co Vice Chair of Governing Body)
     picture: /uploads/sandra-c.jpg
-    bio:
-      Born in Cornwall, and educated at the local Girls Grammar School, I began
+    bio: Born in Cornwall, and educated at the local Girls Grammar School, I began
       work at a high street bank. Having met my future husband at school, we
       married in 1978 and in 1981 moved to Dorset, following his transfer within
       the same bank. We lived and worked there for nine years, and had our first
@@ -91,8 +87,7 @@ people:
 
 
       My background is in law and local government.
-  - title:
-      Paul Evemy – Local Authority Governor (Chair of LW Committee and Co Vice
+  - title: Paul Evemy – Local Authority Governor (Chair of LW Committee and Co Vice
       Chair of Governing Body)
     picture: /uploads/paul-evemy.jpg
     bio: >-
@@ -111,30 +106,14 @@ people:
   - title: Ruth Shoare – Parent Governor
     picture: /uploads/ruth-s.jpg
     bio: >-
-
-      I am a new Parent Governor at Decoy Primary School, since the beginning of
-      2021. My daughter started in Reception September 2020, and I wanted to
-      help the school to be the best it can, and support our children to achieve
-      their full potential. I hope to support the school to create an
-      environment where each child develops confidence, can excel creatively,
-      socially and academically and where each child feels valued. 
+      
+      I am a new Parent Governor at Decoy Primary School, since the beginning of 2021. My daughter started in Reception September 2020, and I wanted to help the school to be the best it can, and support our children to achieve their full potential. I hope to support the school to create an environment where each child develops confidence, can excel creatively, socially and academically and where each child feels valued. 
 
 
       I feel very fortunate in the education opportunities that I have had which have encouraged me to pursue a career in medicine and an interest in music. As a Doctor, I am familiar with reviewing and appraising things and supporting people and hope to utilise these skills in supporting the fellow governors as much as I am able. My job entails continually updating my knowledge and skills and so does being part of the Business Management Committee, a challenging but worthwhile experience. Outside of these roles I am a top chef, expert photographer, dancing diva, singer, talented musician, rambler, parrot whisperer, a ‘les mills’ expert – to my family and friends anyway!!!! Growing up I enjoyed playing in orchestras, singing in bands, dancing in shows and breeding parrots. Now all grown up with children, I mostly enjoy spending time with them when I have time to escape and enjoy exercise for some light relief! Since Covid I have taken more of an interest in cooking more healthily and capturing memorable moments with photography. 
 
 
       I hope my enthusiasm and passion for life in general, will be a positive influence for my role as a governor.
-  - title: Heather Poustie – Headteacher
-    picture: /uploads/heather-poustie-2-.jpg
-    bio: >-
-
-      I started my career in education in 1987 as a class teacher in London. I
-      moved to teach in Devon in 1995 and have now been a Headteacher for 16
-      years having spent the last four years as Headteacher at Decoy Primary
-      School. 
-
-
-      I am fortunate to work with such a dedicated and talented Governing Board who are committed to the very best outcomes for our children and feel privileged to spend every day with the wonderful children at fantastic staff team at Decoy.
   - title: Craig Veal – Staff Governor
     picture: /uploads/craig.png
     bio: I joined Decoy Primary in September 2018 as a KS2 class teacher and PE
@@ -146,17 +125,14 @@ people:
   - title: Andrew McKenzie - Parent Governor
     picture: /uploads/am.jpg
     bio: >-
-
-      I am a recently appointed Parent Governor at Decoy Primary School having
-      joined in October 2021. My daughter, niece and nephew all attend the
-      school, as did my wife and her brother some 30 years ago! 
+      
+      I am a recently appointed Parent Governor at Decoy Primary School having joined in October 2021. My daughter, niece and nephew all attend the school, as did my wife and her brother some 30 years ago! 
 
 
       With a career background in local government and most recently as a Town Clerk I am all too aware of the pressures faced by public sector organisations which can have such a big impact on all those who work in them, and not least those who stand to benefit the most from them – our kids! In the short time I’ve been a Governor I have developed a newfound respect for all school staff with the volume of benchmarking, analysing, planning, and delivering they have to do, not to mention the sheer knowledge they have to possess – it certainly has reassured me as a parent that our children are benefitting from great teaching at Decoy and I certainly hope I can do my bit to help ensure that continues in the years to come.
   - title: Kay Dicken – Associate Member
     picture: /uploads/kay-dicken-2-.jpg
-    bio:
-      I am an experienced School Business Manager in both a maintained school and
+    bio: I am an experienced School Business Manager in both a maintained school and
       an academy. I attend the Business Management Committee Meetings in my role
       as an Associate Governor.
 ---
