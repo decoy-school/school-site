@@ -15,5 +15,5 @@ Decoy is a Community Primary School and we work closely with families to support
 
 I hope our website gives you a glimpse of what we do and enough information for you to want to find out more. If you have not already visited the school, we would be delighted to meet you. Please contact us either by telephone or email to arrange a visit.
 
-Kind regards, Mrs Heather Poustie
+Kind regards, Mrs Sally Herbert
 Headteacher
