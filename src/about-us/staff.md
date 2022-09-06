@@ -1,13 +1,13 @@
 ---
 title: Our Staff
 ---
-[[toc]]
+\[[toc]]
 
 ## Senior Leadership Team
 
 ### Headteacher
 
-Mrs H. Poustie
+Mrs S. Herbert
 
 ### Deputy Head
 
@@ -19,14 +19,15 @@ Ms V. Stables
 
 ### Key Stage Team Leaders
 
-Mrs C. Smith - *EYFS Team Leader*\
-Mrs H. Thomsett - *KS1 Team Leader*\
+Mrs C. Smith - *EYFS Team Leader*  
+Mrs H. Thomsett - *KS1 Team Leader*  
+Mrs C. Hodgson and Mrs E. Simpson - *Acting KS1 Team Leaders*  
 Mr S. Ball - *KS2 Team Leader*
 
 ### School-Wide Support
 
-Sue Stevenson - SEMH specialist TA\
-Melissa Carson - SLCN specialist TA
+Mrs S. Stevenson - SEMH specialist TA
+Mrs M. Carson - SLCN specialist TA and SEND administrator
 
 ## EYFS Team
 
@@ -34,15 +35,15 @@ Melissa Carson - SLCN specialist TA
 
 #### Busy Bees and Butterflies
 
-Mrs V. Potter *(Teacher)*\
-Ms N. Campbell *(Teacher)*
+Mrs V. Potter *(Teacher)*
+Miss G. Kirk *(Teacher)*
 
 ### Reception
 
 #### Dragonflies
 
 Mrs C. Smith *(Teacher)*\
-Mrs A. Donnai *(Teacher)*
+Miss J. Linehan *(Teacher)*
 
 #### Ladybirds
 
@@ -71,7 +72,6 @@ Mrs L. Iddon *(HLTA)*\
 Ms E. Griffiths *(TA)*\
 Mrs S. Rowland *(TA)*\
 Ms E. Boon *(TA)*
-Ms C. Brealey *(TA)*\
 Ms L. Cundy-Knight *(MTA)*
 
 ## Key Stage 1 Team
@@ -81,12 +81,12 @@ Ms L. Cundy-Knight *(MTA)*
 #### Woodpeckers
 
 Mrs E. Simpson *(Teacher)*\
-Mrs H. Cammack *(Teacher)*
+Ms C. Hollingsworth *(Teacher)*
 
 #### Wrens
 
-Ms H. Thomsett *(Teacher)*\
-Mr S. Parnell *(Teacher)*
+Mrs H. Thomsett *(Teacher - from end of Autumn/Spring Term)*
+Mr M. Clark *(Teacher - maternity cover Autumn Term)*
 
 ### Year 2
 
@@ -109,7 +109,6 @@ Ms J. Huxtable *(TA)*
 
 #### Communication and Interaction
 
-Mrs B. Obsorne *(TA)*\
 Ms Z. Kopinski *(TA)*
 
 #### Social, Emotional and Mental Health
@@ -127,6 +126,7 @@ Ms E. Boon *(TA)*
 #### Puffins
 
 Mrs E. Pryde *(Teacher)*
+Mrs Y. Morrell *(Teacher)*
 
 #### **Swans**
 
@@ -136,7 +136,8 @@ Mr J. Smith *(Teacher)*
 
 #### Kingfishers
 
-Mrs Y. Morrell *(Teacher)*
+Mrs L. Greene *(Teacher - Autumn Term)*
+Mrs A. Harvey *(Teacher - from Spring Term)*
 
 #### Mallards
 
@@ -150,8 +151,7 @@ Mr S. Ball *(Teacher)*
 
 #### Kestrels
 
-Ms N. Doets *(Teacher)*\
-Ms D. Searle *(Teacher)*
+Ms N. Doets *(Teacher)* 
 
 ### Year 6
 
@@ -161,8 +161,7 @@ Mr C. Veal *(Teacher)*
 
 #### Eagles
 
-Mr T. Strick *(Teacher)*\
-Ms D. Searle *(Teacher)*
+Mr S. Parnell *(Teacher)*
 
 ### Support Staff
 
@@ -190,6 +189,11 @@ Ms S. Hunt *(TA)*
 
 Ms D. Connor *(TA)*\
 Ms M. Hindom *(TA)*
+
+## PPA and Leadership Cover
+
+Mrs D. Searle *(Teacher - KS2)*
+Ms H. Cammack *(Teacher - EYFS and KS1)*
 
 ## Administration Team
 
