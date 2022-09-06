@@ -1,7 +1,8 @@
 ---
 title: Our Staff
 ---
-\[[toc]]
+
+[[toc]]
 
 ## Senior Leadership Team
 
@@ -19,10 +20,10 @@ Ms V. Stables
 
 ### Key Stage Team Leaders
 
-Mrs C. Smith - *EYFS Team Leader*  
-Mrs H. Thomsett - *KS1 Team Leader*  
-Mrs C. Hodgson and Mrs E. Simpson - *Acting KS1 Team Leaders*  
-Mr S. Ball - *KS2 Team Leader*
+Mrs C. Smith - _EYFS Team Leader_  
+Mrs H. Thomsett - _KS1 Team Leader_  
+Mrs C. Hodgson and Mrs E. Simpson - _Acting KS1 Team Leaders_  
+Mr S. Ball - _KS2 Team Leader_
 
 ### School-Wide Support
 
@@ -35,44 +36,43 @@ Mrs M. Carson - SLCN specialist TA and SEND administrator
 
 #### Busy Bees and Butterflies
 
-Mrs V. Potter *(Teacher)*\
-Miss G. Kirk *(Teacher)*
+Mrs V. Potter _(Teacher)_\
+Miss G. Kirk _(Teacher)_
 
 ### Reception
 
 #### Dragonflies
 
-Mrs C. Smith *(Teacher)*\
-Miss J. Linehan *(Teacher)*
+Mrs C. Smith _(Teacher)_\
+Miss J. Linehan _(Teacher)_
 
 #### Ladybirds
 
-Miss S. Fraser *(Teacher)*
+Miss S. Fraser _(Teacher)_
 
 ### Support Staff
 
 #### Cognition and Learning
 
-Ms T. Bull *(TA)*\
-Ms A. Perkins *(TA)*
+Ms T. Bull _(TA)_\
+Ms A. Perkins _(TA)_
 
 #### Communication and Interaction
 
-Ms C. Brealey *(TA)*\
-Ms K. Morgan-Jones *(TA)*\
-Ms L. Cundy-Knight *(TA)*
+Ms K. Morgan-Jones _(TA)_\
+Ms L. Cundy-Knight _(TA)_
 
 #### Sensory and Physical
 
-Ms M. Cogavin *(TA)*
+Ms M. Cogavin _(TA)_
 
 #### Nursery Targeted and Univeral Support
 
-Mrs L. Iddon *(HLTA)*\
-Ms E. Griffiths *(TA)*\
-Mrs S. Rowland *(TA)*\
-Ms E. Boon *(TA)*\
-Ms L. Cundy-Knight *(MTA)*
+Mrs L. Iddon _(HLTA)_\
+Ms E. Griffiths _(TA)_\
+Mrs S. Rowland _(TA)_\
+Ms E. Boon _(TA)_\
+Ms L. Cundy-Knight _(MTA)_
 
 ## Key Stage 1 Team
 
@@ -80,44 +80,44 @@ Ms L. Cundy-Knight *(MTA)*
 
 #### Woodpeckers
 
-Mrs E. Simpson *(Teacher)*\
-Ms C. Hollingsworth *(Teacher)*
+Mrs E. Simpson _(Teacher)_\
+Ms C. Hollingsworth _(Teacher)_
 
 #### Wrens
 
-Mrs H. Thomsett *(Teacher - from end of Autumn/Spring Term)*\
-Mr M. Clark *(Teacher - maternity cover Autumn Term)*
+Mrs H. Thomsett _(Teacher - from end of Autumn/Spring Term)_\
+Mr M. Clark _(Teacher - maternity cover Autumn Term)_
 
 ### Year 2
 
 #### Partridges
 
-Mrs C. Hodgson *(Teacher)*\
-Mrs E. Lidbury *(Teacher)*
+Mrs C. Hodgson _(Teacher)_\
+Mrs E. Lidbury _(Teacher)_
 
 #### Chaffinches
 
-Miss C. Sinclair *(Teacher)*
+Miss C. Sinclair _(Teacher)_
 
 ### Support Staff
 
 #### Cognition and Learning
 
-Ms V. Weir *(TA)*\
-Ms L. Morgan-Anstee *(TA)*\
-Ms J. Huxtable *(TA)*
+Ms V. Weir _(TA)_\
+Ms L. Morgan-Anstee _(TA)_\
+Ms J. Huxtable _(TA)_
 
 #### Communication and Interaction
 
-Ms Z. Kopinski *(TA)*
+Ms Z. Kopinski _(TA)_
 
 #### Social, Emotional and Mental Health
 
-Ms H. Yip *(TA)*
+Ms H. Yip _(TA)_
 
 #### Sensory and Physical
 
-Ms E. Boon *(TA)*
+Ms E. Boon _(TA)_
 
 ## Key Stage 2
 
@@ -125,87 +125,86 @@ Ms E. Boon *(TA)*
 
 #### Puffins
 
-Mrs E. Pryde *(Teacher)*
-Mrs Y. Morrell *(Teacher)*
+Mrs E. Pryde _(Teacher)_
+Mrs Y. Morrell _(Teacher)_
 
 #### **Swans**
 
-Mr J. Smith *(Teacher)*
+Mr J. Smith _(Teacher)_
 
 ### Year 4
 
 #### Kingfishers
 
-Mrs L. Greene *(Teacher - Autumn Term)*\
-Mrs A. Harvey *(Teacher - from Spring Term)*
+Mrs L. Greene _(Teacher - Autumn Term)_\
+Mrs A. Harvey _(Teacher - from Spring Term)_
 
 #### Mallards
 
-Mrs R. Lawton *(Teacher)*
+Mrs R. Lawton _(Teacher)_
 
 ### Year 5
 
 #### Owls
 
-Mr S. Ball *(Teacher)*
+Mr S. Ball _(Teacher)_
 
 #### Kestrels
 
-Ms N. Doets *(Teacher)* 
+Ms N. Doets _(Teacher)_
 
 ### Year 6
 
 #### Falcons
 
-Mr C. Veal *(Teacher)*
+Mr C. Veal _(Teacher)_
 
 #### Eagles
 
-Mr S. Parnell *(Teacher)*
+Mr S. Parnell _(Teacher)_
 
 ### Support Staff
 
 #### Cognition and Learning
 
-Mrs M. Dower *(HLTA)*\
-Ms M. Wright *(HLTA)*\
-Mrs D. Minnear *(TA)*\
-Ms S. Milton *(TA)*\
-Mrs T. Hudson *(TA)*\
-Mrs K. Braund *(TA)*
+Mrs M. Dower _(HLTA)_\
+Ms M. Wright _(HLTA)_\
+Mrs D. Minnear _(TA)_\
+Ms S. Milton _(TA)_\
+Mrs T. Hudson _(TA)_
 
 #### Communication and Interaction
 
-Mrs G. Gray *(TA)*\
-Ms M. Redfern *(TA)*\
-Ms D. Rogers *(TA)*
+Mrs G. Gray _(TA)_\
+Ms M. Redfern _(TA)_\
+Ms D. Rogers _(TA)_
 
 #### Social, Emotional and Mental Health
 
-Ms C. Patchet *(TA)*\
-Ms S. Hunt *(TA)*
+Ms C. Patchet _(TA)_\
+Ms S. Hunt _(TA)_
 
 #### Sensory and Physical
 
-Ms D. Connor *(TA)*\
-Ms M. Hindom *(TA)*
+Ms D. Connor _(TA)_\
+Ms M. Hindom _(TA)_
 
 ## PPA and Leadership Cover
 
-Mrs D. Searle *(Teacher - KS2)*\
-Ms H. Cammack *(Teacher - EYFS and KS1)*
+Mrs D. Searle _(Teacher - KS2)_\
+Ms H. Cammack _(Teacher - EYFS and KS1)_
 
 ## Administration Team
 
-Mrs K. Dicken - *Business Manager*\
-Ms D. O'Halloran, Ms J. Edwards, Mrs L. Vile - *Administrators*
+Mrs K. Dicken - _Business Manager_\
+Ms D. O'Halloran, Ms J. Edwards, Mrs L. Vile - _Administrators_
 
 ## Mealtime Assistants
 
 **Nursery** - Mrs H. Webster, Mrs L. Cundy-Knight, Mrs A. Perkins, Mrs S. Langton\
-**Reception** - Mrs V. Guppy, Mrs S. Wilton, Ms N. Lentle, Miss C. Brealey\
+**Reception** - Mrs V. Guppy, Mrs S. Wilton\
 **KS1** - Mrs L. Gilo, Mrs Z. Kopinski, Mrs V. Weir, Mrs L. Morgan-Anstee, Mrs T. Hudson\
-**KS2** – Mrs D. Rogers, Mrs. G. Hawkins, Mrs D. Minear, Ms Lentle
+**KS2** – Mrs D. Rogers, Mrs. G. Hawkins, Mrs D. Minear
 
 ## Site Manager
 
