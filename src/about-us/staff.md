@@ -26,7 +26,7 @@ Mr S. Ball - *KS2 Team Leader*
 
 ### School-Wide Support
 
-Mrs S. Stevenson - SEMH specialist TA
+Mrs S. Stevenson - SEMH specialist TA\
 Mrs M. Carson - SLCN specialist TA and SEND administrator
 
 ## EYFS Team
@@ -35,7 +35,7 @@ Mrs M. Carson - SLCN specialist TA and SEND administrator
 
 #### Busy Bees and Butterflies
 
-Mrs V. Potter *(Teacher)*
+Mrs V. Potter *(Teacher)*\
 Miss G. Kirk *(Teacher)*
 
 ### Reception
@@ -71,7 +71,7 @@ Ms M. Cogavin *(TA)*
 Mrs L. Iddon *(HLTA)*\
 Ms E. Griffiths *(TA)*\
 Mrs S. Rowland *(TA)*\
-Ms E. Boon *(TA)*
+Ms E. Boon *(TA)*\
 Ms L. Cundy-Knight *(MTA)*
 
 ## Key Stage 1 Team
@@ -85,7 +85,7 @@ Ms C. Hollingsworth *(Teacher)*
 
 #### Wrens
 
-Mrs H. Thomsett *(Teacher - from end of Autumn/Spring Term)*
+Mrs H. Thomsett *(Teacher - from end of Autumn/Spring Term)*\
 Mr M. Clark *(Teacher - maternity cover Autumn Term)*
 
 ### Year 2
@@ -136,7 +136,7 @@ Mr J. Smith *(Teacher)*
 
 #### Kingfishers
 
-Mrs L. Greene *(Teacher - Autumn Term)*
+Mrs L. Greene *(Teacher - Autumn Term)*\
 Mrs A. Harvey *(Teacher - from Spring Term)*
 
 #### Mallards
@@ -192,7 +192,7 @@ Ms M. Hindom *(TA)*
 
 ## PPA and Leadership Cover
 
-Mrs D. Searle *(Teacher - KS2)*
+Mrs D. Searle *(Teacher - KS2)*\
 Ms H. Cammack *(Teacher - EYFS and KS1)*
 
 ## Administration Team
