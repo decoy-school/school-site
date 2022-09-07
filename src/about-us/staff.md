@@ -169,7 +169,7 @@ Mr S. Parnell _(Teacher)_
 
 Mrs M. Dower _(HLTA)_\
 Ms M. Wright _(HLTA)_\
-Mrs D. Minnear _(TA)_\
+Mrs D. Minear _(TA)_\
 Ms S. Milton _(TA)_\
 Mrs T. Hudson _(TA)_
 
