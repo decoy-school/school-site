@@ -3,7 +3,7 @@ title: Policies
 policies:
   - path: /uploads/2021-charging-and-remissions-policy.pdf
     name: Charging and Remissions
-  - path: /uploads/2021-promoting-positive-behaviour-policy-covid.pdf
+  - path: /uploads/2022-promoting-positive-behaviour-policy.pdf
     name: Promoting Positive Behaviour
   - path: /uploads/2020-outdoor-education-visits-and-off-site-activities-policy.pdf
     name: Outdoor Education and Visits
@@ -62,7 +62,7 @@ policies:
   - name: "Special Educaional Needs and Disabilty (SEND) Report "
     path: /uploads/2021-2022-send-information-report.pdf
   - name: Behaviour Principles
-    path: /uploads/2022-behaviour-principles-written-statement.pdf
+    path: /uploads/2022-2023-behaviour-principles-written-statement.pdf
   - name: Child Protection and Safeguarding Policy
     path: /uploads/2021-cp-and-safeguarding-policy.pdf
   - name: "Breakfast & After School Club (BASC) Fees and Payments "
