@@ -3,7 +3,7 @@ title: Our Values
 ---
 
 
-\[[toc]]
+[[toc]]
 
 ## Ethos - Inspiring Positive Futures
 
