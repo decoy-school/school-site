@@ -5,13 +5,13 @@
 <main>
   <h1>{{title}}</h1>
   {%if vacancies.length > 0%}
-    <p>If you are interested in joinng our staff team, we are committed to safeguarding and encourage you to read our Child Protection and Safeguarding Policy before applying for any posts at Decoy Primary School.</p>
     {%for vacancy in vacancies %}
       <h2>{{vacancy.heading}}</h2>
       <p>{{vacancy.text}}</p>
       <div class="content-grid">
       {% for document in vacancy.documents %}<a href="{{document.path}}">{{document.name}}</a>{% endfor %}
       </div>
+      <p>We are committed to safeguarding and promoting the welfare of children and young people and expect all staff and volunteers to share this commitment. We encourage you to read our Child Protection and Safeguarding Policy before applying for any posts at Decoy Primary School. Posts are subject to an interview and enhanced DBS check.</p>
     {% endfor %}
   {% else %}
     <p>There are currently no vacancies at the school. Thank you for your interest.</p>
