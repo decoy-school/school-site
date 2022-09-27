@@ -121,20 +121,31 @@ collections:
               - label: Title
                 name: heading
                 widget: string
-              - label: Text,
-                name: text,
-                widget: markdown,
-                buttons: [bold, italic, link, heading-three, heading-four, heading-five, heading-six, bulleted-list, numbered-list],
-                minimal: true,
-                editor_components: [],
+              - {
+                  label: Text,
+                  name: text,
+                  widget: markdown,
+                  buttons:
+                    [
+                      bold,
+                      italic,
+                      link,
+                      heading-three,
+                      heading-four,
+                      heading-five,
+                      heading-six,
+                      bulleted-list,
+                      numbered-list,
+                    ],
+                  minimal: true,
+                  editor_components: [],
+                }
               - label: "Documents"
                 name: documents
                 widget: list
                 fields:
                   - { label: "Document name", name: "name", widget: "string" }
                   - { label: "Document", name: "path", widget: "file" }
-                        
-              
       - label: "Values"
         name: values
         file: src/about-us/values.md
