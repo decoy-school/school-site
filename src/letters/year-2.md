@@ -11,4 +11,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-26.9.22.pdf
   - name: Next Week in Year 2 - W/C 3/10/22
     path: /uploads/next-week-in-year-2-wc-3.10.22.pdf
+  - path: /uploads/2s-5s-10s-tables-challenge.pdf
+    name: Y2 Times Tables Challenge W/C 3/10/22
 ---
