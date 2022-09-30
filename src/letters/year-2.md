@@ -9,4 +9,6 @@ letters:
     path: /uploads/next-week-in-year-2-wc-19.9.22.pdf
   - name: Next Week in Year 2 - W/C 29/9/22
     path: /uploads/next-week-in-year-2-wc-26.9.22.pdf
+  - name: Next Week in Year 2 - W/C 3/10/22
+    path: /uploads/next-week-in-year-2-wc-3.10.22.pdf
 ---
