@@ -1,6 +1,9 @@
 {% extends "./layout.njk" %}
 
 {% block pagecontent %}
+    {% if bannertext %}
+    <div id="banner-text" style="color: white; background-color: red; margin; text-align:center; font-size: 3em; padding: 1em">{{bannertext}}</div>
+    {% endif %}
     <div id="home-page-banner">
       <div class="title-inner">
         <h1>Decoy<br />Community<br />Primary School</h1>
