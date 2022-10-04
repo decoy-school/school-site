@@ -2,7 +2,7 @@
 title: Home
 layout: homepage.njk
 permalink: index.html
-bannertext: "omg snowday!"
+bannertext: "If you're interested in a place in Reception for September 2023 - the school is organising tours! Please get in touch!"
 ---
 
 # Welcome

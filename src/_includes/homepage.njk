@@ -2,7 +2,9 @@
 
 {% block pagecontent %}
     {% if bannertext %}
-    <div id="banner-text" style="color: white; background-color: red; margin; text-align:center; font-size: 3em; padding: 1em">{{bannertext}}</div>
+    <div id="banner-text-container">
+      <p id="banner-text">{{bannertext}}</p>
+    </div>
     {% endif %}
     <div id="home-page-banner">
       <div class="title-inner">
