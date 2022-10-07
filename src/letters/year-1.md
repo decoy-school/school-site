@@ -13,4 +13,6 @@ letters:
     path: /uploads/next-week-in-year-1-wc-3.10.22.pdf
   - name: Next Week in Year 1 - W/C 10/10/22
     path: /uploads/next-week-in-year-1-wc-10.10.22.pdf
+  - name: 1 Space Dome
+    path: /uploads/y1-space-dome-2022.pdf
 ---
