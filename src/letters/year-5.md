@@ -7,4 +7,6 @@ letters:
     path: /uploads/y5-touch-rugby-at-nac.pdf
   - name: Y5 Torquay Museum Oct 2022
     path: /uploads/y5-torquay-museum-letter-oct-2022.pdf
+  - name: Y5 Space Dome
+    path: /uploads/space-dome-y5-2022-1-.pdf
 ---
