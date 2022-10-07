@@ -15,4 +15,6 @@ letters:
     name: Y2 Times Tables Challenge W/C 3/10/22
   - name: Next Week in Year 2 - W/C 10/10/22
     path: /uploads/next-week-in-year-2-wc-10.10.22.pdf
+  - name: Common Exception Words W/C 10/10/22
+    path: /uploads/y2-cew-s-wc-10.10.22.pdf
 ---
