@@ -6,6 +6,12 @@ display_url: https://www.decoyschool.co.uk
 
 media_folder: /src/static/uploads
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dkimqodar
+    api_key: 759729831693614
+
 public_folder: /uploads
 
 collections:
