@@ -6,11 +6,6 @@ display_url: https://www.decoyschool.co.uk
 
 media_folder: /src/static/uploads
 
-media_library:
-  name: uploadcare
-  config:
-    publicKey: e24faaa102d76fd324f8
-
 public_folder: /uploads
 
 collections:
