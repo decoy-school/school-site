@@ -18,7 +18,7 @@ letters:
   - name: Common Exception Words W/C 10/10/22
     path: /uploads/y2-cew-s-wc-10.10.22.pdf
   - name: Next Week in in Year 2 - W/C 17/10/22
-    path: https://res.cloudinary.com/dkimqodar/image/upload/v1665749557/Next_Week_in_Year_2_WC_17.10.22_gj1dno.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1665749557/letters/y2/Next_Week_in_Year_2_WC_17.10.22_gj1dno.pdf
   - name: Y2 Fact Families W/C 17/10/22
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1665749667/Y2_Fact_families_WC_17.10.22_qppf1v.pdf
 ---
