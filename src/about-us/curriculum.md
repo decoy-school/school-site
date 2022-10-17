@@ -1,7 +1,6 @@
 ---
 title: Our Curriculum
 ---
-
 [[toc]]
 
 Our curriculum reflects the requirements of the [National Curriculum programmes of study](https://www.gov.uk/government/collections/national-curriculum), which all maintained schools in England must teach.
@@ -12,7 +11,7 @@ All children learn, practice, develop and refine a wide range of skills in their
 
 We promote enjoyment for learning and encourage children to work independently, with partners and in groups helping them embed social skills though collaboration and cooperation. To meet each child's individual needs, we provide extra support, enrichment and new challenges to help every child fulfil their potential.
 
-Pupil engagement is key to pupil success and we plan relevant, enjoyable and interesting experiences to broaden thinking and develop a love of lifelong learning. All children access a wide range of extra-curricular activities - we welcome visitors, plan exciting trips off site and organise residential stays to France and the Isle of Wight to support learning and enthuse and inspire.
+Pupil engagement is key to pupil success and we plan relevant, enjoyable and interesting experiences to broaden thinking and develop a love of lifelong learning. All children access a wide range of extra-curricular activities - we welcome visitors, plan exciting trips off site and organise residential stays to Heatree to support learning and enthuse and inspire.
 
 Alongside the statutory National Curriculum, PSHE and RE, our curriculum also includes the 'hidden curriculum'. We aim to teach children how to grow into positive, responsible people, who can work and co-operate with others while developing knowledge and skills and crucially achieve all that they can.
 
