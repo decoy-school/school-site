@@ -6,14 +6,12 @@ documents:
   - name: Writing Progression document
     path: /uploads/writing-progression-document.pdf
   - name: Reading Curriculum Plan
-    path: /uploads/reading-curriculum-plan.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666006490/curriculum/Reading_Curriculum_Plan_wyxzcz.pdf
   - name: Parent/Carer Reading Guided KS1
     path: /uploads/parent-reading-guide-ks1.pdf
   - path: /uploads/parent-reading-guide-ks2.pdf
     name: Parent/Carer Reading Guided KS2
 ---
-![](/uploads/library-2.jpeg)
-
 ## Aims
 
 **The national curriculum for English aims to ensure that all pupils:** 
