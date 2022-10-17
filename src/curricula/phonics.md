@@ -1,6 +1,8 @@
 ---
 title: Phonics
-documents: []
+documents:
+  - name: Phonics Overview
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666006490/curriculum/Phonics_Overview_-_book_titles_dknrh1.pdf
 ---
 
 In September 2020, we started to teach phonics through the Read, Write Inc (RWI) programme. Phonic lessons are carried out each day. The children are taught according to their phonic knowledge; each child is taught to their specific need and is therefore able to reach their potential.
