@@ -1,7 +1,7 @@
 ---
 title: Our Curriculum
 ---
-\[[toc]]
+[[toc]]
 
 Our curriculum reflects the requirements of the [National Curriculum programmes of study](https://www.gov.uk/government/collections/national-curriculum), which all maintained schools in England must teach.
 
