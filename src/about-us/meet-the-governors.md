@@ -114,14 +114,6 @@ people:
 
 
       I hope my enthusiasm and passion for life in general, will be a positive influence for my role as a governor.
-  - title: Craig Veal – Staff Governor
-    picture: /uploads/craig.png
-    bio: I joined Decoy Primary in September 2018 as a KS2 class teacher and PE
-      subject leader. From September 2021 I took on English subject leadership
-      and am really enjoying this new role. This is the first time that I have
-      been a governors and I sit on the Business Management Committee which
-      helps to give me a good understanding of a different side of school life –
-      outside of the classroom.
   - title: Andrew McKenzie - Parent Governor
     picture: /uploads/am.jpg
     bio: >-
