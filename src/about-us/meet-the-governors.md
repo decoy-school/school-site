@@ -43,22 +43,6 @@ people:
 
 
       I’m very keen that Decoy communicates well with parents and have been pleased to see this improve during my time as governor.
-  - title: Ruth Dennis - Co-opted Governor
-    picture: /uploads/ruth-d-5-.jpg
-    bio: My name is Ruth Dennis and I am delighted to have joined the Governing Body
-      from the start of this academic year (September 2020). My affinity with
-      the school goes back to the time when my own 3 children received a
-      fantastic education here between 1995 to 2005. During part of this time, I
-      also worked at the school (1998 – 2003) initially as a Meal Time Assistant
-      but then as a Teaching Assistant supporting various class teachers from
-      within the First Steps Nursery through to Year 6. I have many fond
-      memories of this interesting time which also supported me to progress my
-      own career within Education. I left Decoy school in 2003 to commence a
-      teaching role but have always kept an interest in the school’s progress
-      and journey as I live in the local community. I now look forward to
-      supporting in a different capacity and bringing the education and
-      managerial skills and experience that I have developed over the years to
-      the role of a Governor.
   - title: Sandra Cartwright - Co-opted Governor (Co Vice Chair of Governing Body)
     picture: /uploads/sandra-c.jpg
     bio: Born in Cornwall, and educated at the local Girls Grammar School, I began
