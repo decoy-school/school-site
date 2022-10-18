@@ -26,39 +26,6 @@ people:
       schools and supporting maths development. I have a strong belief in
       allowing children access to an equitable classroom, where they all play a
       part.
-  - title: Oliver Laity – Co-opted Governor (Chair of BM Committee)
-    picture: /uploads/oliver-laity.jpg
-    bio: >-
-      My careers work at the University of Exeter involves helping people to
-      realise their own career dreams and achieve happiness and fulfilment in
-      their working lives which is an exciting brief. Sometimes this involves
-      working with people who are still choosing their career, and at others,
-      helping people in established careers to find new opportunities or
-      challenges. I’m therefore proud to chair the Business Management Committee
-      at Decoy and hope to be able to support staff in their development at the
-      school. 
-
-
-      I’m a qualified careers advisor, coach, mentor and marketer and I'm happiest when I'm supporting people to succeed. At the school I help to support the development of physical education and some communications work, including supporting the development of the website. 
-
-
-      I’m very keen that Decoy communicates well with parents and have been pleased to see this improve during my time as governor.
-  - title: Ruth Dennis - Co-opted Governor
-    picture: /uploads/ruth-d-5-.jpg
-    bio: My name is Ruth Dennis and I am delighted to have joined the Governing Body
-      from the start of this academic year (September 2020). My affinity with
-      the school goes back to the time when my own 3 children received a
-      fantastic education here between 1995 to 2005. During part of this time, I
-      also worked at the school (1998 – 2003) initially as a Meal Time Assistant
-      but then as a Teaching Assistant supporting various class teachers from
-      within the First Steps Nursery through to Year 6. I have many fond
-      memories of this interesting time which also supported me to progress my
-      own career within Education. I left Decoy school in 2003 to commence a
-      teaching role but have always kept an interest in the school’s progress
-      and journey as I live in the local community. I now look forward to
-      supporting in a different capacity and bringing the education and
-      managerial skills and experience that I have developed over the years to
-      the role of a Governor.
   - title: Sandra Cartwright - Co-opted Governor (Co Vice Chair of Governing Body)
     picture: /uploads/sandra-c.jpg
     bio: Born in Cornwall, and educated at the local Girls Grammar School, I began
@@ -114,15 +81,7 @@ people:
 
 
       I hope my enthusiasm and passion for life in general, will be a positive influence for my role as a governor.
-  - title: Craig Veal – Staff Governor
-    picture: /uploads/craig.png
-    bio: I joined Decoy Primary in September 2018 as a KS2 class teacher and PE
-      subject leader. From September 2021 I took on English subject leadership
-      and am really enjoying this new role. This is the first time that I have
-      been a governors and I sit on the Business Management Committee which
-      helps to give me a good understanding of a different side of school life –
-      outside of the classroom.
-  - title: Andrew McKenzie - Parent Governor
+  - title: Andrew McKenzie - Parent Governor (Chair of BM Committee)
     picture: /uploads/am.jpg
     bio: >-
       
