@@ -98,7 +98,7 @@ people:
 
 
       I hope my enthusiasm and passion for life in general, will be a positive influence for my role as a governor.
-  - title: Andrew McKenzie - Parent Governor
+  - title: Andrew McKenzie - Parent Governor (Chair of BM Committee)
     picture: /uploads/am.jpg
     bio: >-
       
