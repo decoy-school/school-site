@@ -11,7 +11,7 @@ links:
   - text: Our Staff
     address: /about-us/our-staff
   - text: Our Governors
-    address: /about-us/our-governors
+    address: /about-us/governors-information
 ---
 
 This page contains links to useful information about our school.
