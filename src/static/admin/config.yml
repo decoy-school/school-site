@@ -185,8 +185,8 @@ collections:
                   name: "path",
                   widget: "file",
                 }
-          - label: "Minutes"
-            name: minutes
+          - label: "Committees"
+            name: committees
             widget: list
             add_to_top: true
             label_singular: "committee"

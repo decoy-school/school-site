@@ -1,5 +1,5 @@
 ---
-title: Our Governors
+title: Governors Information
 layout: default.njk
 documents:
   - name: Meet the Governors
@@ -21,7 +21,7 @@ termsOfReference:
     name: Business Management Committee
   - path: /uploads/Terms-of-Reference-for-the-Pay-Committee-Autumn-2020.pdf
     name: Pay Committee
-minutes:
+committees:
   - committee: Full Board Meetings
     documents:
       - name: Full Board Meeting 23/05/2022
@@ -124,7 +124,7 @@ All Governors can be contacted through the Clerk to Governors, Mr Peter Osborne 
 
 ## Meeting Minutes
 
-{% for committee in minutes %}
+{% for committee in committees %}
 
 <h3>{{committee.committee}}</h3>
 
