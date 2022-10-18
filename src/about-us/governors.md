@@ -56,8 +56,6 @@ committees:
         path: /uploads/fgb-minutes-191014.pdf
   - committee: Learning and Wellbeing Committee Meetings
     documents:
-      - name: Test minutes, 18/10/22
-        path: https://res.cloudinary.com/dkimqodar/image/upload/v1666099150/governors/minutes/test_minutes_k81yl5.pdf
       - name: Learning and Wellbeing Committee, 9/5/22
         path: /uploads/lw-committee-minutes-9-may-2022-final.pdf
       - name: Learning and Wellbeing Committee, 7/3/22
