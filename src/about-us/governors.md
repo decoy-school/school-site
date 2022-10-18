@@ -5,13 +5,13 @@ documents:
   - name: Meet the Governors
     path: /about-us/meet-the-governors
   - name: Governing Body Roles
-    path: /uploads/governing-body-roles.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666098970/governors/governing-body-roles_lbqvvg.pdf
   - name: Decoy Summary of Governor Information 2021
-    path: /uploads/decoy-summary-of-governor-information-september-2021-.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666098969/governors/decoy-summary-of-governor-information-september-2021-_aaiyz1.pdf
   - name: Meeting Attendance 2021-22
-    path: /uploads/governor-attendance-2021-2022.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666098969/governors/governor-attendance-2021-2022_l0k4yq.pdf
   - name: Meeting Dates 2022-23
-    path: /uploads/governing-body-and-committee-meeting-dates-2022-2023.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1666098969/governors/governing-body-and-committee-meeting-dates-2022-2023_yxfvw0.pdf
 termsOfReference:
   - path: /uploads/Terms-of-Reference-Board-of-Governors-Autumn-2020.pdf
     name: Board of Governors
