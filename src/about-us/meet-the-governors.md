@@ -26,23 +26,6 @@ people:
       schools and supporting maths development. I have a strong belief in
       allowing children access to an equitable classroom, where they all play a
       part.
-  - title: Oliver Laity – Co-opted Governor (Chair of BM Committee)
-    picture: /uploads/oliver-laity.jpg
-    bio: >-
-      My careers work at the University of Exeter involves helping people to
-      realise their own career dreams and achieve happiness and fulfilment in
-      their working lives which is an exciting brief. Sometimes this involves
-      working with people who are still choosing their career, and at others,
-      helping people in established careers to find new opportunities or
-      challenges. I’m therefore proud to chair the Business Management Committee
-      at Decoy and hope to be able to support staff in their development at the
-      school. 
-
-
-      I’m a qualified careers advisor, coach, mentor and marketer and I'm happiest when I'm supporting people to succeed. At the school I help to support the development of physical education and some communications work, including supporting the development of the website. 
-
-
-      I’m very keen that Decoy communicates well with parents and have been pleased to see this improve during my time as governor.
   - title: Sandra Cartwright - Co-opted Governor (Co Vice Chair of Governing Body)
     picture: /uploads/sandra-c.jpg
     bio: Born in Cornwall, and educated at the local Girls Grammar School, I began
