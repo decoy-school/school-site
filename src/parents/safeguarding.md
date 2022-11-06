@@ -3,6 +3,12 @@ title: Safeguarding Information
 general:
   - path: /uploads/let-s-talk-teenagers-a4-poster-june-2022.pdf
     name: Let's talk Teenagers June 2022 Workshops
+  - path: https://res.cloudinary.com/dkimqodar/image/upload/v1667729317/safeguarding/Operation_Encompass_Letter_-_2022_h6eqcx.pdf
+    name: Operation Encompass Letter
+  - path: https://res.cloudinary.com/dkimqodar/image/upload/v1667729317/safeguarding/OE-Parents-Poster_gmfkxw.pdf
+    name: Operation Encompass Poster
+  - path: https://res.cloudinary.com/dkimqodar/image/upload/v1667729317/safeguarding/1230_Bright_Sky_A4_Poster_V0_12W_ztku38.pdf
+    name: Bright Sky Poster
 bullying:
   - name: SMART Rules
     path: /uploads/smart-rules.pdf
@@ -13,7 +19,7 @@ bullying:
   - name: WhatsApp Safety Guidance
     path: /uploads/whatsappparentsguide.pdf
 ---
-\[[toc]]
+[[toc]]
 
 {%if general %}
 
