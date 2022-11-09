@@ -9,6 +9,8 @@ general:
     name: Operation Encompass Poster
   - path: https://res.cloudinary.com/dkimqodar/image/upload/v1667729317/safeguarding/1230_Bright_Sky_A4_Poster_V0_12W_ztku38.pdf
     name: Bright Sky Poster
+  - name: FIFA 2023 Parents Guide
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1668016512/safeguarding/Fifa_23_zdcbaj.pdf
 bullying:
   - name: SMART Rules
     path: /uploads/smart-rules.pdf
