@@ -51,8 +51,8 @@ policies:
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
   - name: Admissions Policy 2022
     path: /uploads/2022-decoy-admissions-policy-updated-.pdf
-  - name: 2020 Attendance Policy
-    path: /uploads/2020-attendance-policy.pdf
+  - name: Attendance Policy 2022
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1668016665/policies/2022_Attendance_Policy_sz2uub.pdf
   - name: Privacy Notice - Visitors
     path: /uploads/privacy-notice-visitors.pdf
   - name: Children with Health Needs Who Cannot Attend School DRAFT
