@@ -8,8 +8,8 @@ vacancies:
       February 2023. Please see the documents below for further information and
       an application form.
     documents:
-      - name: Class Teacher Advertisment
-        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668098982/vacancies/Teacher_advertisment_qke4pv.docx
+      - name: Class Teacher Advertisement
+        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668099408/vacancies/Teacher_advertisement_zeix7q.docx
       - name: Person Specification
         path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668098981/vacancies/Person_spec_x1a60a.docx
       - name: Job Description
