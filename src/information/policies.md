@@ -13,8 +13,6 @@ policies:
     name: Accessibilty Plan
   - name: 2021 Complaints Form - Template
     path: /uploads/2021-complaints-form-template.docx
-  - name: Admissions 2021
-    path: /uploads/2021-decoy-admissions-policy.pdf
   - path: /uploads/2021-health-safety-policy.pdf
     name: Health and Safety
   - path: /uploads/2021-2022-equality_information_and_objectives_policy.pdf
@@ -49,8 +47,6 @@ policies:
     path: /uploads/years-5-and-6-decoy-school-acceptable-user-agreement.pdf
   - name: Privacy Notice Parents and Pupils
     path: /uploads/privacy-notice-primary-school-pupils-parents.pdf
-  - name: Admissions Policy 2022
-    path: /uploads/2022-decoy-admissions-policy-updated-.pdf
   - name: Attendance Policy 2022
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1668016665/policies/2022_Attendance_Policy_sz2uub.pdf
   - name: Privacy Notice - Visitors
