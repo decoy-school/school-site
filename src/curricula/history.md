@@ -2,9 +2,11 @@
 title: History
 documents:
   - name: History Curriculum Overview
-    path: /uploads/history-curriculum-overview-1.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1668679290/curriculum/history/History_Curriculum_Overview_2022-23_with_themes_bfnnf8.pdf
   - name: History Skills Progression
-    path: /uploads/history-skills-progression-decoy.pdf
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1668679292/curriculum/history/Skills_Progression_Decoy_omwrxd.pdf
+  - name: Decoy History Timeline
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1668679292/curriculum/history/Overview_Timeline_f9axgm.pdf
 ---
 ## Aims
 
