@@ -1,7 +1,7 @@
 ---
 title: Computing
 documents:
-  - path: /uploads/decoy-computing-overview.pdf
+  - path: https://res.cloudinary.com/dkimqodar/image/upload/v1668953806/curriculum/computing/Computing_Curriculum_Overview_ohpnqh.pdf
     name: Computing Curriculum Overview
 ---
 ## Aims
