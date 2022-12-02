@@ -27,4 +27,6 @@ letters:
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1669905692/letters/y1/Next_Week_in_Year_1_WC_21.11.22_x0nndb.pdf
   - name: Next Week in Year 1 - W/C 28/11/22
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1669988090/letters/y1/Next_Week_in_Year_1_WC_28.11.22_bkjphi.pdf
+  - name: Next Week in Year 1 - W/C 5/12/22
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1669990844/letters/y1/Next_Week_in_Year_1_-_WC_5.12.22_sgm8yd.pdf
 ---
