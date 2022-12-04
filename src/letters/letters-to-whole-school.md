@@ -9,4 +9,6 @@ letters:
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670171476/letters/y2/E-safety_Advice_Fifa_23_q5jfmf.pdf
   - name: E-safety Advice - How to Combat Online Bullying
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670171569/letters/y2/E-safety_Advice_How_to_combat_Online_Bullying_alws8w.pdf
+  - name: Operation Encompass Letter 2022
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1670171677/letters/y2/Operation_Encompass_Letter_2022_rximgx.pdf
 ---
