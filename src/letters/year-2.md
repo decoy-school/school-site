@@ -25,4 +25,6 @@ letters:
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670170224/letters/y2/Next_Week_in_Year_2_-_WC_21.11.22_i4htyj.pdf
   - name: Y2 Stereotypes, True or False W/C 21/11/22
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670170658/letters/y2/Year_2_WC_21.11.22_Stereotypes_true_or_false_kri0cp.pdf
+  - name: Next Week in Year 2 - W/C 7/11/22
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1670170789/letters/y2/Next_Week_in_Year_2_WC_7.11.22_temqlb.pdf
 ---
