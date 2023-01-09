@@ -1,6 +1,8 @@
 ---
 title: Policies
 policies:
+  - name: Safeguarding 2022
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1673251127/policies/2022_Safeguarding_and_Child_Protection_Policy_zrzfgp.pdf
   - path: /uploads/2021-charging-and-remissions-policy.pdf
     name: Charging and Remissions
   - path: /uploads/2022-promoting-positive-behaviour-policy.pdf
@@ -75,8 +77,6 @@ policies:
     path: /uploads/chartwells-healthy-eating-policy.pdf
   - name: Complaints Policy and Procedures
     path: /uploads/2022-complaints-policy.pdf
-  - name: Safeguarding 2022
-    path: https://res.cloudinary.com/dkimqodar/image/upload/v1673251127/policies/2022_Safeguarding_and_Child_Protection_Policy_zrzfgp.pdf
 ---
 This page contains links to school policies. If you can't easily see what you're looking for, please try the <a href="/search" class="open-search">search</a>.
 
