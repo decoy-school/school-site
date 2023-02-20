@@ -9,4 +9,6 @@ letters:
     path: /uploads/y5-torquay-museum-letter-oct-2022.pdf
   - name: Y5 Space Dome
     path: /uploads/space-dome-y5-2022-1-.pdf
+  - name: Y5 Stover Canal Feb 2023
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1676888811/stover_canal_walk_letter_2023_ey9pgb.pdf
 ---
