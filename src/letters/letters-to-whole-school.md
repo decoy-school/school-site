@@ -15,4 +15,6 @@ letters:
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670171744/letters/y2/Operation_Encompass_Poster_1_e0hq7m.pdf
   - name: Operation Encompass Poster 2
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1670171796/letters/y2/Operation_Encompass_Poster_2_ram9us.pdf
+  - name: World Book Day March 2023
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1676889467/World_Book_Day_Letter_2023_bhrywn.pdf
 ---
