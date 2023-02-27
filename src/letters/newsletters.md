@@ -9,4 +9,6 @@ letters:
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1666101048/letters/newsletters/newsletter-3-260922_lgkqco.pdf
   - name: Newsletter 1 Spring Term
     path: https://res.cloudinary.com/dkimqodar/image/upload/v1673337980/Spring_1_Newsletter_1_spbmkw.pdf
+  - name: Newsletter 2 Spring Term
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1677505673/Spring_2_Newsletter_qmuotb.pdf
 ---
