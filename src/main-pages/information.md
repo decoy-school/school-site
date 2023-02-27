@@ -6,7 +6,7 @@ links:
     address: /contact-us
   - text: Admissions Arrangements
     address: /parents/admissions-information
-  - text: Ofsted Reports
+  - text: Ofsted Reports (previous)
     address: https://reports.ofsted.gov.uk/provider/21/113209
   - text: Ofsted - guidance for parents
     address: https://www.gov.uk/government/publications/school-inspections-a-guide-for-parents
