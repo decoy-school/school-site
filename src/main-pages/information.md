@@ -39,6 +39,8 @@ documents:
     path: /uploads/Decoy-COVID-19-Catch-Up-Premium-Plan.pdf
   - name: 2021-2022 Sports Premium Report
     path: /uploads/sports-grant-2021-2022.pdf
+  - name: Ofsted Report January 2023
+    path: https://res.cloudinary.com/dkimqodar/image/upload/v1677486396/documents/10226869_Decoy_Primary_School_113209_final_kkaroi.pdf
 ---
 
 The government defines [what maintained schools must publish online](https://www.gov.uk/guidance/what-maintained-schools-must-publish-online). This is to help parents make informed choices and to assist Ofsted in their evaluation of our school. The following statutory information is found on this site.
