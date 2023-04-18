@@ -2,20 +2,20 @@
 title: Job Vacancies
 layout: default.njk
 vacancies:
-  - heading: KS1 Class Teachers
-    text: W﻿e are currently looking to appoint a permanent teacher for KS1 from
-      January 2023, and a temporary teacher to cover maternity leave from
-      February 2023. Please see the documents below for further information and
-      an application form.
+  - heading: KS2 Class Teacher
+    text: "Required for September 2023, Decoy Community Primary School are looking
+      for an experienced, dynamic and dedicated class teacher, to work alongside
+      our experienced staff to help shape and continue to develop our ambitious
+      and strong curriculum.\r We are looking for a teacher with experience of
+      teaching in Year 6; an interest in mathematics and experience of teaching
+      for mastery is desirable.\r\n"
     documents:
-      - name: Class Teacher Advertisement
-        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668099408/vacancies/Teacher_advertisement_zeix7q.docx
-      - name: Person Specification
-        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668098981/vacancies/Person_spec_x1a60a.docx
-      - name: Job Description
-        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668098981/vacancies/Class_teacher_job_description_cexedn.docx
-      - name: Application Form
-        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1668098982/vacancies/Application_form_-_teaching_urjocz.docx
+      - name: KS2 Class Teacher Advertisment
+        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1681849285/vacancies/KS2_Teacher_advert_April_2023_l8hoeh.docx
+      - name: KS2 Class Teacher Job Description
+        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1681849284/vacancies/JD_and_Person_Spec_Y6_teacher_2023_xxsnff.docx
+      - name: Class Teacher Application Form
+        path: https://res.cloudinary.com/dkimqodar/raw/upload/v1681849284/vacancies/Teaching_Application_Form_2023_amplgr.docx
 ---
 
 {%if vacancies.length > 0%}
